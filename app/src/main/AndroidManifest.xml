@@ -13,6 +13,9 @@
         android:theme="@style/Theme.InsightCheck_HR"
         tools:targetApi="31">
         <activity
+            android:name=".NavBar"
+            android:exported="true" />
+        <activity
             android:name=".ForgetPassword"
             android:exported="false" />
         <activity

@@ -3,4 +3,6 @@
     <string name="forgot_password_msg">Enter your registered mail below to receive password reset instructions</string>
     <string name="email_sent">Please chck your inbox and click on the received link to reset a password</string>
     <string name="resend_text">Didn\'t receive the link? Resend</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
