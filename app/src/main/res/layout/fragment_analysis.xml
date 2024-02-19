@@ -8,8 +8,135 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Analysis"
-        android:textSize="26dp"
-        android:layout_gravity="center"/>
+        android:text="Enter the Details"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginTop="20sp"
+        android:layout_marginLeft="80sp"
+        android:layout_marginRight="50sp" />
+
+    <EditText
+        android:id="@+id/satisfactionLevelEditText"
+        android:layout_width="355dp"
+        android:layout_marginTop="70sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:textColor="@color/black"
+        android:hint="Satisfaction Level" />
+
+    <EditText
+        android:id="@+id/lastEvaluationEditText"
+        android:layout_width="355dp"
+        android:layout_marginTop="120sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:hint="Last Evaluation"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/numberProjectEditText"
+        android:layout_width="355dp"
+        android:layout_marginTop="170sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:hint="Number Of Projects"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/averageMonthlyHoursEditText"
+        android:layout_width="355dp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:layout_marginTop="220sp"
+        android:hint="Average Monthly Hours"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/timeSpendCompanyEditText"
+        android:layout_width="355dp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:layout_marginTop="270sp"
+        android:hint="Time Spend in Company"
+        android:textColor="@color/black"/>
+
+
+    <EditText
+        android:id="@+id/workAccidentEditText"
+        android:layout_width="355dp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:layout_marginTop="320sp"
+        android:hint="Work Accident"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/promotionLast5YearsEditText"
+        android:layout_width="355dp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:layout_marginTop="370sp"
+        android:hint="Promotion Last 5 Years"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/departmentsEditText"
+        android:layout_width="355dp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:layout_marginTop="420sp"
+        android:hint="Department"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/salaryEditText"
+        android:layout_width="355dp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_border"
+        android:layout_marginTop="470sp"
+        android:hint="Salary Range"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/predictButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/salaryEditText"
+        android:layout_marginTop="520dp"
+        android:layout_marginLeft="100sp"
+        android:background="@drawable/button_bg"
+        android:text="Predict" />
+
+    <TextView
+        android:id="@+id/predictionTextView"
+        android:layout_width="355dp"
+        android:layout_height="121dp"
+        android:layout_below="@id/predictButton"
+        android:layout_marginTop="580dp"
+        android:layout_marginRight="20sp"
+        android:layout_marginLeft="20sp"
+        android:text=""
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/black"/>
 
 </FrameLayout>
