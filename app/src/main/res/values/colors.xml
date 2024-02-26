@@ -11,4 +11,7 @@
     <color name="Purple40">#FF6650a4</color>
     <color name="PurpleGrey40">#FF625b71</color>
     <color name="Pink40">#FF7D5260</color>
+    <color name="green">#73AB6B</color>
+    <color name="dark_grey">#414042</color>
+    <color name="light_grey">#A99797</color>
 </resources>
