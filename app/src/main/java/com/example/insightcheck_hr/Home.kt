@@ -1,59 +1,111 @@
 package com.example.insightcheck_hr
 
+import CalendarAdapter
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageView
+import android.widget.TextView
+import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearSnapHelper
+import androidx.recyclerview.widget.RecyclerView
+import androidx.recyclerview.widget.SnapHelper
+import com.example.insightcheck_hr.CalendarDateModel
+import com.example.insightcheck_hr.R
+import java.util.Calendar
+import java.util.Date
+import java.util.Locale
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
+class Home : Fragment(), CalendarAdapter.onItemClickListener {
 
-/**
- * A simple [Fragment] subclass.
- * Use the [Home.newInstance] factory method to
- * create an instance of this fragment.
- */
-class Home : Fragment() {
-    // TODO: Rename and change types of parameters
-    private var param1: String? = null
-    private var param2: String? = null
+    private lateinit var recyclerView: RecyclerView
+    private lateinit var tvDateMonth: TextView
+    private lateinit var ivCalendarNext: ImageView
+    private lateinit var ivCalendarPrevious: ImageView
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        arguments?.let {
-            param1 = it.getString(ARG_PARAM1)
-            param2 = it.getString(ARG_PARAM2)
-        }
-    }
+    private val sdf = java.text.SimpleDateFormat("MMMM yyyy", Locale.ENGLISH)
+    private val cal = Calendar.getInstance(Locale.ENGLISH)
+    private val currentDate = Calendar.getInstance(Locale.ENGLISH)
+    private val dates = ArrayList<Date>()
+    private lateinit var adapter: CalendarAdapter
+    private val calendarList2 = ArrayList<CalendarDateModel>()
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_home, container, false)
+        val view = inflater.inflate(R.layout.fragment_home, container, false)
+
+        // Initialize views
+        tvDateMonth = view.findViewById(R.id.text_date_month)
+        recyclerView = view.findViewById(R.id.recyclerView)
+        ivCalendarNext = view.findViewById(R.id.iv_calendar_next)
+        ivCalendarPrevious = view.findViewById(R.id.iv_calendar_previous)
+        setUpAdapter()
+        ivCalendarNext.setOnClickListener {
+            cal.add(Calendar.MONTH, 1)
+            setUpCalendar()
+        }
+
+        ivCalendarPrevious.setOnClickListener {
+            cal.add(Calendar.MONTH, -1)
+            setUpCalendar()
+        }
+        setUpCalendar()
+
+        return view
     }
 
-    companion object {
-        /**
-         * Use this factory method to create a new instance of
-         * this fragment using the provided parameters.
-         *
-         * @param param1 Parameter 1.
-         * @param param2 Parameter 2.
-         * @return A new instance of fragment Home.
-         */
-        // TODO: Rename and change types and number of parameters
-        @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            Home().apply {
-                arguments = Bundle().apply {
-                    putString(ARG_PARAM1, param1)
-                    putString(ARG_PARAM2, param2)
-                }
+    override fun onItemClick(text: String, date: String, day: String) {
+        // Handle item click if needed
+    }
+
+    private fun setUpAdapter() {
+        val snapHelper: SnapHelper = LinearSnapHelper()
+        snapHelper.attachToRecyclerView(recyclerView)
+        adapter = CalendarAdapter { calendarDateModel: CalendarDateModel, position: Int ->
+            calendarList2.forEachIndexed { index, calendarModel ->
+                calendarModel.isSelected = index == position
             }
+            adapter.setData(calendarList2)
+            adapter.setOnItemClickListener(this)
+        }
+        recyclerView.adapter = adapter
+    }
+
+
+
+    private fun setUpCalendar() {
+        val calendarList = ArrayList<CalendarDateModel>()
+        tvDateMonth.text = sdf.format(cal.time)
+        val monthCalendar = cal.clone() as Calendar
+        val maxDaysInMonth = cal.getActualMaximum(Calendar.DAY_OF_MONTH)
+        dates.clear()
+        monthCalendar.set(Calendar.DAY_OF_MONTH, 1)
+
+        val currentMonth = currentDate.get(Calendar.MONTH)
+        val currentYear = currentDate.get(Calendar.YEAR)
+        val currentDay = currentDate.get(Calendar.DAY_OF_MONTH)
+
+        // Set calendar to the current date instead of the 1st day of the month
+        monthCalendar.set(Calendar.DAY_OF_MONTH, currentDay)
+
+        while (dates.size < maxDaysInMonth) {
+            dates.add(monthCalendar.time)
+
+            val isSelected = (
+                    monthCalendar.get(Calendar.MONTH) == currentMonth &&
+                            monthCalendar.get(Calendar.YEAR) == currentYear &&
+                            monthCalendar.get(Calendar.DAY_OF_MONTH) == currentDay
+                    )
+
+            calendarList.add(CalendarDateModel(monthCalendar.time, isSelected))
+            monthCalendar.add(Calendar.DAY_OF_MONTH, 1)
+        }
+        calendarList2.clear()
+        calendarList2.addAll(calendarList)
+        adapter.setOnItemClickListener(this)
+        adapter.setData(calendarList)
     }
 }
