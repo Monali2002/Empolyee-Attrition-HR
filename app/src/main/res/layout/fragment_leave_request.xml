@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Notifications">
+    tools:context=".LeaveRequest">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -12,263 +12,23 @@
 
         <TextView
             android:id="@+id/notifications_header"
-            android:layout_width="311dp"
-            android:layout_height="33dp"
-            android:layout_marginStart="33dp"
-            android:layout_marginTop="67dp"
+            android:layout_width="248dp"
+            android:layout_height="28dp"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="55dp"
             android:fontFamily="@font/alegreya_sans_bold"
-            android:text="Notification"
+            android:text="Leave Request"
             android:textSize="20sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/cardView1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="136dp"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent">
-
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
-
-                <ImageView
-                    android:id="@+id/imageView3"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginTop="5dp"
-                    android:src="@drawable/notification_img"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView18"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="62dp"
-                    android:layout_marginTop="5dp"
-                    android:fontFamily="sans-serif-black"
-                    android:text="Mitali Pawar"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView19"
-                    android:layout_width="244dp"
-                    android:layout_height="32dp"
-                    android:layout_marginStart="62dp"
-                    android:layout_marginTop="25dp"
-                    android:fontFamily="@font/roboto_regular"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet, consectetur adipiscing elit.  "
-                    android:textSize="10sp"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView20"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="15dp"
-                    android:layout_marginEnd="10dp"
-                    android:fontFamily="@font/inter_medium"
-                    android:text="15 hrs. ago"
-                    android:textColor="#6C6C6C"
-                    android:textSize="12sp"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-            </androidx.constraintlayout.widget.ConstraintLayout>
-        </androidx.cardview.widget.CardView>
-
-        <androidx.cardview.widget.CardView
-            android:id="@+id/cardView2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/cardView1">
-
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
-
-                <ImageView
-                    android:id="@+id/imageView4"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginTop="5dp"
-                    android:src="@drawable/notification_img"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView21"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="62dp"
-                    android:layout_marginTop="5dp"
-                    android:fontFamily="sans-serif-black"
-                    android:text="Monali Pawar"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView22"
-                    android:layout_width="244dp"
-                    android:layout_height="32dp"
-                    android:layout_marginStart="62dp"
-                    android:layout_marginTop="25dp"
-                    android:fontFamily="@font/roboto_regular"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet, consectetur adipiscing elit.  "
-                    android:textSize="10sp"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView23"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="15dp"
-                    android:layout_marginEnd="10dp"
-                    android:fontFamily="@font/inter_medium"
-                    android:text="15 hrs. ago"
-                    android:textColor="#6C6C6C"
-                    android:textSize="12sp"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-            </androidx.constraintlayout.widget.ConstraintLayout>
-        </androidx.cardview.widget.CardView>
-
-        <androidx.cardview.widget.CardView
-            android:id="@+id/cardView3"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/cardView2">
-
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
-
-                <ImageView
-                    android:id="@+id/imageView5"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginTop="5dp"
-                    android:src="@drawable/notification_img"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView24"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="62dp"
-                    android:layout_marginTop="5dp"
-                    android:fontFamily="sans-serif-black"
-                    android:text="Sneha Sah"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView25"
-                    android:layout_width="244dp"
-                    android:layout_height="32dp"
-                    android:layout_marginStart="62dp"
-                    android:layout_marginTop="25dp"
-                    android:fontFamily="@font/roboto_regular"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet, consectetur adipiscing elit.  "
-                    android:textSize="10sp"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView26"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="15dp"
-                    android:layout_marginEnd="10dp"
-                    android:fontFamily="@font/inter_medium"
-                    android:text="15 hrs. ago"
-                    android:textColor="#6C6C6C"
-                    android:textSize="12sp"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-            </androidx.constraintlayout.widget.ConstraintLayout>
-        </androidx.cardview.widget.CardView>
-
-        <androidx.cardview.widget.CardView
-            android:id="@+id/cardView4"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/cardView3">
-
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
-
-                <ImageView
-                    android:id="@+id/imageView6"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginTop="5dp"
-                    android:src="@drawable/notification_img"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView27"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="62dp"
-                    android:layout_marginTop="5dp"
-                    android:fontFamily="sans-serif-black"
-                    android:text="Prachi Panande"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView28"
-                    android:layout_width="244dp"
-                    android:layout_height="32dp"
-                    android:layout_marginStart="62dp"
-                    android:layout_marginTop="25dp"
-                    android:fontFamily="@font/roboto_regular"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet, consectetur adipiscing elit.  "
-                    android:textSize="10sp"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-
-                <TextView
-                    android:id="@+id/textView29"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="15dp"
-                    android:layout_marginEnd="10dp"
-                    android:fontFamily="@font/inter_medium"
-                    android:text="15 hrs. ago"
-                    android:textColor="#6C6C6C"
-                    android:textSize="12sp"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-            </androidx.constraintlayout.widget.ConstraintLayout>
-        </androidx.cardview.widget.CardView>
-
-        <androidx.cardview.widget.CardView
             android:id="@+id/cardView7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="112dp"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/cardView4">
+            app:layout_constraintTop_toTopOf="parent">
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
@@ -291,7 +51,7 @@
                     android:layout_marginStart="62dp"
                     android:layout_marginTop="5dp"
                     android:fontFamily="sans-serif-black"
-                    android:text="Sneha Sah"
+                    android:text="Mitali Pawar"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -319,9 +79,326 @@
                     android:textSize="12sp"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
+
+                <Button
+                    android:id="@+id/button1"
+                    android:layout_width="103dp"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="85dp"
+                    android:layout_marginTop="5dp"
+                    android:backgroundColor="#42FF00"
+                    android:fontFamily="@font/roboto_regular"
+                    android:padding="0dp"
+                    android:text="Accept"
+                    android:textColor="#ffffff"
+                    android:textColorHighlight="#000000"
+                    android:textSize="12sp"
+                    app:cornerRadius="15dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView31" />
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="103dp"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="224dp"
+                    android:layout_marginTop="5dp"
+                    android:backgroundColor="#FF5858"
+                    android:fontFamily="@font/roboto_regular"
+                    android:padding="0dp"
+                    android:text="Reject"
+                    android:textColor="#ffffff"
+                    android:textColorHighlight="#000000"
+                    android:textSize="12sp"
+                    app:cornerRadius="15dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView31" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/cardView7">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imageView8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:src="@drawable/notification_img"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView33"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="62dp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="Monali Pawar"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView34"
+                    android:layout_width="244dp"
+                    android:layout_height="32dp"
+                    android:layout_marginStart="62dp"
+                    android:layout_marginTop="25dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet, consectetur adipiscing elit.  "
+                    android:textSize="10sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView35"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="10dp"
+                    android:fontFamily="@font/inter_medium"
+                    android:text="15 hrs. ago"
+                    android:textColor="#6C6C6C"
+                    android:textSize="12sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <Button
+                    android:id="@+id/button3"
+                    android:layout_width="103dp"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="85dp"
+                    android:layout_marginTop="5dp"
+                    android:backgroundColor="#42FF00"
+                    android:fontFamily="@font/roboto_regular"
+                    android:padding="0dp"
+                    android:text="Accept"
+                    android:textColor="#ffffff"
+                    android:textColorHighlight="#000000"
+                    android:textSize="12sp"
+                    app:cornerRadius="15dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView34" />
+
+                <Button
+                    android:id="@+id/button4"
+                    android:layout_width="103dp"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="224dp"
+                    android:layout_marginTop="5dp"
+                    android:backgroundColor="#FF5858"
+                    android:fontFamily="@font/roboto_regular"
+                    android:padding="0dp"
+                    android:text="Reject"
+                    android:textColor="#ffffff"
+                    android:textColorHighlight="#000000"
+                    android:textSize="12sp"
+                    app:cornerRadius="15dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView34" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/cardView8">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imageView9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:src="@drawable/notification_img"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView36"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="62dp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="Sneha Sah"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView37"
+                    android:layout_width="244dp"
+                    android:layout_height="32dp"
+                    android:layout_marginStart="62dp"
+                    android:layout_marginTop="25dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet, consectetur adipiscing elit.  "
+                    android:textSize="10sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView38"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="10dp"
+                    android:fontFamily="@font/inter_medium"
+                    android:text="15 hrs. ago"
+                    android:textColor="#6C6C6C"
+                    android:textSize="12sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <Button
+                    android:id="@+id/button5"
+                    android:layout_width="103dp"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="85dp"
+                    android:layout_marginTop="5dp"
+                    android:backgroundColor="#42FF00"
+                    android:fontFamily="@font/roboto_regular"
+                    android:padding="0dp"
+                    android:text="Accept"
+                    android:textColor="#ffffff"
+                    android:textColorHighlight="#000000"
+                    android:textSize="12sp"
+                    app:cornerRadius="15dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView37" />
+
+                <Button
+                    android:id="@+id/button6"
+                    android:layout_width="103dp"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="224dp"
+                    android:layout_marginTop="5dp"
+                    android:backgroundColor="#FF5858"
+                    android:fontFamily="@font/roboto_regular"
+                    android:padding="0dp"
+                    android:text="Reject"
+                    android:textColor="#ffffff"
+                    android:textColorHighlight="#000000"
+                    android:textSize="12sp"
+                    app:cornerRadius="15dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView37" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/cardView9">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:src="@drawable/notification_img"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView39"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="62dp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="Prachi Panande"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView40"
+                    android:layout_width="244dp"
+                    android:layout_height="32dp"
+                    android:layout_marginStart="62dp"
+                    android:layout_marginTop="25dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet, consectetur adipiscing elit.  "
+                    android:textSize="10sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textView41"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="10dp"
+                    android:fontFamily="@font/inter_medium"
+                    android:text="15 hrs. ago"
+                    android:textColor="#6C6C6C"
+                    android:textSize="12sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <Button
+                    android:id="@+id/button7"
+                    android:layout_width="103dp"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="85dp"
+                    android:layout_marginTop="5dp"
+                    android:backgroundColor="#42FF00"
+                    android:fontFamily="@font/roboto_regular"
+                    android:padding="0dp"
+                    android:text="Accept"
+                    android:textColor="#ffffff"
+                    android:textColorHighlight="#000000"
+                    android:textSize="12sp"
+                    app:cornerRadius="15dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView40" />
+
+                <Button
+                    android:id="@+id/button8"
+                    android:layout_width="103dp"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="224dp"
+                    android:layout_marginTop="5dp"
+                    android:backgroundColor="#FF5858"
+                    android:fontFamily="@font/roboto_regular"
+                    android:padding="0dp"
+                    android:text="Reject"
+                    android:textColor="#ffffff"
+                    android:textColorHighlight="#000000"
+                    android:textSize="12sp"
+                    app:cornerRadius="15dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView40" />
             </androidx.constraintlayout.widget.ConstraintLayout>
         </androidx.cardview.widget.CardView>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
 
 </FrameLayout>
