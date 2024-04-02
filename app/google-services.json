@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1021200445684",
+    "project_id": "insight-check-employee",
+    "storage_bucket": "insight-check-employee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021200445684:android:8f7dba172d14ad1c15aea1",
+        "android_client_info": {
+          "package_name": "com.example.insightcheck_hr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021200445684-m03v280itc0ek0nal7joocov4gut0hsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEaLAGyPaBBXIQ1caU6nBo_hLl-VrYXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021200445684-m03v280itc0ek0nal7joocov4gut0hsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021200445684:android:2ea87248d73eb98415aea1",
+        "android_client_info": {
+          "package_name": "com.example.insightcheckemployee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021200445684-2jfq9ou1dkra8naseciv81vvs0j4147h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insightcheckemployee",
+            "certificate_hash": "016c18a17818a3eb68143b653814111ff8f6831b"
+          }
+        },
+        {
+          "client_id": "1021200445684-m03v280itc0ek0nal7joocov4gut0hsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEaLAGyPaBBXIQ1caU6nBo_hLl-VrYXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021200445684-m03v280itc0ek0nal7joocov4gut0hsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
