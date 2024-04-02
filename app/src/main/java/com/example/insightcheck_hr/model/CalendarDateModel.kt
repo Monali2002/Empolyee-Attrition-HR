@@ -1,4 +1,4 @@
-package com.example.insightcheck_hr
+package com.example.insightcheck_hr.model
 import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Date

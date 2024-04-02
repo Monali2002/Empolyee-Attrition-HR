@@ -1,5 +1,7 @@
-package com.example.insightcheck_hr
+package com.example.insightcheck_hr.fragments
 
+
+import android.graphics.Color
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -9,22 +11,17 @@ import android.os.AsyncTask
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import com.github.mikephil.charting.charts.PieChart
+import com.github.mikephil.charting.data.PieData
+import com.github.mikephil.charting.data.PieDataSet
+import com.github.mikephil.charting.data.PieEntry
+import com.example.insightcheck_hr.R
 import org.json.JSONException
 import org.json.JSONObject
 import java.io.OutputStream
 import java.net.HttpURLConnection
 import java.net.URL
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
-
-/**
- * A simple [Fragment] subclass.
- * Use the [Analysis.newInstance] factory method to
- * create an instance of this fragment.
- */
 class Analysis : Fragment() {
 
     private lateinit var satisfactionLevelEditText: EditText
@@ -38,25 +35,20 @@ class Analysis : Fragment() {
     private lateinit var salaryEditText: EditText
     private lateinit var predictButton: Button
     private lateinit var predictionTextView: TextView
-
-    // TODO: Rename and change types of parameters
-//    private var param1: String? = null
-//    private var param2: String? = null
-
-//    override fun onCreate(savedInstanceState: Bundle?) {
-//        super.onCreate(savedInstanceState)
-//        arguments?.let {
-//            param1 = it.getString(ARG_PARAM1)
-//            param2 = it.getString(ARG_PARAM2)
-//        }
-//    }
+    private lateinit var pieChart: PieChart
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
         val view = inflater.inflate(R.layout.fragment_analysis, container, false)
+        pieChart = view.findViewById(R.id.pie_chart)
+        preparePieChartData()
+
+        // Customize pie chart appearance (optional)
+        pieChart.description.isEnabled = false
+        pieChart.isRotationEnabled = true
+        pieChart.animateY(1400)
 
         satisfactionLevelEditText = view.findViewById(R.id.satisfactionLevelEditText)
         lastEvaluationEditText = view.findViewById(R.id.lastEvaluationEditText)
@@ -96,9 +88,9 @@ class Analysis : Fragment() {
 
             MakePredictionTask().execute(jsonData)
         }
+
         return view
     }
-
     private inner class MakePredictionTask : AsyncTask<String, Void, String>() {
         override fun doInBackground(vararg params: String?): String {
             val apiUrl = "https://178a-2401-4900-1c96-b2a6-bd06-b96-3a2f-dc79.ngrok-free.app/predict"  // Update with your server URL
@@ -121,7 +113,6 @@ class Analysis : Fragment() {
                 "Error: $responseCode"
             }
         }
-
         override fun onPostExecute(result: String?) {
             super.onPostExecute(result)
             try {
@@ -139,6 +130,31 @@ class Analysis : Fragment() {
                 predictionTextView.text = "Error parsing prediction result"
             }
         }
+    }
+
+    private fun preparePieChartData() {
+        val entries = ArrayList<PieEntry>()
+
+        // Add each data point with its label and value
+        entries.add(PieEntry(40f, "Sales"))
+        entries.add(PieEntry(30f, "Marketing"))
+        entries.add(PieEntry(30f, "Development"))
+
+        val dataSet = PieDataSet(entries, "Departments")
+
+        // Set colors for each slice (optional)
+        val colors = ArrayList<Int>()
+        colors.add(Color.parseColor("#FFC107"))
+        colors.add(Color.parseColor("#F44336"))
+        colors.add(Color.parseColor("#2ECC71"))
+        // ... add more colors as needed
+        dataSet.colors = colors
+
+        val data = PieData(dataSet)
+        data.setValueTextSize(14f)
+        data.setValueTextColor(Color.BLACK)
+
+        pieChart.data = data
     }
 
 }

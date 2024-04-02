@@ -14,4 +14,9 @@
     <color name="green">#73AB6B</color>
     <color name="dark_grey">#414042</color>
     <color name="light_grey">#A99797</color>
-</resources>
+    <color name="primary_dark">#2196F3</color>
+    <color name="text_secondary">#757575</color>
+    <color name="pie_chart_slice_1">#FFC107</color>
+    <color name="pie_chart_slice_2">#F44336</color>
+
+    </resources>

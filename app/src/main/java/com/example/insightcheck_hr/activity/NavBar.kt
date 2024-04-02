@@ -1,9 +1,15 @@
-package com.example.insightcheck_hr
+package com.example.insightcheck_hr.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
+import com.example.insightcheck_hr.R
 import com.example.insightcheck_hr.databinding.ActivityNavBarBinding
+import com.example.insightcheck_hr.fragments.Analysis
+import com.example.insightcheck_hr.fragments.Home
+import com.example.insightcheck_hr.fragments.Notifications
+import com.example.insightcheck_hr.fragments.Profile
+import com.example.insightcheck_hr.fragments.Search
 
 class NavBar : AppCompatActivity() {
 

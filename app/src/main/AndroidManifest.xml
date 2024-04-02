@@ -14,8 +14,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.InsightCheck_HR"
         tools:targetApi="31">
+
         <activity
-            android:name=".NavBar"
+            android:name=".activity.NavBar"
             android:exported="true">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
@@ -23,24 +24,20 @@
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
         </activity>
-
         <activity
-            android:name=".ForgetPassword"
+            android:name=".activity.LoginPage"
             android:exported="false" />
         <activity
-            android:name=".LoginPage"
+            android:name=".activity.SignUpPage"
             android:exported="false" />
         <activity
-            android:name=".SignUpPage"
+            android:name=".activity.Verification"
             android:exported="false" />
         <activity
-            android:name=".Verification"
+            android:name=".activity.SplashScreen"
             android:exported="false" />
         <activity
-            android:name=".SplashScreen"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:exported="true" />
 
         <meta-data

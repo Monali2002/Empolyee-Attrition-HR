@@ -1,11 +1,12 @@
-package com.example.insightcheck_hr
+package com.example.insightcheck_hr.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.insightcheck_hr.R
 
-class ForgetPassword : AppCompatActivity() {
+class SignUpPage : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_forget_password)
+        setContentView(R.layout.activity_sign_up_page)
     }
 }
