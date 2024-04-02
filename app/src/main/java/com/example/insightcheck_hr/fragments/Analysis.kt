@@ -154,7 +154,10 @@ class Analysis : Fragment() {
         data.setValueTextSize(14f)
         data.setValueTextColor(Color.BLACK)
 
-        pieChart.data = data
+        activity?.runOnUiThread {
+            // Update PieChart UI here
+            pieChart.data = data
+            pieChart.invalidate() // Refresh chart
+        }
     }
-
 }
