@@ -16,7 +16,7 @@
     <color name="light_grey">#A99797</color>
     <color name="primary_dark">#2196F3</color>
     <color name="text_secondary">#757575</color>
-    <color name="pie_chart_slice_1">#FFC107</color>
-    <color name="pie_chart_slice_2">#F44336</color>
+    <color name="dark_blue">#32357a</color>
+    <color name="light_blue">#f2f1f6</color>
 
     </resources>

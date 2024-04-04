@@ -42,7 +42,7 @@ class Analysis : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         val view = inflater.inflate(R.layout.fragment_analysis, container, false)
-        pieChart = view.findViewById(R.id.pie_chart)
+        pieChart = view.findViewById(R.id.pie_chart1)
         preparePieChartData()
 
         // Customize pie chart appearance (optional)
@@ -120,14 +120,18 @@ class Analysis : Fragment() {
                 val prediction = jsonResponse.getString("prediction")
 
                 // Update UI based on the prediction
-                if (prediction == "An Employee may leave the organization") {
-                    predictionTextView.text = "Employee may leave the organization"
-                } else {
-                    predictionTextView.text = "Employee may stay with the organization"
+                activity?.runOnUiThread {
+                    if (prediction == "An Employee may leave the organization") {
+                        predictionTextView.text = "Employee may leave the organization"
+                    } else {
+                        predictionTextView.text = "Employee may stay with the organization"
+                    }
                 }
             } catch (e: JSONException) {
                 e.printStackTrace()
-                predictionTextView.text = "Error parsing prediction result"
+                activity?.runOnUiThread {
+                    predictionTextView.text = "Error parsing prediction result"
+                }
             }
         }
     }
@@ -136,22 +140,36 @@ class Analysis : Fragment() {
         val entries = ArrayList<PieEntry>()
 
         // Add each data point with its label and value
-        entries.add(PieEntry(40f, "Sales"))
-        entries.add(PieEntry(30f, "Marketing"))
-        entries.add(PieEntry(30f, "Development"))
+        entries.add(PieEntry(27f, "Sales"))
+        entries.add(PieEntry(3.6f, "Management"))
+        entries.add(PieEntry(5.0f, "HR"))
+        entries.add(PieEntry(5.2f, "Accounting"))
+        entries.add(PieEntry(5.6f, "Marketing"))
+        entries.add(PieEntry(5.7f, "Product_Mng"))
+        entries.add(PieEntry(5.8f, "R&D"))
+        entries.add(PieEntry(8.1f, "IT"))
+        entries.add(PieEntry(15.2f, "Support"))
+        entries.add(PieEntry(18.7f, "Technical"))
 
         val dataSet = PieDataSet(entries, "Departments")
 
-        // Set colors for each slice (optional)
+
         val colors = ArrayList<Int>()
-        colors.add(Color.parseColor("#FFC107"))
-        colors.add(Color.parseColor("#F44336"))
-        colors.add(Color.parseColor("#2ECC71"))
-        // ... add more colors as needed
+        colors.add(Color.parseColor("#df6dff"))
+        colors.add(Color.parseColor("#ff6bc7"))
+        colors.add(Color.parseColor("#ff7670"))
+        colors.add(Color.parseColor("#ffc16c"))
+        colors.add(Color.parseColor("#ddff6c"))
+        colors.add(Color.parseColor("#8bff6a"))
+        colors.add(Color.parseColor("#6dffac"))
+        colors.add(Color.parseColor("#6bffff"))
+        colors.add(Color.parseColor("#6eaaff"))
+        colors.add(Color.parseColor("#8b6dff"))
+
         dataSet.colors = colors
 
         val data = PieData(dataSet)
-        data.setValueTextSize(14f)
+        data.setValueTextSize(8f)
         data.setValueTextColor(Color.BLACK)
 
         activity?.runOnUiThread {
@@ -160,4 +178,5 @@ class Analysis : Fragment() {
             pieChart.invalidate() // Refresh chart
         }
     }
+
 }

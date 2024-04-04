@@ -1,6 +1,7 @@
 package com.example.insightcheck_hr.fragments
 
 
+import android.graphics.Color
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -14,6 +15,11 @@ import androidx.recyclerview.widget.SnapHelper
 import com.example.insightcheck_hr.model.CalendarDateModel
 import com.example.insightcheck_hr.R
 import com.example.insightcheck_hr.adapter.CalendarAdapter
+import com.github.mikephil.charting.charts.BarChart
+import com.github.mikephil.charting.components.XAxis
+import com.github.mikephil.charting.data.BarData
+import com.github.mikephil.charting.data.BarDataSet
+import com.github.mikephil.charting.data.BarEntry
 import java.util.Calendar
 import java.util.Date
 import java.util.Locale
@@ -24,6 +30,8 @@ class Home : Fragment(), CalendarAdapter.onItemClickListener {
     private lateinit var tvDateMonth: TextView
     private lateinit var ivCalendarNext: ImageView
     private lateinit var ivCalendarPrevious: ImageView
+    private lateinit var barChart: BarChart
+
 
     private val sdf = java.text.SimpleDateFormat("MMMM yyyy", Locale.ENGLISH)
     private val cal = Calendar.getInstance(Locale.ENGLISH)
@@ -37,6 +45,33 @@ class Home : Fragment(), CalendarAdapter.onItemClickListener {
         savedInstanceState: Bundle?
     ): View? {
         val view = inflater.inflate(R.layout.fragment_home, container, false)
+        barChart = view.findViewById(R.id.bar_chart)
+        val entries = ArrayList<BarEntry>()
+        entries.add(BarEntry(2500f, 0f, "Sales"))
+        entries.add(BarEntry(2000f, 1f, "Accounting"))
+        entries.add(BarEntry(1500f, 2f, "HR"))
+        entries.add(BarEntry(1800f, 3f, "Marketing"))
+
+        val barDataSet = BarDataSet(entries, "Employee Count by Department")
+        barDataSet.setColors(
+            Color.parseColor("#FFC107"), // Sales - Orange
+            Color.parseColor("#F44336"), // Accounting - Red
+            Color.parseColor("#2ECC71"), // HR - Green
+            Color.parseColor("#3498DB")  // Marketing - Blue
+        )
+        barDataSet.setValueTextSize(16f)
+//        barDataSet.barWidth = 0.6f// Adjust data label size (optional)
+
+        val barData = BarData(barDataSet)
+
+        barChart.data = barData
+        barChart.description.isEnabled = false // Hide chart description
+        barChart.animateY(1500) // Animate bar entry appearance
+        barChart.xAxis.position = XAxis.XAxisPosition.BOTTOM // Set x-axis position
+
+        // Remove grid lines
+        barChart.axisLeft.setDrawGridLines(false) // Disable left y-axis grid lines
+        barChart.xAxis.setDrawGridLines(false)
 
         // Initialize views
         tvDateMonth = view.findViewById(R.id.text_date_month)

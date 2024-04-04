@@ -176,13 +176,13 @@
         <TextView
         android:id="@+id/predictionTextView"
         android:layout_width="355dp"
-        android:layout_height="121dp"
+        android:layout_height="80dp"
         android:layout_below="@id/predictButton"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20sp"
         android:layout_marginTop="16dp"
         android:text=""
-        android:textSize="30sp"
+        android:textSize="15sp"
         android:textStyle="bold"
         android:gravity="center"
         android:textColor="@color/black"
@@ -190,16 +190,29 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
 
-    <com.github.mikephil.charting.charts.PieChart
-        android:id="@+id/pie_chart"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginTop="20sp"
-        android:layout_marginStart="20sp"
-        android:layout_marginEnd="20sp"
-        app:layout_constraintTop_toBottomOf="@id/predictionTextView"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/pie_chart1"
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:layout_marginStart="20sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.502"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/predictionTextView" />
+
+<!--        <com.github.mikephil.charting.charts.PieChart-->
+<!--            android:id="@+id/pie_chart2"-->
+<!--            android:layout_width="200dp"-->
+<!--            android:layout_height="100dp"-->
+<!--            android:layout_marginStart="20sp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:layout_marginEnd="20sp"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintHorizontal_bias="0.497"-->
+<!--            app:layout_constraintStart_toStartOf="parent"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/pie_chart1" />-->
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
