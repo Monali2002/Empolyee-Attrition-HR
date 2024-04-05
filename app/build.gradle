@@ -4,7 +4,7 @@ plugins {
     id 'com.google.gms.google-services'
 }
 
-android {
+android {  
     namespace 'com.example.insightcheck_hr'
     compileSdk 33
 
