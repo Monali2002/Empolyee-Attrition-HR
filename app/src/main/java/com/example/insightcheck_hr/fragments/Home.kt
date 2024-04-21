@@ -1,11 +1,13 @@
 package com.example.insightcheck_hr.fragments
 
 
+import android.content.Intent
 import android.graphics.Color
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.fragment.app.Fragment
@@ -14,6 +16,7 @@ import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.SnapHelper
 import com.example.insightcheck_hr.model.CalendarDateModel
 import com.example.insightcheck_hr.R
+import com.example.insightcheck_hr.activity.LeaveRequest
 import com.example.insightcheck_hr.adapter.CalendarAdapter
 import com.github.mikephil.charting.charts.BarChart
 import com.github.mikephil.charting.components.XAxis
@@ -33,6 +36,7 @@ class Home : Fragment(), CalendarAdapter.onItemClickListener {
     private lateinit var ivCalendarNext: ImageView
     private lateinit var ivCalendarPrevious: ImageView
     private lateinit var barChart: BarChart
+    private lateinit var leaveRequestbtn: Button
     lateinit var barDataSet1: BarDataSet
     lateinit var barDataSet2: BarDataSet
 
@@ -55,11 +59,18 @@ class Home : Fragment(), CalendarAdapter.onItemClickListener {
     ): View? {
         val view = inflater.inflate(R.layout.fragment_home, container, false)
         barChart = view.findViewById(R.id.bar_chart)
+        leaveRequestbtn = view.findViewById(R.id.leaveRequestbtn)
         // on below line we are creating a new bar data set
         barDataSet1 = BarDataSet(getBarChartDataForSet1(), "Present")
         barDataSet1.setColor(resources.getColor(R.color.Purple40))
         barDataSet2 = BarDataSet(getBarChartDataForSet2(), "Left")
         barDataSet2.setColor(resources.getColor(R.color.purple80))
+
+
+        leaveRequestbtn.setOnClickListener {
+            val intent = Intent(activity, LeaveRequest::class.java)
+            startActivity(intent)
+        }
 
         // on below line we are adding bar data set to bar data
         var data = BarData(barDataSet1, barDataSet2)
