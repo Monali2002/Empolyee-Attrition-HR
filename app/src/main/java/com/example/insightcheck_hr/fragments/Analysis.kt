@@ -1,182 +1,76 @@
 package com.example.insightcheck_hr.fragments
 
 
-import android.graphics.Color
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.os.AsyncTask
 import android.widget.Button
-import android.widget.EditText
-import android.widget.TextView
-import com.github.mikephil.charting.charts.PieChart
-import com.github.mikephil.charting.data.PieData
-import com.github.mikephil.charting.data.PieDataSet
-import com.github.mikephil.charting.data.PieEntry
+import android.widget.LinearLayout
 import com.example.insightcheck_hr.R
-import org.json.JSONException
-import org.json.JSONObject
-import java.io.OutputStream
-import java.net.HttpURLConnection
-import java.net.URL
+import com.example.insightcheck_hr.activity.DepartmentAnalysis
+import com.example.insightcheck_hr.activity.Prediction
+import com.example.insightcheck_hr.activity.ProjectAnalysis
+import com.example.insightcheck_hr.activity.PromotionAnalysis
+import com.example.insightcheck_hr.activity.SalaryAnalysis
+import com.example.insightcheck_hr.activity.WorkAccidentAnalysis
+import com.example.insightcheck_hr.activity.timeSpentAnalysis
 
 class Analysis : Fragment() {
 
-    private lateinit var satisfactionLevelEditText: EditText
-    private lateinit var lastEvaluationEditText: EditText
-    private lateinit var numberProjectEditText: EditText
-    private lateinit var averageMonthlyHoursEditText: EditText
-    private lateinit var timeSpendCompanyEditText: EditText
-    private lateinit var workAccidentEditText: EditText
-    private lateinit var promotionLast5YearsEditText: EditText
-    private lateinit var departmentsEditText: EditText
-    private lateinit var salaryEditText: EditText
+
+    private lateinit var departmentLayout: LinearLayout
+    private lateinit var projectLayout: LinearLayout
+    private lateinit var salaryLayout: LinearLayout
+    private lateinit var timeSpentLayout: LinearLayout
+    private lateinit var promotionLayout: LinearLayout
+    private lateinit var workAccidentLayout: LinearLayout
     private lateinit var predictButton: Button
-    private lateinit var predictionTextView: TextView
-    private lateinit var pieChart: PieChart
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         val view = inflater.inflate(R.layout.fragment_analysis, container, false)
-        pieChart = view.findViewById(R.id.pie_chart1)
-        preparePieChartData()
 
-        // Customize pie chart appearance (optional)
-        pieChart.description.isEnabled = false
-        pieChart.isRotationEnabled = true
-        pieChart.animateY(1400)
+        departmentLayout = view.findViewById(R.id.departmentlayout)
+        projectLayout = view.findViewById(R.id.projectlayout)
+        salaryLayout = view.findViewById(R.id.salarylayout)
+        timeSpentLayout = view.findViewById(R.id.timespentlayout)
+        promotionLayout = view.findViewById(R.id.promotionlayout)
+        workAccidentLayout = view.findViewById(R.id.workaccidentlayout)
+        predictButton = view.findViewById(R.id.predictbutton)
 
-        satisfactionLevelEditText = view.findViewById(R.id.satisfactionLevelEditText)
-        lastEvaluationEditText = view.findViewById(R.id.lastEvaluationEditText)
-        numberProjectEditText = view.findViewById(R.id.numberProjectEditText)
-        averageMonthlyHoursEditText = view.findViewById(R.id.averageMonthlyHoursEditText)
-        timeSpendCompanyEditText = view.findViewById(R.id.timeSpendCompanyEditText)
-        workAccidentEditText = view.findViewById(R.id.workAccidentEditText)
-        promotionLast5YearsEditText = view.findViewById(R.id.promotionLast5YearsEditText)
-        departmentsEditText = view.findViewById(R.id.departmentsEditText)
-        salaryEditText = view.findViewById(R.id.salaryEditText)
-        predictButton = view.findViewById(R.id.predictButton)
-        predictionTextView = view.findViewById(R.id.predictionTextView)
+        departmentLayout.setOnClickListener {
+            startActivity(Intent(context, DepartmentAnalysis::class.java))
+        }
+
+        projectLayout.setOnClickListener {
+            startActivity(Intent(context, ProjectAnalysis::class.java))
+        }
+
+        salaryLayout.setOnClickListener {
+            startActivity(Intent(context, SalaryAnalysis::class.java))
+        }
+
+        timeSpentLayout.setOnClickListener {
+            startActivity(Intent(context, timeSpentAnalysis::class.java))
+        }
+
+        promotionLayout.setOnClickListener {
+            startActivity(Intent(context, PromotionAnalysis::class.java))
+        }
+
+        workAccidentLayout.setOnClickListener {
+            startActivity(Intent(context, WorkAccidentAnalysis::class.java))
+        }
 
         predictButton.setOnClickListener {
-            val satisfactionLevel = satisfactionLevelEditText.text.toString()
-            val lastEvaluation = lastEvaluationEditText.text.toString()
-            val numberProject = numberProjectEditText.text.toString()
-            val averageMonthlyHours = averageMonthlyHoursEditText.text.toString()
-            val timeSpendCompany = timeSpendCompanyEditText.text.toString()
-            val workAccident = workAccidentEditText.text.toString()
-            val promotionLast5Years = promotionLast5YearsEditText.text.toString()
-            val departments = departmentsEditText.text.toString()
-            val salary = salaryEditText.text.toString()
-
-
-            val jsonData = """{
-                "satisfaction_level": $satisfactionLevel,
-                "last_evaluation": $lastEvaluation,
-                "number_project": $numberProject,
-                "average_monthly_hours": $averageMonthlyHours,
-                "time_spend_company": $timeSpendCompany,
-                "Work_accident": $workAccident,
-                "promotion_last_5years": $promotionLast5Years,
-                "departments ": "$departments",
-                "salary": "$salary"
-            }"""
-
-            MakePredictionTask().execute(jsonData)
+            startActivity(Intent(context, Prediction::class.java))
         }
 
         return view
     }
-    private inner class MakePredictionTask : AsyncTask<String, Void, String>() {
-        override fun doInBackground(vararg params: String?): String {
-            val apiUrl = "https://178a-2401-4900-1c96-b2a6-bd06-b96-3a2f-dc79.ngrok-free.app/predict"  // Update with your server URL
-            val jsonData = params[0]
-
-            val url = URL(apiUrl)
-            val connection = url.openConnection() as HttpURLConnection
-            connection.requestMethod = "POST"
-            connection.setRequestProperty("Content-Type", "application/json")
-            connection.doOutput = true
-
-            val outputStream: OutputStream = connection.outputStream
-            outputStream.write(jsonData?.toByteArray())
-            outputStream.flush()
-
-            val responseCode = connection.responseCode
-            return if (responseCode == HttpURLConnection.HTTP_OK) {
-                connection.inputStream.bufferedReader().readText()
-            } else {
-                "Error: $responseCode"
-            }
-        }
-        override fun onPostExecute(result: String?) {
-            super.onPostExecute(result)
-            try {
-                val jsonResponse = JSONObject(result)
-                val prediction = jsonResponse.getString("prediction")
-
-                // Update UI based on the prediction
-                activity?.runOnUiThread {
-                    if (prediction == "An Employee may leave the organization") {
-                        predictionTextView.text = "Employee may leave the organization"
-                    } else {
-                        predictionTextView.text = "Employee may stay with the organization"
-                    }
-                }
-            } catch (e: JSONException) {
-                e.printStackTrace()
-                activity?.runOnUiThread {
-                    predictionTextView.text = "Error parsing prediction result"
-                }
-            }
-        }
-    }
-
-    private fun preparePieChartData() {
-        val entries = ArrayList<PieEntry>()
-
-        // Add each data point with its label and value
-        entries.add(PieEntry(27f, "Sales"))
-        entries.add(PieEntry(3.6f, "Management"))
-        entries.add(PieEntry(5.0f, "HR"))
-        entries.add(PieEntry(5.2f, "Accounting"))
-        entries.add(PieEntry(5.6f, "Marketing"))
-        entries.add(PieEntry(5.7f, "Product_Mng"))
-        entries.add(PieEntry(5.8f, "R&D"))
-        entries.add(PieEntry(8.1f, "IT"))
-        entries.add(PieEntry(15.2f, "Support"))
-        entries.add(PieEntry(18.7f, "Technical"))
-
-        val dataSet = PieDataSet(entries, "Departments")
-
-
-        val colors = ArrayList<Int>()
-        colors.add(Color.parseColor("#df6dff"))
-        colors.add(Color.parseColor("#ff6bc7"))
-        colors.add(Color.parseColor("#ff7670"))
-        colors.add(Color.parseColor("#ffc16c"))
-        colors.add(Color.parseColor("#ddff6c"))
-        colors.add(Color.parseColor("#8bff6a"))
-        colors.add(Color.parseColor("#6dffac"))
-        colors.add(Color.parseColor("#6bffff"))
-        colors.add(Color.parseColor("#6eaaff"))
-        colors.add(Color.parseColor("#8b6dff"))
-
-        dataSet.colors = colors
-
-        val data = PieData(dataSet)
-        data.setValueTextSize(8f)
-        data.setValueTextColor(Color.BLACK)
-
-        activity?.runOnUiThread {
-            // Update PieChart UI here
-            pieChart.data = data
-            pieChart.invalidate() // Refresh chart
-        }
-    }
-
 }

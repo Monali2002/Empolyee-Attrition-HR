@@ -98,9 +98,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            app:cardBackgroundColor="@android:color/white"
+            app:cardBackgroundColor="@color/white"
             app:cardCornerRadius="24dp"
-            app:cardElevation="10dp"
             app:layout_constraintEnd_toStartOf="@id/cardFemale"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/recyclerView">
@@ -108,8 +107,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@android:color/white"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:background="@drawable/male_border">
 
                 <TextView
                     android:id="@+id/txtMale"
@@ -141,9 +140,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            app:cardBackgroundColor="@android:color/white"
+            app:cardBackgroundColor="@color/white"
             app:cardCornerRadius="24dp"
-            app:cardElevation="10dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@id/cardMale"
             app:layout_constraintTop_toBottomOf="@+id/recyclerView">
@@ -151,8 +149,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@android:color/white"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:background="@drawable/male_border">
 
                 <TextView
                     android:id="@+id/txtFemale"
@@ -185,7 +183,7 @@
 
         <com.github.mikephil.charting.charts.BarChart
             android:id="@+id/bar_chart"
-            android:layout_width="300dp"
+            android:layout_width="360dp"
             android:layout_height="200dp"
             android:layout_marginTop="32dp"
             app:layout_constraintEnd_toEndOf="parent"

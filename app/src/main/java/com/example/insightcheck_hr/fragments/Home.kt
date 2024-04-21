@@ -61,79 +61,27 @@ class Home : Fragment(), CalendarAdapter.onItemClickListener {
         barDataSet2 = BarDataSet(getBarChartDataForSet2(), "Left")
         barDataSet2.setColor(resources.getColor(R.color.purple80))
 
-        // on below line we are adding bar data set to bar data
         var data = BarData(barDataSet1, barDataSet2)
-
-        // on below line we are setting data to our chart
         barChart.data = data
-
-        // on below line we are setting description enabled.
         barChart.description.isEnabled = false
-
-        // on below line setting x axis
         var xAxis = barChart.xAxis
-
-
-        // below line is to set value formatter to our x-axis and
-        // we are adding our days to our x axis.
         xAxis.valueFormatter = IndexAxisValueFormatter(branch)
-
-        // below line is to set center axis
-        // labels to our bar chart.
         xAxis.setCenterAxisLabels(true)
-
-        // below line is to set position
-        // to our x-axis to bottom.
         xAxis.position = XAxis.XAxisPosition.BOTTOM
-
-        // below line is to set granularity
-        // to our x axis labels.
         xAxis.setGranularity(0.2f)
-
-        // below line is to enable
-        // granularity to our x axis.
         xAxis.setGranularityEnabled(true)
-
-        // below line is to make our
-        // bar chart as draggable.
         barChart.setDragEnabled(true)
-
-        // below line is to make visible
-        // range for our bar chart.
         barChart.setVisibleXRangeMaximum(3f)
-
-        // below line is to add bar
-        // space to our chart.
         val barSpace = 0.1f
-
-        // below line is use to add group
-        // spacing to our bar chart.
         val groupSpace = 0.3f
-
-        // we are setting width of
-        // bar in below line.
         data.barWidth = 0.15f
-
-        // below line is to set minimum
-        // axis to our chart.
         barChart.xAxis.axisMinimum = 0f
-
-        // below line is to
-        // animate our chart.
         barChart.animateY(1500)
-
-        // below line is to group bars
-        // and add spacing to it.
         barChart.groupBars(0f, groupSpace, barSpace)
-
-        // Remove grid lines
         barChart.axisLeft.setDrawGridLines(false)
         barChart.xAxis.setDrawGridLines(false)
         barChart.axisRight.setDrawGridLines(false)
         barChart.axisRight.isEnabled = false
-
-        // below line is to invalidate
-        // our bar chart.
         barChart.invalidate()
 
         // Initialize views

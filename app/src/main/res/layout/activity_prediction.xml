@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.Prediction">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80sp"
+            android:layout_marginTop="24dp"
+            android:layout_marginRight="80sp"
+            android:text="Enter the Details"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/satisfactionLevelEditText"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="20sp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/button_border"
+            android:textColor="@color/black"
+            android:hint="Satisfaction Level"
+            app:layout_constraintTop_toBottomOf="@id/titleTextView"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <EditText
+            android:id="@+id/lastEvaluationEditText"
+            android:layout_width="0dp"
+            android:layout_marginTop="20sp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:paddingLeft="10dp"
+            android:layout_height="48dp"
+            android:background="@drawable/button_border"
+            android:hint="Last Evaluation"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/satisfactionLevelEditText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <EditText
+            android:id="@+id/numberProjectEditText"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="20sp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/button_border"
+            android:hint="Number Of Projects"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/lastEvaluationEditText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <EditText
+            android:id="@+id/averageMonthlyHoursEditText"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20sp"
+            android:hint="Average Monthly Hours"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/numberProjectEditText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <EditText
+            android:id="@+id/timeSpendCompanyEditText"
+            android:layout_width="0dp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:layout_height="48dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20sp"
+            android:hint="Time Spend in Company"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/averageMonthlyHoursEditText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+
+        <EditText
+            android:id="@+id/workAccidentEditText"
+            android:layout_width="0dp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:layout_height="48dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20sp"
+            android:hint="Work Accident"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/timeSpendCompanyEditText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <EditText
+            android:id="@+id/promotionLast5YearsEditText"
+            android:layout_width="0dp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:layout_height="48dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20sp"
+            android:hint="Promotion Last 5 Years"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/workAccidentEditText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <EditText
+            android:id="@+id/departmentsEditText"
+            android:layout_width="0dp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:layout_height="48dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20sp"
+            android:hint="Department"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/promotionLast5YearsEditText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <EditText
+            android:id="@+id/salaryEditText"
+            android:layout_width="0dp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:layout_height="48dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20sp"
+            android:hint="Salary Range"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/departmentsEditText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <Button
+            android:id="@+id/predictButton"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/salaryEditText"
+            android:layout_marginStart="80sp"
+            android:layout_marginEnd="80sp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/button_bg"
+            android:text="Predict"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/salaryEditText" />
+
+        <TextView
+            android:id="@+id/predictionTextView"
+            android:layout_width="355dp"
+            android:layout_height="80dp"
+            android:layout_below="@id/predictButton"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20sp"
+            android:layout_marginTop="16dp"
+            android:text=""
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/predictButton"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+
+
+        <!--        <com.github.mikephil.charting.charts.PieChart-->
+        <!--            android:id="@+id/pie_chart2"-->
+        <!--            android:layout_width="200dp"-->
+        <!--            android:layout_height="100dp"-->
+        <!--            android:layout_marginStart="20sp"-->
+        <!--            android:layout_marginTop="30dp"-->
+        <!--            android:layout_marginEnd="20sp"-->
+        <!--            app:layout_constraintEnd_toEndOf="parent"-->
+        <!--            app:layout_constraintHorizontal_bias="0.497"-->
+        <!--            app:layout_constraintStart_toStartOf="parent"-->
+        <!--            app:layout_constraintTop_toBottomOf="@id/pie_chart1" />-->
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
