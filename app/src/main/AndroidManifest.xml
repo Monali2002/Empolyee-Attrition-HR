@@ -16,6 +16,28 @@
         tools:targetApi="31">
 
         <activity
+            android:name=".activity.WorkAccidentAnalysis"
+            android:exported="false" />
+        <activity
+            android:name=".activity.PromotionAnalysis"
+            android:exported="false" />
+        <activity
+            android:name=".activity.timeSpentAnalysis"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SalaryAnalysis"
+            android:exported="false" />
+        <activity
+            android:name=".activity.ProjectAnalysis"
+            android:exported="false" />
+        <activity
+            android:name=".activity.DepartmentAnalysis"
+            android:exported="false" />
+        <activity
+            android:name=".activity.Prediction"
+            android:exported="false" />
+
+        <activity
             android:name=".activity.NavBar"
             android:exported="true">
             <intent-filter>

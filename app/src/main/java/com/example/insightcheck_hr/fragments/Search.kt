@@ -5,53 +5,59 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.insightcheck_hr.Constants.ARG_PARAM1
-import com.example.insightcheck_hr.Constants.ARG_PARAM2
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.example.insightcheck_hr.R
+import com.example.insightcheck_hr.adapter.DataAdapter
+import com.example.insightcheck_hr.dataClass.Empolyee_data
+import org.apache.commons.csv.CSVFormat
+import org.apache.commons.csv.CSVParser
+import java.io.BufferedReader
 
-/**
- * A simple [Fragment] subclass.
- * Use the [Search.newInstance] factory method to
- * create an instance of this fragment.
- */
 class Search : Fragment() {
-    // TODO: Rename and change types of parameters
-    internal var param1: String? = null
-    internal var param2: String? = null
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        arguments?.let {
-            param1 = it.getString(ARG_PARAM1)
-            param2 = it.getString(ARG_PARAM2)
-        }
-    }
+    private lateinit var emprecyclerView: RecyclerView
+    private lateinit var adapter: DataAdapter
+    private lateinit var empArrayList :ArrayList<Empolyee_data>
+    lateinit var name :Array <String>
+    lateinit var department :Array <String>
+
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_search, container, false)
+        val view = inflater.inflate(R.layout.fragment_search, container, false)
+
+        emprecyclerView = view.findViewById(R.id.listofData)
+        emprecyclerView.layoutManager = LinearLayoutManager(requireContext())
+
+        readCSVFile()
+
+        return view
     }
 
-    companion object {
-        /**
-         * Use this factory method to create a new instance of
-         * this fragment using the provided parameters.
-         *
-         * @param param1 Parameter 1.
-         * @param param2 Parameter 2.
-         * @return A new instance of fragment Search.
-         */
-        // TODO: Rename and change types and number of parameters
-        @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            Search().apply {
-                arguments = Bundle().apply {
-                    putString(ARG_PARAM1, param1)
-                    putString(ARG_PARAM2, param2)
-                }
+    private fun readCSVFile(){
+        val bufferReader = BufferedReader(requireContext().assets.open("Employee-Attrition.csv").reader())
+        val csvParser = CSVParser.parse(
+            bufferReader,
+            CSVFormat.DEFAULT
+        )
+        val list = mutableListOf<Empolyee_data>()
+        csvParser.forEach{
+            it?.let {
+               val empolyeeData = Empolyee_data (
+                 //name,Department,Age,Gender,MaritalStatus,Education, Job tenure,MonthlyIncome,PerformanceRating,Work location,EnvironmentSatisfaction,StandardHoursWorking,JobSatisfaction,Promotions,TrainingTimesLastYear,PercentSalaryHike,YearsAtCompany,YearsInCurrentRole,DistanceFromHome,EmployeeCount,JobInvolvement,NumCompaniesWorked,Over18,OverTime
+                   name = it.get(0),
+                   Department = it.get(1),
+                )
+                list.add(empolyeeData)
             }
+        }
+        adapter = DataAdapter(list as ArrayList<Empolyee_data>)
+        emprecyclerView.adapter = adapter
+
+
     }
 }

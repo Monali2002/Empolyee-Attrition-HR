@@ -1,0 +1,1471 @@
+﻿name,Department,Age,Gender,MaritalStatus,Education, Job tenure,MonthlyIncome,PerformanceRating,Work location,EnvironmentSatisfaction,StandardHoursWorking,JobSatisfaction,Promotions,TrainingTimesLastYear,PercentSalaryHike,YearsAtCompany,YearsInCurrentRole,DistanceFromHome,EmployeeCount,JobInvolvement,NumCompaniesWorked,Over18,OverTime
+shivani,hr,41,Female,Single,2,6,5993,3,1,2,80,4,1,0,11,6,4,1,1,3,8,Y,Yes
+ramdin verma,hr,49,Male,Married,1,10,5130,4,1,3,80,2,2,3,23,10,7,8,1,2,1,Y,No
+sharat chandran,hr,37,Male,Single,2,0,2090,3,2,4,80,3,2,3,15,0,0,2,1,2,6,Y,Yes
+isha,hr,33,Female,Married,4,8,2909,3,1,4,80,3,4,3,11,8,7,3,1,3,1,Y,Yes
+amit,hr,27,Male,Married,1,2,3468,3,1,1,80,2,3,3,12,2,2,2,1,3,9,Y,No
+kushal,hr,32,Male,Single,2,7,3068,3,2,4,80,4,4,2,13,7,7,2,1,3,0,Y,No
+smt shyani devi,hr,59,Female,Married,3,1,2670,4,2,3,80,1,3,3,20,1,0,3,1,4,4,Y,Yes
+shiv prakash,hr,30,Male,Divorced,1,1,2693,4,2,4,80,0,1,2,22,1,0,24,1,3,1,Y,No
+vikram singh,hr,38,Male,Single,3,9,9526,4,2,4,80,3,1,2,21,9,7,23,1,2,0,Y,No
+sanjay,hr,36,Male,Married,3,7,5237,3,2,3,80,3,1,3,13,7,7,27,1,3,6,Y,No
+abhi,finance,35,Male,Married,3,5,2426,3,1,1,80,2,1,5,13,5,4,16,1,4,0,Y,No
+divya,finance,29,Female,Single,2,9,4193,3,2,4,80,3,2,3,12,9,5,15,1,2,0,Y,Yes
+khadak singh,finance,31,Male,Divorced,1,5,2911,3,1,1,80,3,3,1,17,5,2,26,1,3,1,Y,No
+gurmit singh,finance,34,Male,Divorced,2,2,2661,3,1,2,80,4,2,2,11,2,2,19,1,3,0,Y,No
+chanderpal,finance,28,Male,Single,3,4,2028,3,2,3,80,3,4,4,14,4,2,24,1,2,5,Y,Yes
+mansi,finance,29,Female,Divorced,4,10,9980,3,2,2,80,1,2,1,11,10,9,21,1,4,1,Y,No
+khursid,finance,32,Male,Divorced,2,6,3298,3,1,1,80,2,1,5,12,6,2,5,1,4,0,Y,Yes
+rajeev,finance,22,Male,Divorced,2,1,2935,3,1,4,80,4,2,2,13,1,0,16,1,4,1,Y,Yes
+mazida,finance,53,Female,Married,4,25,15427,3,1,1,80,4,3,3,16,25,8,2,1,2,2,Y,No
+nahar singh,finance,38,Male,Single,3,3,3944,3,1,4,80,4,4,3,11,3,2,2,1,3,5,Y,Yes
+pooja,finance,24,Female,Divorced,2,4,4011,3,1,1,80,3,2,5,18,4,2,11,1,4,0,Y,No
+sunder paal,finance,36,Male,Single,4,5,3407,4,2,3,80,1,2,4,23,5,3,9,1,2,7,Y,No
+kajal,finance,34,Female,Single,4,12,11994,3,2,1,80,2,4,4,11,12,6,7,1,3,0,Y,No
+rohit,finance,21,Male,Single,2,0,1232,3,1,3,80,4,4,6,14,0,0,15,1,3,1,Y,No
+rohit,finance,34,Male,Single,1,4,2960,3,1,2,80,1,4,2,11,4,2,6,1,3,2,Y,No
+meena,finance,53,Female,Divorced,3,14,19094,3,1,3,80,3,4,3,11,14,13,5,1,3,4,Y,No
+sonam,finance,32,Female,Single,1,10,3919,4,1,2,80,1,2,5,22,10,2,16,1,1,1,Y,Yes
+santosh,finance,42,Male,Married,4,9,6825,3,2,3,80,2,3,2,11,9,7,8,1,3,0,Y,No
+buity,finance,44,Female,Married,4,22,10248,3,2,1,80,4,1,4,14,22,6,7,1,2,3,Y,No
+hina,finance,46,Female,Single,4,2,18947,3,2,2,80,1,3,2,12,2,2,2,1,3,3,Y,No
+gulshan,finance,33,Male,Single,3,1,2496,3,2,3,80,4,4,3,11,1,1,2,1,3,4,Y,No
+arvind kumar yadav,finance,44,Male,Married,4,4,6465,3,1,4,80,4,2,5,13,4,2,10,1,3,2,Y,Yes
+nausad,finance,30,Male,Single,2,10,2206,3,2,4,80,3,1,5,13,10,0,9,1,2,1,Y,No
+gurmit singh,finance,39,Male,Married,3,1,2086,3,1,4,80,4,3,6,14,1,0,5,1,3,3,Y,No
+md. afsar,finance,24,Male,Married,3,2,2293,3,1,2,80,4,1,2,16,2,0,1,1,3,2,Y,Yes
+shakshi sagar,finance,43,Female,Divorced,2,5,2645,3,1,4,80,3,4,3,12,5,3,2,1,4,1,Y,No
+moti lal,finance,50,Male,Married,2,3,2683,3,2,1,80,3,1,2,14,3,2,3,1,2,1,Y,Yes
+pooja,finance,35,Female,Married,3,2,2014,3,2,4,80,4,2,3,13,2,2,2,1,3,1,Y,No
+anita,finance,36,Female,Married,4,1,3419,3,2,2,80,1,4,3,14,1,1,5,1,2,9,Y,Yes
+neetu,finance,33,Female,Married,3,5,5376,3,1,3,80,1,1,3,19,5,3,1,1,4,2,Y,No
+mohabbat ali,finance,35,Male,Divorced,2,1,1951,3,2,3,80,4,4,3,12,1,0,4,1,3,1,Y,No
+anshu d/o,finance,27,Female,Divorced,4,1,2341,3,1,4,80,1,2,6,13,1,0,2,1,3,1,Y,No
+jaswant singh,finance,26,Male,Single,3,1,2293,3,1,1,80,3,3,2,12,1,0,25,1,1,1,Y,No
+sevak pitambar lal,finance,27,Male,Single,3,9,8726,3,2,4,80,3,3,0,15,9,8,8,1,3,1,Y,No
+kanika kathuria,marketing,30,Female,Single,2,12,4011,4,2,3,80,4,4,2,23,12,8,1,1,3,1,Y,No
+manju,marketing,41,Female,Married,3,22,19545,3,1,2,80,3,3,0,12,22,15,12,1,3,1,Y,No
+rupesh,marketing,34,Male,Single,4,9,4568,4,1,2,80,3,4,2,20,9,5,23,1,3,0,Y,No
+midda,marketing,37,Male,Married,2,1,3022,4,2,2,80,2,1,1,21,1,0,19,1,3,4,Y,No
+dharam singh,marketing,46,Male,Single,4,9,5772,4,2,1,80,4,2,4,21,9,6,5,1,3,4,Y,Yes
+manoj yadav,marketing,35,Male,Married,1,1,2269,3,1,4,80,4,1,2,19,1,0,8,1,4,1,Y,No
+ram singh,marketing,48,Male,Single,2,1,5381,3,1,1,80,3,1,2,13,1,0,1,1,2,9,Y,Yes
+preetam kumar,marketing,28,Male,Single,4,2,3441,3,1,3,80,3,3,3,13,2,2,5,1,3,1,Y,Yes
+shakshi,marketing,44,Female,Divorced,5,4,5454,4,2,2,80,1,3,2,21,4,3,1,1,3,5,Y,Yes
+sarain,marketing,35,Male,Married,2,4,9884,3,1,3,80,1,3,3,13,4,0,11,1,2,2,Y,Yes
+anita,marketing,26,Female,Married,3,2,4157,3,1,3,80,4,3,2,19,2,2,23,1,2,7,Y,Yes
+reena,marketing,33,Female,Single,2,15,13458,3,1,1,80,4,4,1,12,15,14,1,1,3,1,Y,Yes
+riyasat ali,marketing,35,Male,Married,5,9,9069,4,2,2,80,1,1,3,22,9,8,18,1,3,1,Y,No
+neha,marketing,35,Female,Married,4,2,4014,3,2,3,80,1,2,3,15,2,2,23,1,3,3,Y,Yes
+sumit,marketing,31,Male,Divorced,4,7,5915,4,2,4,80,4,3,3,22,7,7,7,1,3,3,Y,No
+arindra,marketing,37,Male,Divorced,4,7,5993,3,2,1,80,3,2,2,18,7,5,1,1,2,1,Y,No
+kali charan,marketing,32,Male,Married,3,9,6162,4,2,1,80,4,3,3,22,9,8,1,1,3,1,Y,Yes
+khushboo,marketing,38,Female,Single,5,10,2406,3,1,4,80,4,3,2,11,10,3,29,1,3,1,Y,No
+aasmin,marketing,50,Female,Divorced,2,27,18740,3,2,2,80,3,4,2,12,27,3,7,1,2,5,Y,Yes
+jyoti,marketing,59,Female,Single,3,21,7637,3,2,1,80,1,2,3,11,21,16,25,1,3,7,Y,No
+riya masi,marketing,36,Female,Divorced,3,17,10096,3,1,3,80,3,1,2,13,17,14,8,1,3,1,Y,No
+rekha,marketing,55,Female,Divorced,3,5,14756,3,2,4,80,3,1,2,14,5,0,8,1,3,2,Y,Yes
+hemant,marketing,36,Male,Single,3,6,6499,3,1,2,80,2,4,3,13,6,5,11,1,2,1,Y,No
+shivam,marketing,45,Male,Divorced,3,1,9724,3,1,2,80,1,4,2,17,1,0,7,1,3,2,Y,No
+yash mittal,marketing,35,Male,Married,3,3,2194,3,1,2,80,1,3,2,13,3,2,1,1,3,4,Y,No
+aakash,marketing,36,Male,Married,3,1,3388,3,1,4,80,3,2,0,17,1,0,9,1,2,0,Y,Yes
+gulshan,marketing,59,Female,Single,1,4,5473,3,2,1,80,3,2,2,11,4,3,1,1,2,7,Y,No
+sumit mitra,marketing,29,Male,Married,3,5,2703,4,2,3,80,2,4,3,23,5,4,2,1,3,0,Y,No
+supriyal sen,marketing,31,Male,Single,4,1,2501,3,2,3,80,2,4,4,17,1,1,1,1,3,1,Y,No
+gajender singh,marketing,32,Male,Married,3,10,6220,3,2,2,80,2,4,3,17,10,4,1,1,3,1,Y,No
+priya jain,marketing,36,Female,Married,3,1,3038,3,1,2,80,4,3,3,12,1,0,6,1,4,3,Y,No
+pooja,marketing,31,Female,Single,4,11,4424,4,2,3,80,4,4,2,23,11,7,8,1,3,1,Y,No
+azaruddin,marketing,35,Male,Single,4,15,4312,3,1,3,80,1,1,2,14,15,13,1,1,2,0,Y,No
+mukul yadav,marketing,45,Male,Married,4,0,13245,3,1,4,80,1,3,3,14,0,0,6,1,3,4,Y,Yes
+pooran chand sharma,marketing,37,Male,Single,4,5,13664,3,2,1,80,3,1,3,13,5,2,7,1,3,4,Y,No
+manoj,marketing,46,Male,Divorced,2,4,5021,4,1,2,80,2,1,2,22,4,2,5,1,3,8,Y,Yes
+sanjay charee,marketing,30,Male,Married,1,10,5126,3,1,4,80,4,4,1,12,10,8,1,1,2,1,Y,Yes
+raja babu,marketing,35,Male,Single,3,6,2859,3,1,2,80,3,4,3,18,6,4,1,1,2,1,Y,No
+pawan,marketing,55,Male,Married,2,1,10239,3,1,1,80,4,1,4,14,1,0,1,1,3,3,Y,No
+versha,marketing,38,Female,Divorced,3,13,5329,3,1,2,80,4,1,3,12,13,11,6,1,1,7,Y,Yes
+rajkumar chawla,marketing,34,Male,Married,2,5,4325,3,1,1,80,2,3,2,15,5,2,1,1,3,1,Y,No
+parvesh,marketing,56,Male,Single,3,6,7260,3,1,4,80,4,1,3,11,6,4,7,1,1,4,Y,No
+mohd ataullah,marketing,23,Male,Divorced,1,0,2322,3,2,3,80,1,2,3,13,0,0,2,1,3,3,Y,No
+neeraj kumar,marketing,51,Male,Married,4,4,2075,4,1,4,80,4,1,4,23,4,2,9,1,3,3,Y,No
+jamil khan,marketing,30,Male,Married,3,11,4152,3,1,3,80,4,4,3,19,11,10,2,1,2,1,Y,No
+yogita,marketing,46,Male,Single,2,9,9619,3,1,3,80,4,4,3,16,9,8,9,1,2,1,Y,No
+rijul aggarwal,marketing,40,Male,Married,4,22,13503,4,1,3,80,2,3,3,22,22,3,1,1,2,1,Y,No
+mohd shakib,marketing,51,Male,Single,4,10,5441,4,1,3,80,4,3,2,22,10,7,21,1,3,0,Y,Yes
+sunita,marketing,30,Female,Divorced,2,11,5209,3,1,3,80,2,2,4,12,11,8,4,1,2,1,Y,Yes
+rajender,marketing,46,Male,Married,3,10,10673,3,2,3,80,1,1,5,13,10,9,1,1,2,2,Y,Yes
+suraj,marketing,32,Male,Single,4,11,5010,3,2,2,80,3,1,0,16,11,8,6,1,3,1,Y,No
+nitu kumari,marketing,54,Female,Married,4,4,13549,3,1,1,80,3,4,5,12,4,3,2,1,3,9,Y,No
+vandana,marketing,24,Female,Married,2,3,4999,4,2,1,80,3,3,2,21,3,2,3,1,3,0,Y,No
+md mustafa,marketing,28,Male,Married,3,5,4221,3,2,2,80,3,2,3,15,5,4,4,1,3,1,Y,No
+har parsad,marketing,58,Male,Single,4,37,13872,3,2,4,80,3,3,1,13,37,10,10,1,3,0,Y,No
+deepak,marketing,44,Male,Married,3,3,2042,3,1,2,80,2,1,3,12,3,2,23,1,3,4,Y,No
+rahul,marketing,37,Male,Divorced,4,3,2073,4,2,3,80,1,2,3,22,3,2,6,1,3,4,Y,Yes
+abhishekh,marketing,32,Male,Single,1,1,2956,3,2,4,80,1,1,2,13,1,0,1,1,3,1,Y,No
+shelender yadav,marketing,20,Female,Single,3,1,2926,3,1,4,80,4,2,5,18,1,0,6,1,2,1,Y,Yes
+roshni,marketing,34,Female,Single,4,16,4809,3,2,1,80,3,1,3,14,16,13,6,1,3,1,Y,No
+ankit,it,37,Male,Divorced,2,1,5163,3,1,3,80,4,3,2,14,1,0,2,1,2,5,Y,No
+parveen,it,59,Female,Married,4,3,18844,4,2,3,80,4,3,3,21,3,2,2,1,2,9,Y,No
+surender singh chauhan,it,50,Female,Married,3,8,18172,3,1,1,80,2,4,1,19,8,3,1,1,3,3,Y,Yes
+amit,it,25,Male,Single,3,6,5744,3,1,3,80,3,3,1,11,6,4,5,1,2,1,Y,Yes
+arjun,it,25,Male,Married,1,2,2889,3,2,4,80,4,1,2,11,2,2,7,1,2,1,Y,No
+versa,it,22,Female,Single,3,0,2871,3,2,2,80,4,1,5,15,0,0,15,1,3,1,Y,No
+kavita,it,51,Female,Single,4,13,7484,4,2,1,80,1,3,1,20,13,12,1,1,2,3,Y,No
+raju @ chhotu,it,34,Male,Single,3,9,6074,4,1,1,80,3,4,3,24,9,7,7,1,1,1,Y,Yes
+sarojani,it,54,Female,Single,3,5,17328,3,1,4,80,4,1,3,12,5,3,26,1,4,2,Y,Yes
+santlal@golu,it,24,Male,Married,1,5,2774,3,1,2,80,3,4,2,12,5,3,18,1,3,0,Y,No
+nagina,it,34,Female,Divorced,4,1,4505,3,1,3,80,2,3,3,15,1,0,6,1,2,6,Y,No
+pulkit sharma,it,37,Male,Single,3,5,7428,3,1,3,80,4,1,3,12,5,3,3,1,3,2,Y,No
+tapas das,it,34,Female,Single,3,11,11631,3,1,3,80,1,2,6,12,11,10,5,1,2,2,Y,No
+priyanka,it,36,Female,Married,2,9,9738,3,1,2,80,4,4,6,14,9,7,11,1,3,0,Y,No
+sumit,it,36,Female,Divorced,2,1,2835,4,1,1,80,4,3,2,22,1,0,3,1,3,5,Y,No
+tammanne,it,43,Male,Married,2,25,16959,3,2,3,80,4,4,3,12,25,12,26,1,3,1,Y,Yes
+kailash kumar,it,30,Male,Divorced,3,10,2613,4,1,1,80,3,1,2,25,10,7,23,1,1,1,Y,No
+bhagwati prasad,it,33,Male,Married,2,7,6146,3,1,3,80,2,1,2,13,7,7,22,1,3,0,Y,No
+durga,it,56,Female,Married,4,5,4963,3,1,2,80,2,4,2,18,5,4,14,1,3,9,Y,Yes
+silender,it,51,Male,Single,3,20,19537,3,2,1,80,3,4,5,13,20,18,6,1,3,7,Y,No
+deepak,it,31,Male,Married,4,7,6172,3,1,2,80,3,4,3,18,7,7,6,1,1,4,Y,Yes
+sony jha,it,26,Female,Married,3,5,2368,3,1,3,80,2,2,3,19,5,4,6,1,2,1,Y,No
+anuradha,it,58,Female,Married,4,40,10312,3,2,4,80,4,2,3,12,40,10,23,1,3,1,Y,No
+nitin,it,19,Male,Single,1,0,1675,3,1,4,80,3,4,2,19,0,0,22,1,3,1,Y,Yes
+doodhnath pandit,it,22,Male,Married,1,2,2523,3,1,3,80,4,3,2,14,2,1,2,1,3,0,Y,No
+aslam allam,it,49,Female,Married,4,15,6567,3,1,3,80,1,3,2,14,15,11,20,1,3,1,Y,No
+rahul,it,43,Female,Single,3,3,4739,3,1,2,80,3,3,2,12,3,2,28,1,4,4,Y,No
+sita,it,50,Female,Single,3,2,9208,3,1,3,80,4,3,3,11,2,2,12,1,3,4,Y,No
+devi,it,31,Female,Married,3,2,4559,3,2,2,80,3,2,2,11,2,2,20,1,1,3,Y,Yes
+vijay,it,41,Male,Divorced,1,9,8189,3,2,3,80,3,2,2,13,9,7,9,1,3,3,Y,Yes
+rajia,it,26,Female,Married,1,8,2942,4,1,3,80,3,4,3,23,8,7,25,1,3,1,Y,No
+kabir,it,36,Male,Divorced,2,3,4941,4,2,2,80,2,4,0,20,3,2,6,1,3,6,Y,No
+sarvesh,it,51,Male,Single,4,4,10650,3,2,1,80,4,4,2,15,4,2,8,1,1,2,Y,No
+smt sunita,it,39,Female,Married,4,15,5902,3,2,4,80,3,2,1,14,15,11,4,1,2,4,Y,No
+akash gupta,it,25,Male,Married,3,2,8639,3,1,1,80,3,3,3,18,2,2,28,1,2,2,Y,No
+rahul,it,30,Male,Married,3,11,6347,3,1,3,80,4,1,2,19,11,9,9,1,3,0,Y,Yes
+aarti,it,32,Female,Single,3,5,4200,4,2,1,80,1,2,2,22,5,4,9,1,3,7,Y,No
+vivek,it,45,Male,Single,3,6,3452,3,2,3,80,4,3,2,13,6,5,29,1,3,5,Y,No
+neelam,it,38,Female,Single,5,3,4317,4,1,4,80,3,4,2,20,3,2,3,1,3,3,Y,Yes
+shakshi,it,30,Female,Single,3,5,2632,3,1,1,80,3,1,4,14,5,4,18,1,3,1,Y,No
+vansu dev,it,32,Male,Divorced,2,8,4668,3,1,4,80,4,1,2,17,8,7,9,1,1,0,Y,No
+jyoti,it,30,Female,Divorced,3,3,3204,3,1,4,80,1,3,3,14,3,2,5,1,3,5,Y,No
+shyam kumar,it,30,Male,Single,1,5,2720,3,1,2,80,4,3,3,13,5,3,2,1,2,0,Y,No
+shafibul,it,41,Male,Divorced,3,7,17181,3,2,4,80,1,2,2,13,7,6,10,1,2,4,Y,No
+lalit kathuriya,it,41,Male,Married,4,5,2238,4,1,3,80,1,2,2,21,5,0,9,1,3,2,Y,No
+pooran chand,it,19,Female,Single,1,1,1483,3,1,2,80,2,1,3,14,1,0,3,1,3,1,Y,No
+amar deep kaur,it,40,Female,Divorced,3,20,5605,3,2,2,80,2,3,2,11,20,7,26,1,3,1,Y,No
+kamal jit singh,it,35,Male,Married,5,10,7295,3,2,3,80,2,3,3,13,10,8,1,1,3,1,Y,No
+shiv kumar,it,53,Male,Married,2,7,2306,4,2,2,80,3,2,3,20,7,7,6,1,3,2,Y,Yes
+mayank chaudhary @ rahul,it,45,Male,Divorced,3,17,2348,3,1,2,80,2,4,2,18,17,9,9,1,3,8,Y,No
+roshni,it,32,Female,Single,3,9,8998,3,2,2,80,4,3,2,14,9,8,8,1,3,1,Y,No
+som dutt,it,29,Male,Married,1,10,4319,3,2,4,80,3,2,1,13,10,7,1,1,3,1,Y,No
+bablu regar,it,51,Male,Married,4,1,6132,3,1,2,80,3,1,2,17,1,0,7,1,2,2,Y,No
+nisha,it,58,Female,Married,3,1,3346,4,1,2,80,2,3,3,20,1,0,9,1,2,4,Y,Yes
+rajkumar,it,40,Male,Married,4,12,10855,3,2,3,80,4,4,2,11,12,11,4,1,2,7,Y,No
+meenu chawla,it,34,Female,Married,4,4,2231,3,2,3,80,3,4,3,18,4,3,2,1,3,6,Y,No
+niraj,it,22,Male,Married,1,2,2323,4,1,3,80,4,2,6,24,2,2,19,1,3,1,Y,No
+sarbjeet ronak,it,27,Male,Divorced,3,2,2024,3,1,4,80,2,2,1,18,2,2,9,1,3,6,Y,No
+axat,it,28,Male,Married,3,5,2713,3,2,3,80,4,3,2,11,5,2,21,1,3,1,Y,No
+amit,it,57,Male,Divorced,2,5,9439,3,1,3,80,4,3,2,16,5,3,24,1,4,3,Y,Yes
+anubhav shrivastab,it,27,Male,Divorced,3,1,2566,3,2,3,80,3,1,2,15,1,1,3,1,2,1,Y,Yes
+meena,it,50,Female,Single,3,5,19926,3,2,3,80,2,1,5,15,5,4,11,1,3,3,Y,No
+himanshu,it,41,Male,Divorced,3,9,2451,3,2,1,80,3,4,2,12,9,8,14,1,3,4,Y,No
+sunita,it,30,Female,Married,3,10,9419,3,2,2,80,4,2,2,12,10,9,5,1,3,2,Y,No
+shabanm,it,38,Female,Single,4,8,8686,4,1,1,80,4,3,2,22,8,3,1,1,2,4,Y,No
+vijay virmani,it,32,Male,Single,5,5,3038,4,1,3,80,3,3,2,20,5,4,6,1,3,3,Y,No
+vivek auhari,it,27,Male,Married,3,5,3058,3,2,3,80,2,1,3,16,5,2,17,1,3,0,Y,Yes
+madhuri sharma,it,19,Female,Single,1,0,2325,4,1,3,80,1,3,5,21,0,0,1,1,1,0,Y,No
+subhash chand bhatia,it,36,Male,Single,2,8,2088,3,2,4,80,2,2,3,12,8,7,3,1,3,4,Y,No
+bhupender,it,30,Male,Divorced,3,12,3072,3,2,3,80,1,4,4,11,12,9,9,1,3,1,Y,No
+sangeeta,it,45,Female,Divorced,2,5,5006,3,1,3,80,1,4,3,11,5,4,4,1,3,4,Y,Yes
+rubina,it,56,Female,Divorced,3,2,4257,3,2,3,80,1,4,3,18,2,2,8,1,3,4,Y,Yes
+ajay kumar,it,33,Male,Single,3,3,2500,3,2,3,80,4,1,2,14,3,1,2,1,3,0,Y,No
+yognder,it,19,Male,Single,3,1,1102,4,1,2,80,4,4,3,22,1,0,2,1,2,1,Y,No
+preety,it,46,Female,Divorced,2,24,10453,4,2,2,80,1,1,2,25,24,13,1,1,3,1,Y,No
+sheetal,it,38,Female,Single,2,2,2288,3,2,3,80,4,1,3,12,2,2,9,1,3,1,Y,No
+sony jha,it,31,Female,Married,1,4,3929,4,2,3,80,4,2,0,23,4,2,12,1,3,8,Y,Yes
+km sunita,it,34,Female,Single,2,3,2311,3,1,4,80,2,2,3,15,3,2,27,1,3,2,Y,No
+durga,it,41,Female,Single,2,4,3140,4,1,2,80,2,4,5,22,4,3,20,1,3,1,Y,Yes
+salman,it,50,Male,Married,3,3,3690,3,2,3,80,3,4,2,15,3,2,1,1,2,2,Y,No
+aarti,it,53,Female,Divorced,2,4,4450,3,1,4,80,1,2,3,11,4,2,13,1,4,1,Y,No
+jyoti,it,33,Female,Married,3,8,2756,3,1,4,80,2,3,5,13,8,7,14,1,3,1,Y,No
+himanshi roshani,it,40,Female,Married,1,20,19033,3,2,4,80,3,4,2,14,20,8,4,1,3,1,Y,No
+sandeep kumar,it,55,Male,Single,4,24,18722,3,2,3,80,2,3,3,11,24,15,14,1,4,8,Y,No
+tarjan,it,34,Male,Married,1,10,9547,3,1,4,80,3,2,2,17,10,9,2,1,2,1,Y,No
+archna,it,51,Female,Single,3,7,13734,3,2,4,80,2,4,6,18,7,7,3,1,3,3,Y,No
+murari,it,52,Male,Married,4,33,19999,3,1,3,80,3,2,5,14,33,18,1,1,2,0,Y,No
+noor jala,it,27,Female,Single,3,7,2279,3,2,4,80,2,1,2,16,7,7,9,1,3,1,Y,No
+jagdish,it,35,Male,Married,2,1,5916,3,1,2,80,3,1,1,13,1,0,23,1,2,3,Y,Yes
+vishal,it,43,Male,Divorced,3,5,2089,3,2,4,80,4,1,3,14,5,4,7,1,4,4,Y,No
+mohd shahid,it,45,Male,Married,2,20,16792,4,2,1,80,4,4,1,23,20,8,2,1,2,9,Y,No
+ramvilash,it,37,Male,Married,3,8,3564,3,2,2,80,1,2,3,12,8,7,21,1,4,1,Y,Yes
+kuldeep,it,35,Female,Single,3,6,4425,3,2,2,80,2,2,5,11,6,2,2,1,3,5,Y,No
+khusbhu,it,42,Female,Divorced,2,5,5265,3,2,3,80,3,2,5,16,5,3,21,1,3,2,Y,No
+nanku prasad,it,38,Male,Married,4,1,6553,3,1,4,80,3,4,3,14,1,0,2,1,3,9,Y,No
+bhola sarkar,it,38,Male,Married,3,7,6261,3,2,4,80,4,1,3,18,7,7,29,1,3,3,Y,No
+balraj,it,27,Male,Married,1,2,4298,3,1,3,80,1,4,1,19,2,2,1,1,2,5,Y,No
+ravindra kumar,it,49,Male,Divorced,4,7,6804,3,2,4,80,4,4,0,15,7,7,18,1,3,1,Y,Yes
+rohit kumar,it,34,Male,Divorced,4,5,3815,3,1,4,80,3,4,4,17,5,3,10,1,3,1,Y,Yes
+uttam kumar @ sanki,it,40,Male,Married,2,7,2741,3,1,3,80,4,3,2,15,7,2,19,1,3,8,Y,Yes
+babalu sen,it,38,Male,Married,1,1,6673,3,1,2,80,1,2,2,19,1,0,29,1,3,7,Y,Yes
+reshma,it,29,Female,Married,3,10,7639,4,2,2,80,4,3,3,22,10,4,27,1,3,1,Y,No
+sukhdev,it,22,Male,Divorced,3,4,2328,3,2,4,80,2,3,2,16,4,2,5,1,4,1,Y,Yes
+sushma,it,36,Female,Single,1,8,2153,3,2,2,80,4,2,2,13,8,1,18,1,3,1,Y,No
+Dolly,it,40,Male,Married,5,3,4876,3,1,4,80,4,2,5,14,3,2,9,1,2,9,Y,No
+gopal sharma,it,46,Male,Divorced,4,4,9396,3,2,4,80,1,3,3,16,4,2,1,1,3,7,Y,No
+beeru,it,32,Male,Married,4,14,10400,3,1,4,80,4,4,2,11,14,8,4,1,1,1,Y,No
+vipin,it,30,Male,Single,1,11,8474,4,1,3,80,3,1,2,22,11,8,1,1,2,1,Y,No
+lakhi devi,it,27,Female,Single,3,7,9981,3,1,4,80,3,3,2,14,7,7,20,1,3,1,Y,No
+guddu,it,51,Male,Married,4,10,12490,3,2,2,80,2,4,5,16,10,9,8,1,2,5,Y,No
+nayana kumari,it,30,Female,Single,3,5,2657,3,1,4,80,1,2,5,11,5,2,3,1,3,5,Y,Yes
+nirmal,it,41,Female,Single,3,1,13591,3,2,4,80,4,2,3,18,1,0,6,1,3,3,Y,Yes
+bhawana,it,30,Female,Single,4,6,6696,3,2,3,80,1,3,5,15,6,3,26,1,2,5,Y,No
+shadab,it,29,Male,Single,3,6,2058,3,2,3,80,3,2,1,14,6,2,1,1,3,0,Y,No
+heena,it,45,Female,Single,3,19,8865,3,1,4,80,4,1,2,12,19,7,6,1,2,6,Y,No
+guddu,it,54,Female,Married,3,6,5940,3,1,4,80,1,1,4,14,6,2,3,1,3,2,Y,No
+abhishek,it,36,Male,Single,2,13,5914,3,2,4,80,2,1,3,16,13,11,5,1,3,8,Y,No
+gulfam,it,33,Female,Married,4,3,2622,4,2,3,80,2,2,3,21,3,2,4,1,2,6,Y,No
+phoolwati @ phoolo devi,it,37,Male,Divorced,3,10,12185,3,2,2,80,4,4,1,14,10,8,11,1,3,1,Y,Yes
+mohit maan,it,38,Male,Divorced,3,16,10609,3,1,1,80,3,1,6,12,16,10,3,1,3,0,Y,No
+veer bhan singh,it,31,Male,Married,4,5,4345,3,2,3,80,3,3,2,12,5,4,1,1,1,0,Y,No
+dinesh kumar,it,59,Male,Married,3,1,2177,3,1,3,80,4,1,6,17,1,0,3,1,2,3,Y,No
+amarjeet,it,37,Male,Divorced,4,9,2793,3,2,1,80,4,3,2,17,9,8,4,1,3,4,Y,No
+samaiali,it,29,Female,Married,1,11,7918,3,1,2,80,4,4,5,14,11,10,1,1,3,1,Y,No
+reshma,it,35,Female,Single,3,10,8789,3,1,3,80,3,2,3,14,10,7,1,1,3,1,Y,No
+rishi,it,29,Male,Single,1,4,2389,3,2,3,80,4,1,3,13,4,3,18,1,2,1,Y,Yes
+esrail khan,it,52,Female,Single,3,2,3212,3,2,3,80,4,4,3,15,2,2,2,1,2,7,Y,No
+suresh kumar,it,42,Male,Married,2,22,19232,3,1,3,80,4,2,3,11,22,17,4,1,3,1,Y,No
+pankaj chand,it,59,Male,Married,2,2,2267,3,2,2,80,3,1,2,17,2,2,6,1,3,8,Y,No
+manju,it,50,Female,Divorced,4,7,19517,3,1,4,80,4,4,3,11,7,0,1,1,3,3,Y,No
+Mohit,it,33,Male,Married,3,5,2436,3,1,3,80,4,3,2,13,5,4,14,1,3,5,Y,Yes
+Rita varma,it,43,Female,Married,3,17,16064,4,1,4,80,4,2,3,22,17,13,16,1,3,5,Y,Yes
+saddam,it,33,Female,Married,2,9,2707,4,1,1,80,1,3,3,20,9,7,2,1,3,7,Y,No
+nikhleshwar bhagat,it,52,Male,Single,4,33,19068,3,1,1,80,3,4,2,18,33,7,2,1,2,1,Y,Yes
+sapna,it,32,Female,Married,2,4,3931,3,2,3,80,2,2,5,11,4,3,4,1,3,2,Y,No
+deepak,it,32,Male,Single,3,3,3730,3,1,4,80,3,2,2,14,3,2,1,1,2,0,Y,Yes
+spana,it,39,Female,Divorced,4,3,2232,3,1,3,80,3,2,1,14,3,2,1,1,3,7,Y,No
+ram kishan,it,32,Male,Married,4,3,4465,3,1,3,80,4,2,2,18,3,2,26,1,3,0,Y,No
+arun,it,41,Male,Divorced,2,1,3072,3,1,3,80,1,3,2,16,1,0,19,1,3,2,Y,No
+virender,it,40,Male,Divorced,2,9,3319,3,1,1,80,4,1,3,17,9,8,24,1,3,1,Y,No
+bishun,sales,45,Male,Married,3,24,19202,3,1,3,80,4,4,2,11,24,0,1,1,4,0,Y,No
+pritam singh,sales,31,Male,Divorced,4,2,13675,3,2,2,80,3,3,3,12,2,2,3,1,3,9,Y,No
+kanchan,sales,33,Female,Married,4,2,2911,3,2,3,80,4,2,2,13,2,2,5,1,2,1,Y,No
+kishan,sales,34,Male,Married,4,11,5957,3,2,4,80,1,4,3,13,11,9,2,1,2,6,Y,No
+deepika,sales,37,Female,Married,2,3,3920,3,1,3,80,1,1,2,14,3,1,1,1,2,2,Y,No
+sachin,sales,45,Male,Married,4,3,6434,3,2,1,80,3,1,1,17,3,2,7,1,4,4,Y,No
+harman singh,sales,37,Male,Divorced,3,1,10048,3,2,1,80,3,2,5,11,1,0,10,1,3,6,Y,No
+renu,sales,39,Female,Single,4,19,10938,4,2,3,80,3,4,1,25,19,6,2,1,3,0,Y,No
+rajbir,sales,29,Male,Single,3,6,2340,3,2,3,80,4,1,1,19,6,5,15,1,3,1,Y,No
+sandhya,sales,42,Female,Single,2,3,6545,3,1,4,80,1,4,1,13,3,2,17,1,4,3,Y,Yes
+vinod lal,sales,29,Male,Divorced,2,3,6931,3,2,4,80,4,3,2,14,3,2,20,1,3,2,Y,No
+chander shaker,sales,25,Female,Married,3,4,4898,3,1,1,80,3,1,3,12,4,2,1,1,3,0,Y,No
+krishan,sales,42,Female,Divorced,3,9,2593,3,1,4,80,1,1,4,11,9,6,2,1,2,0,Y,Yes
+ram ji,sales,40,Male,Divorced,2,21,19436,3,1,1,80,3,4,5,19,21,7,2,1,3,0,Y,No
+jony,sales,51,Male,Married,3,1,2723,3,1,3,80,4,3,0,11,1,0,1,1,3,1,Y,No
+mohammad ali,sales,31,Male,Single,2,5,3479,3,2,3,80,2,1,2,11,5,4,29,1,2,0,Y,No
+ashok kumar s/o,sales,32,Male,Married,3,5,2794,4,2,2,80,2,4,3,20,5,1,7,1,4,1,Y,No
+ravinder ,sales,38,Male,Married,2,8,5249,3,1,4,80,4,2,0,18,8,7,2,1,2,3,Y,No
+amit,sales,32,Male,Single,1,6,2176,3,2,4,80,1,1,5,13,6,2,2,1,2,4,Y,No
+guman singh basyal,sales,46,Female,Married,3,7,16872,3,1,3,80,2,4,2,12,7,7,2,1,1,3,Y,Yes
+amardeep,sales,28,Male,Single,4,0,3485,3,2,1,80,3,4,5,11,0,0,2,1,3,2,Y,No
+jagdish,sales,29,Male,Married,3,0,6644,3,1,1,80,2,3,2,19,0,0,2,1,2,2,Y,No
+bharat,sales,31,Male,Married,3,9,5582,4,1,2,80,4,1,2,21,9,0,23,1,2,0,Y,No
+azaz,sales,25,Male,Divorced,2,6,4000,3,2,2,80,1,4,2,12,6,3,5,1,4,1,Y,No
+raja kumar,sales,45,Male,Married,2,20,13496,3,2,3,80,4,3,2,14,20,7,20,1,3,0,Y,Yes
+parveen,sales,36,Male,Married,3,15,3210,3,2,4,80,4,1,4,11,15,13,6,1,3,0,Y,No
+mahabir prasad,sales,55,Male,Single,3,36,19045,3,1,4,80,1,2,2,14,36,10,1,1,3,0,Y,Yes
+kartik,sales,47,Male,Married,4,10,11849,3,2,1,80,2,1,2,12,10,7,29,1,3,1,Y,Yes
+shubham yadav,sales,28,Male,Married,3,5,2070,4,1,4,80,4,4,3,23,5,2,9,1,3,1,Y,No
+yogesh,sales,37,Male,Married,4,5,6502,3,1,3,80,4,3,5,14,5,4,6,1,3,4,Y,No
+madan,sales,21,Male,Single,2,3,3230,3,2,4,80,3,4,4,17,3,2,3,1,2,1,Y,No
+rashid,sales,37,Female,Divorced,4,5,13603,3,2,1,80,4,4,2,18,5,2,1,1,3,2,Y,Yes
+jitender,sales,35,Female,Divorced,3,7,11996,3,2,2,80,2,1,6,18,7,7,22,1,4,7,Y,No
+rinku kumari,sales,38,Female,Divorced,2,8,5605,4,1,1,80,1,4,3,24,8,0,7,1,4,1,Y,Yes
+anita,sales,26,Female,Divorced,3,6,6397,4,2,3,80,2,2,6,20,6,5,1,1,3,1,Y,No
+pintu kumar,sales,50,Male,Divorced,1,10,19144,3,1,1,80,2,1,4,14,10,4,4,1,3,3,Y,No
+deep,sales,53,Male,Married,4,5,17584,3,2,3,80,3,2,5,16,5,3,3,1,3,3,Y,Yes
+dharmbir,sales,42,Male,Married,1,20,4907,4,2,2,80,3,2,3,25,20,16,1,1,3,1,Y,No
+rishi kakdia,sales,29,Male,Single,2,10,4554,3,1,2,80,4,2,3,18,10,7,2,1,3,1,Y,No
+kunal ,sales,55,Male,Married,2,10,5415,3,2,2,80,4,4,4,19,10,7,20,1,3,3,Y,Yes
+arman ansari,sales,26,Male,Married,2,5,4741,3,2,1,80,1,2,3,13,5,3,11,1,3,1,Y,Yes
+kumari manju,sales,37,Female,Single,3,17,2115,3,2,4,80,4,3,3,12,17,12,1,1,3,1,Y,No
+karan,sales,44,Male,Divorced,3,1,3161,4,1,4,80,3,4,0,22,1,0,24,1,3,3,Y,Yes
+sandeep kumar,sales,38,Male,Divorced,4,2,5745,3,1,4,80,4,3,2,14,2,2,23,1,3,9,Y,No
+sagar,sales,26,Male,Divorced,4,3,2373,3,2,1,80,2,2,2,13,3,2,16,1,3,2,Y,Yes
+partibha,sales,28,Female,Single,2,5,3310,4,1,4,80,4,3,3,21,5,3,8,1,3,1,Y,No
+ishika,sales,49,Female,Single,4,3,18665,3,2,3,80,1,3,4,11,3,2,10,1,3,9,Y,Yes
+sujen manjhi,sales,36,Male,Single,3,8,4485,3,1,3,80,2,4,2,12,8,0,3,1,3,4,Y,No
+khusboo,sales,31,Female,Divorced,3,2,2789,3,2,4,80,2,3,5,11,2,2,5,1,3,1,Y,No
+anshu,sales,26,Male,Single,4,8,5828,3,2,4,80,4,3,0,12,8,7,4,1,2,1,Y,Yes
+sahil,sales,37,Male,Married,3,4,2326,3,1,2,80,4,3,3,12,4,2,9,1,3,1,Y,Yes
+sapna,sales,42,Female,Married,3,20,13525,3,1,3,80,2,1,2,14,20,4,26,1,3,5,Y,No
+gaurav,sales,18,Male,Single,3,0,1420,3,1,3,80,3,1,2,13,0,0,3,1,3,1,Y,No
+raja kumar,sales,35,Male,Married,3,11,8020,3,2,3,80,2,2,3,15,11,9,16,1,3,0,Y,No
+sunil,sales,36,Male,Married,4,1,3688,3,1,3,80,4,1,2,18,1,0,18,1,4,4,Y,No
+ravi kumar,sales,51,Male,Divorced,3,4,5482,3,2,4,80,2,4,3,18,4,1,2,1,1,5,Y,No
+shankar kumar,sales,41,Male,Single,4,22,16015,3,1,4,80,2,1,2,19,22,10,2,1,3,1,Y,No
+tapsam,sales,18,Female,Single,3,0,1200,3,2,4,80,3,2,2,12,0,0,10,1,2,1,Y,No
+sonia,sales,28,Male,Single,2,8,5661,3,2,2,80,1,2,2,19,8,3,16,1,4,0,Y,No
+santosh,sales,31,Male,Married,3,8,6929,3,2,2,80,4,2,3,11,8,7,7,1,4,4,Y,No
+kayamuddin,sales,39,Male,Divorced,3,18,9613,3,2,3,80,4,2,5,17,18,10,1,1,4,0,Y,No
+aarti,sales,36,Female,Married,4,9,5674,3,1,2,80,2,4,3,15,9,8,24,1,3,7,Y,No
+nandkishore karpenter,sales,32,Male,Married,3,13,5484,3,1,4,80,3,2,3,14,13,8,7,1,2,1,Y,No
+yashika,sales,38,Female,Married,2,10,12061,3,1,1,80,2,4,2,17,10,8,25,1,2,3,Y,No
+kishan rai,sales,58,Male,Divorced,4,5,5660,3,1,4,80,3,1,2,13,5,3,1,1,1,2,Y,Yes
+mahender kumar,sales,31,Male,Married,4,5,4821,3,1,3,80,4,2,4,12,5,2,5,1,3,0,Y,Yes
+deepak,sales,31,Male,Married,3,2,6410,3,2,1,80,1,2,1,12,2,2,2,1,2,3,Y,No
+mohd afzal,sales,45,Male,Divorced,3,24,5210,3,2,1,80,1,2,2,18,24,9,7,1,3,1,Y,No
+satender,sales,31,Male,Divorced,4,2,2695,3,1,3,80,4,2,2,18,2,2,2,1,3,0,Y,Yes
+raj kumari,sales,33,Female,Married,4,10,11878,3,2,4,80,2,1,2,11,10,6,5,1,3,6,Y,No
+mobin,sales,39,Male,Married,1,21,17068,3,2,3,80,1,3,3,14,21,9,10,1,3,1,Y,Yes
+khokan sarkar,sales,43,Female,Single,4,8,2455,3,1,3,80,4,4,5,19,8,7,10,1,3,0,Y,No
+kumari meera,sales,49,Female,Single,2,7,13964,3,1,3,80,3,3,2,12,7,1,1,1,2,7,Y,Yes
+krisana braman,sales,52,Male,Married,4,8,4941,3,2,3,80,2,4,3,15,8,2,8,1,2,2,Y,No
+reema jha,sales,27,Female,Single,3,4,2478,3,2,3,80,2,1,2,12,4,3,5,1,3,1,Y,Yes
+neha,sales,32,Female,Married,2,13,5228,3,2,3,80,2,4,2,11,13,12,8,1,2,1,Y,Yes
+mohd miraj ansari,sales,27,Male,Single,3,5,4478,3,1,4,80,3,2,3,11,5,4,2,1,3,1,Y,Yes
+rajmani,sales,31,Male,Divorced,3,7,7547,3,2,4,80,4,4,3,12,7,7,7,1,3,4,Y,No
+monika rani,sales,32,Female,Single,4,7,5055,3,2,1,80,4,3,0,16,7,7,2,1,4,7,Y,No
+mohan,sales,28,Male,Married,4,3,3464,3,1,1,80,4,3,4,13,3,2,2,1,1,5,Y,Yes
+hemlata,sales,30,Female,Married,2,10,5775,3,2,4,80,4,1,2,13,10,8,28,1,3,1,Y,No
+saneha,sales,31,Female,Married,2,10,8943,4,2,3,80,3,3,2,24,10,9,7,1,2,1,Y,No
+charan jeet singh,sales,39,Male,Married,2,21,19272,3,2,3,80,4,1,2,15,21,9,7,1,2,1,Y,No
+smt. annpurna,sales,39,Female,Married,2,1,5238,3,1,4,80,3,3,3,18,1,0,3,1,3,4,Y,Yes
+gappu,sales,33,Male,Single,3,7,4682,3,2,2,80,4,4,6,14,7,7,10,1,2,3,Y,No
+nazeem,sales,47,Male,Married,5,3,18300,3,1,4,80,3,1,2,11,3,2,5,1,3,4,Y,No
+munni khatun,sales,43,Female,Divorced,4,9,5257,3,1,3,80,3,3,3,11,9,7,10,1,2,1,Y,No
+vivek sharma,sales,27,Male,Married,1,5,6349,3,2,3,80,2,2,0,13,5,4,1,1,3,0,Y,Yes
+sandeep,sales,54,Female,Single,4,4,4869,3,1,4,80,3,3,4,12,4,3,20,1,3,3,Y,No
+santosh bai,sales,43,Female,Married,3,1,9985,3,1,3,80,1,1,1,16,1,0,7,1,3,8,Y,No
+prakul,sales,45,Male,Married,4,10,3697,3,2,4,80,4,3,3,14,10,9,8,1,3,9,Y,No
+birjesh,sales,40,Male,Married,2,4,7457,4,1,2,80,4,1,2,22,4,3,1,1,1,2,Y,Yes
+sahil tigga,sales,29,Male,Married,4,7,2119,3,1,2,80,1,3,4,11,7,7,8,1,1,1,Y,Yes
+girishi chand,sales,29,Male,Single,5,3,3983,3,2,2,80,4,4,2,17,3,2,9,1,2,0,Y,No
+kanchan,sales,30,Female,Divorced,3,10,6118,3,1,4,80,3,2,2,13,10,9,5,1,2,1,Y,No
+ikramuddin,sales,27,Female,Married,4,8,6214,3,2,2,80,2,2,3,18,8,7,8,1,3,1,Y,No
+sajan,sales,37,Male,Divorced,2,6,6347,3,2,4,80,4,3,2,16,6,2,5,1,3,7,Y,No
+molu,sales,38,Male,Divorced,2,11,11510,3,1,3,80,4,1,3,14,11,10,15,1,2,0,Y,Yes
+dilawar,sales,31,Female,Single,4,11,7143,3,1,3,80,4,3,2,14,11,9,7,1,3,1,Y,Yes
+vandhna,sales,29,Female,Divorced,1,7,8268,3,1,4,80,2,2,2,14,7,7,10,1,2,1,Y,Yes
+sanjay,sales,35,Male,Single,4,16,8095,3,1,3,80,2,1,5,13,16,6,5,1,3,0,Y,No
+ajahar,sales,23,Male,Divorced,1,4,2904,3,1,3,80,4,4,2,12,4,2,26,1,3,1,Y,No
+sanjeev,sales,41,Male,Single,3,5,6032,3,2,4,80,2,1,3,15,5,4,6,1,2,6,Y,Yes
+raman ralhan,sales,47,Male,Single,1,0,2976,3,2,2,80,3,4,3,19,0,0,4,1,3,3,Y,No
+muskan,sales,42,Female,Single,5,1,15992,3,1,1,80,4,1,2,14,1,0,23,1,3,2,Y,No
+rohit,sales,29,Male,Married,3,4,4649,3,1,4,80,3,4,3,14,4,3,2,1,3,1,Y,No
+prem chand,sales,42,Male,Divorced,1,3,2696,3,2,3,80,3,1,5,11,3,2,2,1,3,0,Y,Yes
+sandhaya,sales,32,Female,Married,3,8,2370,3,2,3,80,2,3,4,13,8,0,2,1,3,1,Y,No
+priynka,sales,48,Female,Married,1,0,12504,4,1,1,80,3,2,3,21,0,0,29,1,3,3,Y,No
+irfan,sales,37,Male,Divorced,3,7,5974,3,2,3,80,1,1,2,13,7,7,6,1,4,4,Y,Yes
+jang bahadur,sales,30,Female,Married,2,2,4736,3,2,4,80,3,2,2,12,2,2,25,1,3,7,Y,Yes
+om parkash ahuja,sales,26,Male,Married,3,8,5296,3,2,3,80,3,4,3,17,8,7,1,1,3,1,Y,No
+kamre alam,sales,42,Male,Single,4,1,6781,4,1,1,80,4,2,6,23,1,0,2,1,2,3,Y,No
+muskan,sales,21,Female,Single,1,3,2174,3,2,1,80,2,2,3,11,3,2,1,1,2,1,Y,Yes
+sonia tiwari,sales,36,Female,Single,5,1,6653,3,1,4,80,4,1,6,15,1,0,1,1,3,4,Y,No
+satpal,sales,36,Male,Married,4,13,9699,3,2,1,80,4,1,2,11,13,9,3,1,2,4,Y,No
+ram pyare,sales,57,Male,Married,4,3,6755,3,1,4,80,3,2,2,11,3,2,1,1,3,2,Y,No
+monika,sales,40,Female,Married,4,7,2213,3,1,4,80,3,1,3,13,7,7,10,1,4,3,Y,Yes
+ashfaq,sales,21,Male,Single,2,3,2610,4,2,1,80,4,3,3,24,3,2,9,1,3,1,Y,No
+neelam,sales,33,Female,Single,3,1,2851,3,1,4,80,3,3,2,13,1,0,5,1,3,1,Y,Yes
+gungun,sales,37,Female,Married,3,5,3452,4,1,3,80,1,2,3,20,5,4,10,1,3,6,Y,No
+anita,sales,46,Female,Married,4,1,5258,3,1,3,80,3,1,2,14,1,0,7,1,3,2,Y,No
+hari ram,sales,41,Male,Single,3,8,9355,3,2,1,80,2,4,5,18,8,7,4,1,3,1,Y,No
+manoj kumar,sales,50,Male,Single,3,4,10496,3,1,4,80,4,1,2,15,4,3,10,1,2,6,Y,No
+parash das,sales,40,Male,Married,2,6,6380,3,1,3,80,3,4,6,12,6,4,22,1,2,2,Y,Yes
+mehraj,sales,31,Male,Single,4,2,2657,3,2,3,80,2,2,5,16,2,2,9,1,2,0,Y,Yes
+manju devi,sales,21,Female,Single,3,1,2716,3,1,3,80,2,3,0,15,1,0,12,1,4,1,Y,No
+bhanwar lal,sales,29,Male,Single,3,3,2201,3,1,4,80,4,1,4,16,3,2,23,1,3,9,Y,No
+sanavvar,sales,35,Male,Single,4,1,6540,3,2,3,80,2,3,5,19,1,1,9,1,2,9,Y,No
+rahul sharma,sales,27,Male,Divorced,2,5,3816,3,2,4,80,2,1,2,11,5,2,1,1,3,1,Y,No
+mustaq,sales,28,Male,Single,4,7,5253,3,1,2,80,4,1,1,16,7,5,9,1,3,1,Y,No
+ramkaran verma,sales,49,Male,Single,3,5,10965,4,1,2,80,3,4,2,24,5,2,7,1,2,8,Y,No
+mukhtyar hussain,sales,51,Female,Married,2,7,4936,3,1,3,80,4,1,2,11,7,7,14,1,3,4,Y,No
+alka,sales,36,Female,Married,3,2,2543,3,1,4,80,3,1,3,13,2,2,2,1,3,4,Y,No
+bilal malik,sales,34,Male,Single,3,5,5304,3,1,1,80,4,4,3,13,5,2,19,1,4,8,Y,Yes
+radheshyam sen,sales,55,Female,Single,3,5,16659,3,2,3,80,4,4,2,13,5,4,2,1,3,2,Y,Yes
+kajal,sales,24,Female,Divorced,4,5,4260,3,2,4,80,3,2,2,12,5,2,10,1,3,1,Y,Yes
+sunil kumar,sales,30,Male,Married,1,1,2476,3,2,3,80,2,4,3,18,1,0,2,1,3,1,Y,No
+sunny,sales,26,Male,Single,1,6,3102,4,2,3,80,1,4,2,22,6,4,3,1,3,0,Y,No
+jitender rajak,sales,22,Female,Married,3,2,2244,3,1,1,80,2,4,1,13,2,1,11,1,3,1,Y,No
+brahamprakash s/o meer singh,sales,36,Male,Married,2,10,7596,3,1,2,80,3,2,2,13,10,9,2,1,2,1,Y,No
+raju singh,sales,30,Male,Single,3,1,2285,4,2,3,80,4,1,4,23,1,0,4,1,3,9,Y,Yes
+sobit saini,sales,37,Female,Divorced,3,18,3034,3,1,4,80,1,3,2,12,18,7,14,1,3,1,Y,No
+inder dutt,sales,40,Female,Divorced,2,5,5715,3,2,4,80,2,2,5,12,5,4,2,1,3,7,Y,No
+madhuri,sales,42,Female,Divorced,4,5,2576,3,2,2,80,1,3,5,16,5,2,1,1,3,3,Y,No
+haseen ahmed,sales,37,Male,Single,4,1,4197,3,2,3,80,2,4,2,12,1,0,10,1,3,2,Y,Yes
+kiran,sales,43,Male,Divorced,3,25,14336,3,2,1,80,2,1,3,11,25,10,12,1,2,1,Y,No
+gulam rashul,sales,40,Female,Married,3,1,3448,4,2,2,80,3,1,3,22,1,0,2,1,2,6,Y,No
+rajan,sales,54,Male,Married,2,4,19406,3,1,1,80,1,3,4,11,4,2,5,1,3,4,Y,No
+minakshi,sales,34,Female,Married,4,3,6538,3,1,3,80,3,1,3,15,3,2,4,1,3,9,Y,No
+shajiya,sales,31,Female,Married,2,13,4306,3,1,2,80,1,1,5,12,13,10,7,1,3,1,Y,No
+sehboob,sales,43,Male,Married,3,3,2258,4,2,4,80,4,4,1,20,3,2,21,1,3,7,Y,No
+sonam,sales,43,Female,Divorced,4,5,4522,3,2,3,80,3,2,3,14,5,2,8,1,3,4,Y,Yes
+manish,sales,25,Female,Single,2,5,4487,3,1,2,80,4,3,3,11,5,4,4,1,2,1,Y,Yes
+preeti,sales,37,Female,Married,5,13,4449,3,2,2,80,3,4,2,15,13,11,25,1,3,3,Y,Yes
+divaraj,sales,31,Male,Married,2,4,2218,3,1,4,80,1,3,3,12,4,2,1,1,2,1,Y,No
+kamlesh,sales,39,Male,Divorced,1,21,19197,3,2,2,80,3,1,3,14,21,8,1,1,3,1,Y,Yes
+sandhya,sales,56,Female,Married,3,7,13212,3,1,3,80,1,4,0,11,7,7,6,1,4,9,Y,No
+nikita senger,sales,30,Female,Single,3,5,6577,3,2,2,80,3,1,6,11,5,4,12,1,3,0,Y,No
+rahul,sales,41,Male,Married,3,10,8392,3,1,2,80,1,1,2,16,10,7,1,1,4,1,Y,No
+"devender singh s/o shrinath r/o kh. no. 72/1, utsa",sales,28,Male,Divorced,2,10,4558,3,2,3,80,1,3,2,12,10,0,17,1,3,1,Y,No
+azruddin,sales,25,Male,Married,3,2,4031,3,1,1,80,1,1,5,13,2,2,3,1,3,5,Y,No
+sanjay kumar @ pappu,sales,52,Male,Married,3,5,7969,3,2,4,80,3,1,4,14,5,4,3,1,2,2,Y,Yes
+mushir ahmed,sales,45,Male,Married,2,2,2654,4,2,1,80,4,3,3,21,2,2,10,1,3,3,Y,No
+vibhuti shyamal,sales,52,Female,Married,2,5,16555,3,1,4,80,4,3,2,13,5,2,4,1,3,2,Y,No
+inderjeet,sales,42,Female,Divorced,2,5,4556,3,1,1,80,3,3,3,11,5,4,29,1,3,2,Y,No
+sanjay,sales,30,Female,Single,3,5,6091,4,1,3,80,4,1,2,20,5,4,2,1,1,2,Y,No
+golu,sales,60,Female,Married,3,29,19566,3,1,1,80,1,3,5,11,29,8,7,1,3,5,Y,No
+layba noor,sales,46,Female,Divorced,3,10,4810,3,2,3,80,3,4,5,14,10,7,18,1,3,2,Y,No
+iqra,sales,42,Female,Married,4,6,4523,3,2,4,80,4,3,4,11,6,5,28,1,2,0,Y,No
+salima,sales,24,Female,Single,1,5,3202,3,1,1,80,2,2,4,16,5,3,1,1,3,1,Y,Yes
+naziya siddiqui,sales,34,Female,Divorced,2,2,2351,3,1,4,80,3,3,3,16,2,2,6,1,1,0,Y,No
+rijakpal,sales,38,Male,Married,2,1,1702,4,1,4,80,4,3,3,23,1,0,2,1,3,1,Y,Yes
+priti,sales,40,Female,Married,4,20,18041,3,1,3,80,3,1,2,14,20,15,2,1,3,0,Y,No
+kamni,sales,26,Female,Divorced,3,3,2886,4,1,1,80,4,2,3,22,3,2,23,1,3,1,Y,No
+jai prakash kashyap,sales,30,Male,Married,3,5,2097,3,2,3,80,4,1,3,15,5,3,3,1,3,4,Y,No
+jai prakash kashyap,sales,29,Male,Married,4,10,11935,3,1,2,80,3,3,2,18,10,2,3,1,2,1,Y,No
+sandhya,sales,29,Female,Married,5,2,2546,3,2,3,80,2,1,2,16,2,2,25,1,2,5,Y,No
+parveen aggarwal,sales,19,Male,Single,2,1,2564,3,2,1,80,4,3,3,12,1,0,2,1,2,1,Y,No
+pramod paswan,sales,30,Female,Married,4,9,8412,3,2,3,80,1,4,3,11,9,8,22,1,3,0,Y,No
+ajit,sales,57,Male,Divorced,3,1,14118,3,2,1,80,4,3,3,12,1,0,29,1,2,3,Y,No
+deelip,sales,50,Male,Married,4,27,17046,3,1,2,80,3,2,2,15,27,10,29,1,2,0,Y,No
+priya,sales,30,Female,Single,3,11,2564,3,2,3,80,4,3,2,14,11,7,2,1,3,0,Y,No
+pooja,sales,60,Female,Married,3,18,10266,3,1,3,80,1,3,5,19,18,13,28,1,2,4,Y,No
+minakchi,sales,47,Female,Divorced,2,5,5070,3,2,1,80,4,2,2,13,5,0,2,1,3,5,Y,No
+monu,sales,46,Male,Married,3,3,17861,3,2,1,80,3,1,2,13,3,2,2,1,3,6,Y,No
+ramesh,sales,35,Male,Single,3,5,4230,3,2,4,80,3,4,2,15,5,4,22,1,1,0,Y,No
+sawan gupta,sales,54,Female,Single,4,1,3780,3,1,3,80,3,4,3,11,1,0,8,1,3,7,Y,No
+munna lal,sales,34,Male,Divorced,4,7,2768,3,2,4,80,3,3,3,12,7,3,2,1,2,3,Y,No
+ruby,sales,46,Female,Married,3,3,9071,3,1,3,80,4,4,3,19,3,2,10,1,2,2,Y,Yes
+sarvesh kumar pandey,sales,31,Male,Divorced,1,13,10648,4,2,3,80,2,3,6,25,13,8,9,1,3,1,Y,No
+avdhesh,sales,33,Male,Married,1,7,13610,3,2,2,80,3,1,2,12,7,6,15,1,3,7,Y,Yes
+sohnal kumar singh,sales,33,Male,Divorced,1,4,3408,3,2,1,80,4,3,2,13,4,3,10,1,1,7,Y,No
+najar hussan,sales,30,Male,Single,1,3,2983,3,2,4,80,2,1,3,14,3,2,7,1,3,0,Y,No
+raman ,sales,35,Male,Married,3,8,7632,3,2,4,80,3,4,2,12,8,7,16,1,3,4,Y,Yes
+lavtar singh,sales,31,Male,Married,3,1,9824,3,1,1,80,3,3,2,12,1,0,20,1,3,3,Y,No
+nanak chand,sales,34,Female,Divorced,3,3,9950,3,1,2,80,1,1,2,15,3,2,23,1,3,9,Y,Yes
+harprasad sahu,sales,42,Male,Married,2,2,2093,3,1,2,80,3,4,4,17,2,2,5,1,3,4,Y,No
+vikas kumar,sales,36,Male,Single,4,10,9980,3,2,2,80,4,1,3,14,10,3,10,1,3,1,Y,No
+ashsish kumar,sales,22,Male,Single,1,2,3894,3,2,3,80,3,2,3,16,2,2,4,1,2,5,Y,No
+sheetal,sales,48,Female,Married,5,9,4051,3,2,2,80,4,2,2,14,9,7,2,1,3,2,Y,No
+ashu,sales,55,Female,Single,5,10,16835,4,2,1,80,2,1,2,23,10,9,18,1,3,3,Y,No
+manjeet,sales,41,Male,Single,2,14,6230,3,1,4,80,4,1,3,14,14,3,10,1,3,7,Y,No
+jaipal,sales,35,Male,Married,3,11,4717,3,2,2,80,3,2,2,11,11,9,1,1,3,9,Y,No
+jalil ansari,sales,40,Female,Single,3,20,13237,3,1,2,80,3,1,3,15,20,6,6,1,3,7,Y,No
+deepali verma,sales,39,Female,Married,1,8,3755,3,1,3,80,3,3,3,11,8,3,8,1,3,1,Y,No
+kasim,sales,31,Male,Single,1,6,6582,3,1,2,80,4,4,2,13,6,5,2,1,3,4,Y,Yes
+monu kumar,sales,42,Male,Married,3,10,7406,4,1,4,80,1,1,5,21,10,9,24,1,3,1,Y,Yes
+shankar kumar,sales,45,Male,Married,3,8,4805,3,2,4,80,2,3,3,19,8,7,2,1,3,0,Y,No
+manisha kumar saket,sales,26,Female,Divorced,4,7,2741,3,1,2,80,3,2,2,11,7,7,17,1,3,0,Y,Yes
+vijay,sales,29,Male,Divorced,3,3,4262,3,1,4,80,4,4,2,12,3,2,19,1,3,4,Y,No
+kalyani patro,sales,33,Female,Divorced,5,6,16184,3,1,1,80,3,2,2,19,6,1,1,1,4,4,Y,No
+saurabh s/o,sales,31,Male,Divorced,3,5,11557,4,2,3,80,4,4,3,21,5,4,7,1,2,9,Y,No
+ayush,sales,18,Male,Single,3,0,1878,3,1,2,80,2,3,3,14,0,0,5,1,3,1,Y,Yes
+ravinder,sales,40,Male,Divorced,3,1,10932,3,1,3,80,1,3,2,15,1,0,28,1,1,3,Y,No
+priyanka,sales,41,Female,Single,4,8,6811,3,2,1,80,3,3,3,17,8,7,2,1,2,2,Y,Yes
+narayan gadri,sales,26,Male,Divorced,2,0,4306,3,2,1,80,3,4,5,12,0,0,29,1,3,5,Y,No
+lakshmi nath,sales,35,Female,Single,3,5,4859,3,1,1,80,3,1,3,16,5,4,1,1,3,1,Y,No
+rahul,sales,34,Male,Single,4,10,5337,3,2,4,80,4,3,3,12,10,7,21,1,4,1,Y,No
+rohit,sales,26,Male,Single,3,1,2340,3,2,3,80,4,4,3,18,1,0,24,1,1,1,Y,Yes
+anjali,sales,37,Female,Single,3,6,7491,3,2,2,80,4,1,3,17,6,5,1,1,3,4,Y,No
+sayli kumar,sales,46,Female,Married,1,2,10527,3,2,1,80,3,2,3,11,2,2,18,1,3,5,Y,No
+dhanwanti  devi,sales,41,Female,Married,5,18,16595,3,1,2,80,1,3,2,16,18,16,2,1,3,7,Y,No
+amarjeet,sales,37,Male,Divorced,4,9,8834,3,1,1,80,2,4,6,13,9,5,9,1,3,1,Y,No
+munna @ ravi jaiswal,sales,52,Male,Divorced,2,10,5577,3,2,4,80,1,1,3,12,10,9,6,1,3,3,Y,Yes
+ishtkar,sales,32,Male,Married,4,4,4707,3,2,4,80,3,2,2,12,4,2,11,1,4,8,Y,No
+harish chand,sales,24,Male,Married,3,2,2400,3,2,4,80,4,3,3,13,2,2,24,1,3,0,Y,No
+vandana,sales,38,Female,Married,3,1,9824,3,2,3,80,3,4,4,19,1,0,10,1,3,3,Y,No
+abhisha,sales,37,Female,Married,4,6,6447,3,2,2,80,2,2,2,12,6,5,1,1,3,6,Y,No
+rashab,sales,49,Male,Divorced,4,31,19502,3,1,4,80,3,3,5,17,31,9,18,1,2,1,Y,Yes
+amit kumar shukla,sales,24,Male,Married,3,6,2725,3,2,2,80,4,2,3,11,6,5,23,1,4,1,Y,Yes
+vinod,sales,26,Male,Married,2,5,6272,4,1,1,80,2,2,5,20,5,3,28,1,3,1,Y,No
+praful naag,sales,24,Male,Married,2,1,2127,4,1,4,80,2,3,2,21,1,0,17,1,2,1,Y,No
+tarachand @ pappu,sales,50,Male,Married,3,32,18200,3,2,1,80,2,2,2,11,32,5,3,1,3,1,Y,No
+deepak rana,sales,25,Male,Married,1,7,2096,3,2,2,80,3,4,1,11,7,4,13,1,3,1,Y,No
+shehnaz,sales,24,Female,Married,3,6,2886,3,1,1,80,3,3,4,16,6,3,7,1,3,1,Y,Yes
+narender,sales,30,Male,Married,4,1,2033,3,2,2,80,1,1,2,18,1,0,12,1,2,1,Y,No
+lal babu prasad,sales,34,Male,Married,2,6,3622,3,2,2,80,4,4,3,13,6,5,1,1,2,1,Y,Yes
+dinesh,sales,31,Male,Divorced,4,3,4233,3,2,2,80,1,3,2,17,3,1,13,1,3,2,Y,No
+rakesh,sales,35,Male,Single,2,3,3681,3,1,1,80,4,3,3,14,3,2,25,1,2,4,Y,No
+ankush,sales,31,Male,Divorced,4,7,5460,4,2,1,80,4,3,4,22,7,7,6,1,4,4,Y,No
+kuldeep,sales,27,Female,Divorced,4,5,2187,3,1,1,80,3,3,5,12,5,3,6,1,2,0,Y,No
+lal chand,sales,37,Male,Married,3,3,9602,3,1,4,80,3,2,3,11,3,0,2,1,3,4,Y,Yes
+kajal,sales,20,Female,Single,3,1,2836,3,1,4,80,2,2,0,13,1,0,1,1,2,1,Y,No
+panyal,sales,42,Female,Married,4,10,4089,3,2,3,80,4,3,4,13,10,2,2,1,3,1,Y,No
+sanjay,sales,43,Male,Divorced,4,1,16627,3,1,2,80,4,2,3,14,1,0,6,1,2,4,Y,Yes
+kiran pal,sales,38,Female,Single,1,0,2619,3,2,3,80,1,2,3,17,0,0,1,1,3,3,Y,No
+ranveer singh,sales,43,Male,Divorced,5,8,5679,3,2,4,80,3,3,3,13,8,7,9,1,3,3,Y,Yes
+anwanti,sales,48,Female,Married,4,3,15402,3,2,4,80,1,1,3,11,3,2,1,1,2,7,Y,No
+ranju,sales,44,Female,Single,4,2,5985,3,2,1,80,3,4,1,11,2,2,1,1,2,4,Y,No
+goravi,sales,34,Female,Divorced,3,8,2579,3,1,3,80,3,2,3,18,8,2,14,1,3,1,Y,Yes
+raj kumar @ raju,sales,27,Male,Divorced,1,4,3041,3,2,3,80,1,4,3,11,4,3,2,1,3,0,Y,No
+jitender,sales,21,Male,Single,1,3,3447,3,2,3,80,3,3,2,11,3,2,22,1,3,1,Y,No
+laxmikant @kaka,sales,44,Male,Married,4,2,19513,3,1,4,80,4,1,2,12,2,2,3,1,3,4,Y,Yes
+narayan parsad bhushal,sales,22,Male,Married,1,2,2773,4,1,1,80,3,1,3,20,2,2,6,1,3,0,Y,No
+abbas,sales,33,Male,Divorced,4,5,7104,3,1,3,80,3,3,3,12,5,0,8,1,3,0,Y,No
+vidhi,sales,32,Female,Married,4,6,6322,3,2,1,80,4,1,2,12,6,4,9,1,3,1,Y,Yes
+jyoti,sales,30,Female,Divorced,3,1,2083,4,1,3,80,3,3,2,20,1,0,3,1,3,1,Y,No
+hukum chand,sales,53,Female,Single,1,14,8381,4,2,4,80,1,3,2,20,14,7,1,1,3,7,Y,No
+pappu @ mahender singh,sales,34,Male,Married,5,10,2691,3,1,2,80,4,4,4,12,10,9,1,1,3,1,Y,No
+rakhi,sales,45,Female,Married,4,1,4286,3,2,1,80,1,4,4,14,1,1,26,1,3,2,Y,No
+mansi chand tiwari,sales,26,Female,Married,3,3,2659,3,2,3,80,4,3,2,13,3,2,6,1,3,1,Y,Yes
+rekhai,sales,37,Male,Married,3,10,9434,3,2,3,80,3,2,2,15,10,7,3,1,3,1,Y,No
+gajender kumar,sales,29,Female,Married,2,6,5561,3,2,2,80,3,4,5,14,6,0,3,1,3,1,Y,No
+vashudev,sales,35,Male,Single,4,17,6646,3,1,2,80,4,1,3,13,17,11,6,1,1,1,Y,No
+bhanwar singh,sales,33,Male,Divorced,3,13,7725,4,2,3,80,4,2,2,23,13,11,6,1,3,3,Y,No
+amit kumar,sales,54,Male,Married,4,9,10725,3,1,3,80,2,2,1,15,9,7,19,1,3,2,Y,No
+surender sain,sales,36,Male,Divorced,2,3,8847,3,1,2,80,2,3,2,11,3,2,9,1,2,2,Y,Yes
+akshay kumar,sales,27,Male,Single,4,4,2045,3,1,1,80,4,3,0,13,4,2,3,1,2,0,Y,No
+goldy,sales,20,Male,Single,1,1,1009,3,1,4,80,3,1,5,11,1,0,10,1,3,1,Y,Yes
+satyender @ kalu,sales,33,Male,Single,3,10,3348,3,2,1,80,1,4,3,11,10,8,3,1,3,1,Y,Yes
+devender,sales,35,Male,Married,3,1,1281,3,2,3,80,3,2,3,18,1,0,3,1,2,1,Y,No
+veer,sales,23,Male,Married,3,3,2819,3,1,1,80,1,2,3,16,3,2,4,1,4,2,Y,No
+ankush @ shera,sales,25,Male,Married,3,3,4851,4,1,4,80,2,1,4,22,3,2,8,1,4,0,Y,No
+Anika,sales,38,Female,Single,4,7,4028,4,2,4,80,4,4,2,20,7,7,7,1,2,0,Y,No
+babloo,sales,29,Male,Divorced,4,10,2720,3,1,2,80,4,1,5,18,10,7,1,1,1,1,Y,No
+bhavesh dass,sales,48,Male,Married,1,2,8120,3,2,2,80,2,1,3,12,2,2,2,1,4,3,Y,No
+gouravi,sales,27,Female,Divorced,1,6,4647,4,2,4,80,4,3,3,20,6,5,3,1,4,1,Y,Yes
+sunil,sales,37,Male,Single,2,1,4680,3,1,4,80,4,1,2,17,1,0,10,1,4,3,Y,No
+guddu rai,sales,50,Male,Married,1,20,3221,3,1,4,80,3,1,3,11,20,8,28,1,4,1,Y,Yes
+Bhavna rawat,sales,34,Female,Single,3,8,8621,3,1,4,80,2,4,3,14,8,7,9,1,2,1,Y,No
+Charul,sales,24,Female,Single,2,2,4577,3,2,1,80,3,2,3,14,2,2,3,1,3,9,Y,No
+Divya agarwal,sales,39,Female,Single,4,20,4553,3,2,4,80,3,3,4,11,20,7,2,1,2,1,Y,No
+tara singh rawat,sales,32,Male,Single,3,10,5396,3,2,4,80,4,2,2,12,10,7,10,1,3,1,Y,No
+momin,sales,50,Male,Married,2,4,6796,3,1,2,80,3,2,4,14,4,3,8,1,3,3,Y,Yes
+Ekta kumar,sales,38,Female,Single,4,9,7625,3,1,2,80,4,2,4,13,9,7,1,1,4,0,Y,No
+Falak kumar,sales,27,Female,Married,2,9,7412,3,2,3,80,1,4,3,11,9,7,1,1,3,1,Y,No
+parminder,sales,32,Female,Single,2,7,11159,3,2,3,80,4,1,6,15,7,7,3,1,3,3,Y,No
+mustafa,sales,47,Male,Single,4,7,4960,3,1,4,80,1,1,2,12,7,7,14,1,3,2,Y,No
+ajay haldar,sales,40,Male,Married,4,18,10475,4,2,4,80,1,2,2,21,18,13,5,1,2,5,Y,Yes
+sanjay,sales,53,Male,Married,3,5,14814,3,1,3,80,3,2,3,19,5,1,7,1,4,3,Y,No
+dharmender,sales,41,Male,Divorced,4,21,19141,3,1,2,80,4,2,2,15,21,6,10,1,2,3,Y,No
+gaurav sethi,sales,60,Male,Single,4,2,5405,3,1,1,80,1,4,1,14,2,2,16,1,3,8,Y,No
+suresh,sales,27,Male,Divorced,2,9,8793,4,2,4,80,1,4,4,21,9,7,10,1,3,1,Y,No
+rohit,sales,41,Male,Married,3,22,19189,3,2,4,80,3,1,3,12,22,7,1,1,2,1,Y,No
+dinesh,sales,50,Male,Married,4,2,3875,3,2,4,80,2,2,2,15,2,2,8,1,3,7,Y,No
+Gitanjali kumar,sales,28,Female,Single,2,7,2216,3,2,1,80,2,1,4,13,7,7,1,1,1,7,Y,Yes
+Hema,sales,36,Female,Married,3,8,11713,3,1,1,80,1,1,2,14,8,7,8,1,4,9,Y,No
+Ishita,sales,38,Female,Single,3,1,7861,3,1,3,80,3,1,4,14,1,0,1,1,3,4,Y,Yes
+parth madan,sales,44,Male,Single,3,5,3708,3,2,1,80,3,3,5,14,5,2,24,1,1,2,Y,No
+kuldeep,sales,47,Female,Divorced,3,22,13770,3,2,4,80,3,2,2,12,22,2,3,1,3,9,Y,Yes
+abhimanyu,sales,30,Male,Divorced,5,8,5304,4,1,3,80,4,4,2,23,8,7,27,1,3,7,Y,No
+pawan kumar @ sonu,sales,29,Male,Single,3,1,2642,3,2,3,80,3,1,6,11,1,0,10,1,3,1,Y,No
+rohan,sales,42,Male,Divorced,3,2,2759,3,2,3,80,3,2,2,12,2,2,19,1,4,6,Y,Yes
+raju garg,sales,43,Male,Married,3,2,6804,3,2,4,80,4,4,5,18,2,2,15,1,2,3,Y,No
+Jyoti mishra,sales,34,Female,Single,2,5,6142,3,1,2,80,3,4,2,11,5,1,8,1,3,3,Y,No
+ram dayal,sales,23,Male,Married,1,4,2500,3,1,2,80,1,1,2,14,4,3,9,1,3,1,Y,No
+Kavita chand,sales,39,Female,Married,3,8,6389,3,2,3,80,2,3,3,15,8,3,3,1,4,9,Y,No
+kanheya,sales,56,Male,Married,3,10,11103,3,2,3,80,4,1,1,11,10,7,9,1,3,7,Y,No
+Lata,sales,40,Female,Single,1,4,2342,4,2,4,80,4,1,2,20,4,2,2,1,2,0,Y,Yes
+Meera,sales,27,Female,Single,3,7,6811,3,1,4,80,1,4,2,19,7,6,7,1,2,8,Y,No
+prem,sales,29,Male,Divorced,3,2,2297,3,2,4,80,2,2,2,14,2,2,10,1,3,1,Y,No
+pardeep kumar,sales,53,Male,Single,3,2,2450,3,1,4,80,4,4,4,17,2,2,6,1,3,2,Y,No
+monali,sales,35,Female,Divorced,4,1,5093,3,1,4,80,1,3,2,11,1,0,2,1,3,2,Y,No
+pawan,sales,32,Male,Married,4,10,5309,3,2,1,80,4,1,2,15,10,8,24,1,3,1,Y,No
+manoj kumar,sales,38,Male,Married,5,1,3057,3,1,4,80,3,2,0,13,1,0,2,1,3,6,Y,Yes
+Naina,sales,34,Female,Divorced,5,0,5121,3,2,2,80,1,2,3,14,0,0,8,1,3,3,Y,No
+nithyanandham,sales,52,Male,Married,4,34,16856,3,2,3,80,1,3,3,11,34,6,3,1,2,1,Y,No
+deepak goyal,sales,33,Male,Single,4,10,2686,3,1,4,80,4,1,2,13,10,9,1,1,3,1,Y,Yes
+Pooja ladkani,sales,25,Female,Single,1,6,6180,4,2,3,80,4,4,5,23,6,5,26,1,3,1,Y,No
+ajay,sales,45,Male,Single,2,8,6632,3,1,2,80,3,3,3,13,8,7,2,1,1,0,Y,No
+gopal,sales,23,Male,Single,1,2,3505,3,2,1,80,3,2,3,18,2,2,10,1,4,1,Y,No
+Rani,sales,47,Female,Single,2,5,6397,3,1,2,80,3,4,2,12,5,4,27,1,4,4,Y,Yes
+mahavir,sales,34,Male,Single,3,6,6274,4,1,4,80,4,1,5,22,6,5,2,1,3,1,Y,No
+indra sain,sales,55,Male,Married,3,5,19859,3,2,4,80,1,2,2,13,5,2,2,1,3,5,Y,Yes
+soni,sales,36,Male,Single,4,10,7587,3,2,1,80,1,2,1,15,10,7,8,1,2,1,Y,No
+arun kumar,sales,52,Male,Married,4,4,4258,3,1,4,80,4,1,3,18,4,3,19,1,3,0,Y,No
+Sangeeta sharma,sales,26,Female,Divorced,2,2,4364,3,2,1,80,4,4,2,14,2,2,1,1,1,3,Y,No
+Trisha singh,sales,29,Female,Married,3,8,4335,3,1,2,80,3,4,3,12,8,7,27,1,3,4,Y,No
+aman dahiya,sales,26,Male,Single,3,4,5326,3,2,4,80,1,2,2,17,4,3,8,1,2,6,Y,No
+urmila,sales,34,Female,Single,4,4,3280,3,2,2,80,4,1,2,16,4,2,1,1,4,2,Y,No
+laxmi narayan,sales,54,Female,Divorced,4,5,5485,3,1,4,80,1,3,4,11,5,3,19,1,3,9,Y,Yes
+vikram dubey,sales,27,Male,Married,1,4,4342,3,2,3,80,4,1,3,19,4,2,8,1,3,0,Y,No
+rima,sales,37,Female,Divorced,1,5,2782,3,2,4,80,1,2,3,13,5,3,10,1,3,0,Y,Yes
+vaishali,sales,38,Female,Single,4,15,5980,3,1,1,80,1,2,2,12,15,7,2,1,4,6,Y,Yes
+virender,sales,34,Female,Single,4,6,4381,3,2,3,80,1,3,3,11,6,5,2,1,2,1,Y,No
+tara singh rawat,sales,35,Female,Married,4,3,2572,3,1,1,80,4,4,1,16,3,2,8,1,3,1,Y,No
+ramjan khan,sales,30,Male,Married,3,2,3833,4,1,4,80,3,2,2,21,2,2,1,1,1,3,Y,No
+sunder,sales,40,Female,Married,2,8,4244,4,1,3,80,2,4,2,24,8,7,2,1,4,1,Y,No
+bhagya,sales,34,Female,Married,2,3,6500,3,2,3,80,1,1,1,17,3,2,8,1,3,5,Y,No
+saddam,sales,42,Male,Divorced,3,24,18430,3,1,2,80,4,2,4,13,24,7,8,1,3,1,Y,No
+alok tiwari,sales,23,Male,Married,3,0,1601,4,2,3,80,1,4,2,21,0,0,6,1,4,1,Y,Yes
+vude bhadur,sales,24,Male,Divorced,3,1,2694,3,1,3,80,2,3,4,11,1,0,9,1,2,1,Y,No
+farah singh bidla,sales,52,Female,Married,4,5,3149,4,1,4,80,3,2,3,20,5,2,11,1,3,8,Y,No
+chetanya swaroop,sales,50,Male,Married,3,4,17639,3,2,3,80,3,3,3,16,4,3,2,1,3,5,Y,No
+gargee,sales,29,Female,Married,2,1,2319,3,1,2,80,1,2,1,11,1,0,1,1,2,1,Y,Yes
+shardanand,sales,33,Male,Married,3,13,11691,3,2,3,80,3,1,3,11,13,9,7,1,3,0,Y,No
+heena,sales,33,Female,Single,3,3,5324,3,2,1,80,1,3,3,15,3,2,16,1,3,5,Y,No
+indira,sales,47,Female,Married,2,26,16752,3,2,3,80,4,4,3,11,26,14,2,1,3,1,Y,Yes
+gauravi shankar,sales,36,Female,Married,3,9,5228,3,2,3,80,2,1,2,15,9,7,1,1,3,0,Y,No
+shsi kant,sales,29,Male,Married,2,10,2700,4,2,3,80,3,2,3,24,10,7,23,1,4,1,Y,No
+md. tavrej,sales,58,Male,Single,4,31,19246,3,1,4,80,2,4,2,12,31,15,2,1,3,7,Y,Yes
+juhi,sales,35,Female,Single,4,2,2506,3,2,4,80,3,1,0,13,2,2,1,1,4,3,Y,No
+kamini,sales,42,Female,Married,2,4,6062,3,2,4,80,4,1,4,13,4,3,1,1,2,9,Y,Yes
+brij raj,sales,28,Male,Single,4,2,4382,3,1,3,80,3,4,3,17,2,2,2,1,3,6,Y,No
+aman kumar,sales,36,Male,Married,3,5,2143,3,1,3,80,2,2,2,13,5,2,13,1,3,4,Y,No
+disha,sales,32,Female,Married,3,14,6162,3,1,3,80,3,2,3,12,14,13,4,1,2,1,Y,No
+vijay kumar,sales,40,Male,Single,4,1,5094,3,2,1,80,3,4,6,14,1,0,16,1,2,6,Y,No
+neelam,sales,30,Female,Single,3,0,6877,4,2,3,80,4,3,4,24,0,0,2,1,2,5,Y,Yes
+rupali,sales,45,Female,Single,3,1,2274,3,2,2,80,3,1,3,14,1,0,2,1,2,1,Y,No
+sapna,sales,42,Male,Married,3,9,4434,3,1,2,80,2,3,3,13,9,8,29,1,3,1,Y,No
+surendra,sales,38,Male,Divorced,3,4,6288,3,2,1,80,1,2,3,15,4,3,12,1,2,2,Y,No
+shalini,sales,34,Female,Single,4,5,2553,3,2,3,80,4,4,3,16,5,2,16,1,2,1,Y,No
+tanvi niwas,sales,49,Female,Married,3,9,7654,3,2,3,80,4,4,3,18,9,8,11,1,3,1,Y,No
+amar,sales,55,Male,Single,1,9,5160,3,1,3,80,4,3,3,16,9,7,2,1,3,4,Y,No
+nanhu khan,sales,43,Male,Married,2,4,17159,4,2,2,80,1,4,3,24,4,1,14,1,3,6,Y,No
+kishan,sales,27,Male,Divorced,1,9,12808,3,1,3,80,4,4,3,16,9,8,5,1,2,1,Y,Yes
+dharmender,sales,35,Male,Single,3,8,10221,4,1,3,80,3,4,3,21,8,5,7,1,3,3,Y,No
+usha,sales,28,Female,Married,4,8,4779,4,1,2,80,2,1,2,20,8,7,2,1,3,1,Y,Yes
+rishab,sales,34,Male,Married,2,3,3737,3,1,3,80,4,1,1,19,3,2,3,1,3,0,Y,No
+aaradhya,sales,26,Female,Married,2,8,2366,3,2,3,80,3,1,2,14,8,7,5,1,2,1,Y,Yes
+jag mohan,sales,27,Male,Married,3,0,1706,3,1,4,80,4,3,6,11,0,0,3,1,3,1,Y,No
+chhaya,sales,51,Female,Married,4,20,16307,3,2,1,80,3,3,2,14,20,6,26,1,3,2,Y,No
+ritu raj kumar,sales,44,Male,Single,3,5,5933,3,2,4,80,2,2,2,12,5,2,4,1,3,9,Y,No
+manoj kumar,sales,25,Male,Single,1,4,3424,3,1,1,80,1,3,3,13,4,3,2,1,4,7,Y,No
+raj kapoor,sales,33,Male,Divorced,3,9,4037,4,2,1,80,1,1,5,22,9,8,1,1,4,1,Y,No
+diya,sales,35,Female,Single,1,6,2559,3,1,3,80,1,1,3,11,6,5,27,1,2,1,Y,No
+rajbir ahlawat,sales,36,Male,Married,2,18,6201,3,1,2,80,4,2,1,14,18,14,1,1,3,1,Y,Yes
+mohd faijan,sales,32,Male,Divorced,4,5,4403,3,1,2,80,4,1,3,11,5,2,13,1,3,2,Y,No
+suraj,sales,30,Male,Divorced,4,5,3761,3,2,2,80,4,3,3,12,5,4,5,1,2,9,Y,No
+shyama,sales,53,Female,Married,2,5,10934,3,1,1,80,4,2,3,18,5,2,7,1,2,7,Y,Yes
+mohd. firoz,sales,45,Male,Divorced,3,5,10761,3,2,4,80,1,2,2,12,5,4,9,1,3,4,Y,Yes
+falguni,sales,32,Female,Married,2,5,5175,3,1,3,80,3,4,3,12,5,3,8,1,4,5,Y,No
+geeta,sales,52,Female,Married,4,9,13826,4,1,3,80,4,1,3,22,9,8,25,1,2,3,Y,No
+sachin,sales,37,Male,Divorced,4,1,6334,3,2,4,80,3,4,2,19,1,0,16,1,2,4,Y,No
+parbhat,sales,28,Male,Divorced,2,5,4936,3,1,2,80,4,2,6,13,5,1,8,1,2,1,Y,No
+aamod & pramod,sales,22,Male,Married,2,2,4775,4,2,4,80,4,3,2,22,2,2,1,1,2,6,Y,No
+chander shekhar,sales,44,Male,Married,4,3,2818,4,1,1,80,4,2,2,24,3,2,8,1,4,2,Y,Yes
+nanagram,sales,42,Male,Single,1,2,2515,3,2,2,80,4,2,2,14,2,1,2,1,3,5,Y,Yes
+gautam,sales,36,Male,Married,3,5,2342,4,2,1,80,1,4,3,21,5,4,8,1,2,0,Y,No
+mohan,sales,25,Male,Married,1,5,4194,3,1,3,80,1,3,3,18,5,3,3,1,3,1,Y,Yes
+jhanvi,sales,35,Female,Married,3,17,10685,4,2,4,80,3,4,2,20,17,14,9,1,2,1,Y,Yes
+lakshmi ,sales,35,Female,Divorced,4,10,2022,3,1,4,80,2,4,3,19,10,2,25,1,3,1,Y,Yes
+pramjot singh,sales,32,Male,Divorced,3,3,2314,3,1,4,80,4,1,2,12,3,0,1,1,3,0,Y,No
+abhinav vashit,sales,25,Male,Married,1,5,4256,3,1,3,80,1,4,1,12,5,2,4,1,2,1,Y,No
+usha,sales,49,Female,Married,3,4,3580,3,2,3,80,1,4,2,16,4,2,1,1,3,2,Y,No
+vivek chabra,sales,24,Male,Married,1,5,3162,3,1,1,80,4,2,2,17,5,2,4,1,2,0,Y,No
+ashish,sales,32,Male,Married,2,10,6524,3,1,2,80,2,3,3,14,10,8,5,1,3,1,Y,No
+ankit,sales,38,Male,Married,3,2,2899,3,2,2,80,2,3,3,19,2,2,9,1,2,0,Y,No
+meenakshi,sales,42,Female,Married,3,5,5231,3,2,3,80,4,1,1,13,5,3,3,1,4,2,Y,Yes
+nootan prakash yadav,sales,31,Male,Married,4,6,2356,3,2,4,80,4,3,2,19,6,4,11,1,3,3,Y,Yes
+nandini,sales,29,Female,Divorced,3,3,2800,3,2,2,80,3,1,3,19,3,2,1,1,2,6,Y,Yes
+chhotelal,sales,53,Male,Married,3,2,11836,3,1,1,80,4,2,3,14,2,0,8,1,3,5,Y,No
+karan,sales,35,Male,Married,3,13,10903,3,2,4,80,2,4,2,16,13,10,25,1,2,3,Y,No
+poonam,sales,37,Female,Married,2,5,2973,3,2,3,80,4,3,3,15,5,4,21,1,3,5,Y,No
+roshni,sales,53,Female,Single,4,12,14275,3,2,4,80,4,3,0,18,12,9,23,1,3,6,Y,No
+sanya,sales,43,Female,Married,3,5,5562,3,1,4,80,4,4,2,13,5,2,1,1,3,4,Y,No
+tejal,sales,47,Female,Married,2,7,4537,4,1,3,80,4,3,2,22,7,6,2,1,3,0,Y,Yes
+bablu,sales,37,Male,Single,2,10,7642,3,2,1,80,2,4,2,13,10,0,19,1,3,1,Y,Yes
+bablu,sales,50,Male,Divorced,4,31,17924,3,1,1,80,1,4,3,11,31,6,2,1,3,1,Y,No
+urvi,sales,39,Female,Married,3,5,5204,3,1,4,80,4,4,2,11,5,4,2,1,2,8,Y,No
+ram ldaike,sales,33,Male,Divorced,2,4,2277,3,2,4,80,2,3,4,11,4,3,3,1,3,3,Y,Yes
+raju,sales,32,Male,Single,4,1,2795,4,1,1,80,4,3,2,24,1,0,25,1,3,1,Y,Yes
+vrinda,sales,29,Female,Divorced,1,4,2532,3,1,1,80,4,4,5,14,4,3,7,1,2,6,Y,No
+sone lal shah,sales,44,Male,Married,2,8,2559,3,2,2,80,1,2,0,13,8,7,9,1,3,1,Y,Yes
+manoj kumar,sales,28,Male,Single,4,4,4908,3,1,1,80,4,4,3,14,4,2,5,1,3,1,Y,No
+chhotu harijan,sales,58,Male,Divorced,1,1,2380,3,1,4,80,4,1,3,14,1,0,2,1,2,9,Y,Yes
+anshika,sales,43,Female,Divorced,3,1,4765,4,1,1,80,2,4,2,21,1,0,8,1,3,4,Y,No
+bhavika,sales,20,Female,Single,3,2,2044,3,2,3,80,3,1,3,13,2,2,2,1,2,1,Y,No
+chitra,sales,21,Female,Single,1,1,2693,3,1,4,80,4,4,3,19,1,0,18,1,3,1,Y,No
+adersen,sales,36,Male,Married,1,16,6586,3,1,3,80,4,3,2,17,16,8,14,1,3,0,Y,Yes
+devika,sales,47,Female,Single,4,3,3294,3,1,4,80,4,4,3,18,3,2,2,1,2,1,Y,Yes
+ekisha,sales,22,Female,Married,1,3,4171,3,2,2,80,3,2,3,19,3,2,3,1,3,0,Y,Yes
+gauri,sales,41,Female,Divorced,4,7,2778,3,2,2,80,4,1,1,13,7,7,2,1,1,4,Y,Yes
+ishaani,sales,28,Female,Divorced,3,2,2377,3,1,3,80,3,2,2,18,2,2,9,1,3,5,Y,No
+gautam kumar,sales,39,Male,Married,3,2,2404,4,2,4,80,1,4,2,21,2,2,6,1,3,7,Y,Yes
+jyostna,sales,27,Female,Single,3,1,2318,3,1,2,80,3,4,2,19,1,1,4,1,3,1,Y,No
+hardeep @ hunny,sales,34,Male,Divorced,3,1,2008,3,1,2,80,2,1,3,14,1,0,10,1,3,1,Y,No
+kanika,sales,42,Female,Single,2,5,6244,3,2,3,80,3,4,6,17,5,4,14,1,2,7,Y,No
+himanshu,sales,33,Male,Single,4,3,2799,3,2,3,80,1,4,1,11,3,2,1,1,2,3,Y,Yes
+lekha,sales,58,Female,Divorced,3,6,10552,3,1,3,80,2,2,3,13,6,0,5,1,2,2,Y,Yes
+pankaj saini,sales,31,Male,Married,4,7,2329,3,1,2,80,3,4,2,15,7,7,7,1,2,3,Y,No
+madhuri,sales,35,Female,Married,1,10,4014,4,2,4,80,4,2,2,25,10,6,21,1,3,1,Y,Yes
+nisha,sales,49,Female,Married,2,26,7403,3,2,1,80,2,2,3,11,26,9,8,1,3,4,Y,No
+ravi chandra natarajan,sales,48,Male,Married,4,0,2259,3,1,4,80,3,3,2,17,0,0,20,1,3,4,Y,No
+pari,sales,31,Female,Married,2,9,6932,3,1,4,80,3,1,2,13,9,8,20,1,3,1,Y,No
+somdath,sales,36,Male,Single,4,6,4678,3,1,2,80,4,4,6,18,6,2,7,1,3,2,Y,No
+radha,sales,38,Female,Married,3,15,13582,3,2,4,80,1,1,3,13,15,12,1,1,3,1,Y,No
+shreya,sales,32,Female,Married,3,3,2332,4,2,3,80,2,3,3,20,3,0,1,1,2,6,Y,No
+vishal,sales,25,Male,Married,2,1,2413,3,1,3,80,2,1,2,18,1,0,19,1,2,1,Y,Yes
+mukesh soni,sales,40,Male,Divorced,4,1,9705,3,2,1,80,2,2,2,12,1,0,10,1,2,2,Y,No
+ashok kharkwal,sales,26,Male,Single,3,7,4294,3,1,3,80,1,2,2,12,7,7,1,1,2,1,Y,No
+raj kumar,sales,41,Male,Single,3,18,4721,3,1,4,80,1,2,3,13,18,13,6,1,3,2,Y,Yes
+iswar sharan,sales,36,Male,Single,4,11,2519,4,1,3,80,3,1,6,21,11,8,2,1,3,4,Y,No
+maj- koko khaing,sales,19,Male,Single,3,1,2121,3,1,4,80,2,2,3,13,1,0,21,1,2,1,Y,Yes
+manni @ manish,sales,20,Male,Single,3,1,2973,3,1,1,80,1,4,2,19,1,0,4,1,3,1,Y,No
+sonu,sales,31,Female,Married,3,9,5855,3,1,4,80,4,1,2,11,9,7,12,1,3,0,Y,Yes
+amrit patel,sales,40,Male,Divorced,4,1,3617,3,2,4,80,2,4,2,14,1,1,9,1,3,8,Y,Yes
+tausin,sales,32,Female,Married,4,8,6725,3,2,3,80,1,4,2,12,8,7,3,1,3,1,Y,No
+rajveer,sales,36,Male,Married,1,16,10325,3,2,3,80,4,1,6,11,16,7,3,1,2,1,Y,Yes
+tanushree,sales,33,Female,Single,3,5,6949,3,2,2,80,4,3,3,14,5,0,1,1,2,0,Y,No
+dinesh singh rana,sales,37,Male,Married,4,14,10609,3,1,1,80,3,3,2,11,14,1,1,1,2,5,Y,No
+bhrat narayn,sales,45,Male,Married,2,9,4447,3,1,3,80,2,1,5,12,9,7,4,1,3,1,Y,No
+annu,sales,29,Female,Married,3,3,2157,3,2,3,80,4,2,5,15,3,1,20,1,3,1,Y,No
+upasanna,sales,35,Female,Married,3,5,4601,3,2,3,80,3,4,3,16,5,2,18,1,3,1,Y,No
+ombir singh,sales,52,Male,Married,2,9,17099,3,2,4,80,4,1,2,15,9,8,1,1,3,2,Y,No
+anand,sales,58,Male,Single,3,1,2479,4,2,4,80,3,1,4,24,1,0,2,1,3,4,Y,No
+rajesh kumar,sales,53,Male,Divorced,2,17,14852,3,2,3,80,3,1,3,13,17,13,2,1,3,6,Y,No
+varun chandela,sales,30,Male,Divorced,2,8,7264,3,2,3,80,3,4,2,11,8,4,8,1,3,5,Y,No
+aanya,sales,38,Female,Single,3,5,5666,3,2,3,80,4,4,1,13,5,3,10,1,3,1,Y,Yes
+yameen,sales,35,Male,Divorced,4,10,7823,3,1,4,80,4,2,2,13,10,9,3,1,3,6,Y,No
+ravi singh,sales,39,Male,Single,5,8,7880,3,1,1,80,3,1,3,18,8,7,2,1,4,0,Y,No
+bindiya,sales,40,Female,Single,3,1,13194,3,1,2,80,2,2,2,16,1,0,24,1,4,4,Y,Yes
+vivek,sales,47,Male,Divorced,4,19,5067,3,1,3,80,3,4,3,19,19,10,16,1,4,1,Y,Yes
+iarfan mohammad,sales,36,Male,Divorced,4,7,5079,3,1,1,80,4,2,3,13,7,7,8,1,3,4,Y,No
+raj kumar,sales,31,Male,Single,2,3,2321,4,1,3,80,1,1,0,22,3,2,9,1,2,0,Y,Yes
+mukesh,sales,33,Male,Single,3,10,17444,3,2,4,80,3,3,2,11,10,8,17,1,3,1,Y,No
+charvi,sales,29,Female,Single,3,0,2404,4,1,4,80,1,3,5,20,0,0,10,1,2,6,Y,Yes
+deepshika,sales,33,Female,Single,1,3,3452,3,1,2,80,4,1,4,18,3,2,13,1,3,3,Y,No
+falisha,sales,45,Female,Divorced,4,5,2270,3,2,4,80,4,4,2,14,5,3,1,1,3,3,Y,No
+prateek kumar tiwari,sales,50,Male,Divorced,2,5,17399,4,2,4,80,4,4,1,22,5,4,1,1,3,9,Y,No
+gargi,sales,33,Female,Married,4,6,5488,3,2,3,80,2,2,2,13,6,5,1,1,4,1,Y,Yes
+pradeep,sales,41,Male,Divorced,3,18,19419,3,2,1,80,3,4,2,17,18,16,9,1,3,2,Y,No
+jiya,sales,27,Female,Married,4,2,2811,3,2,3,80,2,4,2,14,2,2,16,1,3,9,Y,No
+ayub khan,sales,45,Male,Married,2,9,3633,3,2,4,80,1,4,2,15,9,8,23,1,3,1,Y,Yes
+kashish,sales,47,Female,Single,2,9,4163,3,2,4,80,4,2,0,17,9,0,4,1,3,1,Y,Yes
+leela  narang,sales,30,Female,Married,3,5,2132,3,1,1,80,3,1,2,11,5,2,22,1,3,4,Y,Yes
+tufail,sales,50,Male,Married,3,12,13973,3,1,4,80,3,4,2,18,12,11,24,1,3,3,Y,Yes
+parveen,sales,38,Male,Married,1,2,2684,3,2,3,80,3,4,0,17,2,1,10,1,3,0,Y,No
+afridi,sales,46,Male,Divorced,2,8,10845,3,2,4,80,3,1,3,13,8,7,7,1,3,6,Y,No
+manju,sales,24,Female,Divorced,1,4,4377,3,1,4,80,3,2,6,15,4,2,17,1,2,1,Y,No
+ankit tiwari,sales,35,Male,Divorced,4,4,3743,4,2,3,80,2,3,2,24,4,2,14,1,2,1,Y,Yes
+ravi,sales,31,Female,Married,1,4,4148,3,2,3,80,1,1,1,12,4,3,1,1,3,1,Y,No
+abhay,sales,18,Male,Single,2,0,1051,3,2,2,80,4,1,2,15,0,0,5,1,3,1,Y,No
+nikita,sales,54,Female,Married,3,10,10739,3,1,3,80,3,3,2,11,10,7,17,1,3,8,Y,No
+parineeta,sales,35,Female,Divorced,4,16,10388,3,1,3,80,3,1,3,11,16,10,25,1,3,1,Y,Yes
+shivani,sales,30,Female,Married,2,8,11416,3,2,2,80,1,2,4,12,8,7,8,1,4,0,Y,Yes
+tanisha,sales,20,Female,Single,3,1,2600,3,2,4,80,1,3,2,15,1,0,11,1,2,1,Y,Yes
+urja,sales,30,Female,Single,3,3,2422,3,2,2,80,2,3,3,17,3,2,5,1,3,0,Y,No
+sanjit misra,sales,26,Male,Married,2,8,5472,3,2,4,80,4,1,2,12,8,7,2,1,4,1,Y,No
+aasto,sales,22,Male,Married,1,4,2451,3,1,2,80,1,4,3,15,4,3,8,1,1,1,Y,No
+charan singh,sales,48,Male,Single,3,2,4240,3,1,1,80,3,3,0,13,2,2,6,1,2,2,Y,No
+dhansinghpuri,sales,48,Male,Single,4,15,10999,3,2,3,80,3,1,3,14,15,11,4,1,2,7,Y,No
+aarushi,sales,41,Female,Single,2,2,5003,3,2,4,80,3,3,6,14,2,2,7,1,3,6,Y,No
+]bhavya,sales,39,Female,Married,1,21,12742,3,2,4,80,4,2,3,16,21,6,1,1,2,1,Y,No
+chhavi,sales,27,Female,Married,4,3,4227,3,2,1,80,4,1,2,18,3,2,2,1,3,0,Y,No
+nirmal,sales,35,Male,Divorced,3,3,3917,4,2,2,80,4,1,4,20,3,2,10,1,3,1,Y,No
+niranjan,sales,42,Male,Married,2,1,18303,3,2,4,80,3,2,3,13,1,0,5,1,3,6,Y,No
+mantu kumar,sales,50,Male,Married,3,1,2380,3,1,1,80,4,3,5,18,1,0,9,1,3,4,Y,No
+disha,sales,59,Female,Single,3,5,13726,3,2,3,80,4,3,4,13,5,3,2,1,2,3,Y,Yes
+fiza,sales,37,Female,Married,2,1,4777,3,2,1,80,2,2,2,15,1,0,11,1,1,5,Y,No
+ajay,sales,55,Male,Married,4,8,6385,3,2,3,80,2,1,3,14,8,7,18,1,3,3,Y,Yes
+suhani,sales,41,Female,Divorced,1,21,19973,4,1,2,80,3,2,3,22,21,16,7,1,1,1,Y,No
+ashshwer parsad,sales,38,Male,Single,4,1,6861,3,2,2,80,4,2,1,12,1,0,3,1,3,8,Y,Yes
+akash,sales,26,Male,Single,2,2,4969,3,1,2,80,1,2,6,18,2,2,29,1,1,8,Y,No
+aanvi,sales,52,Female,Married,1,32,19845,3,2,1,80,4,2,3,15,32,14,2,1,1,1,Y,No
+aaradhya,sales,44,Female,Married,3,12,13320,3,2,4,80,4,3,2,18,12,11,28,1,4,3,Y,Yes
+aakriti,sales,50,Female,Married,3,18,6347,3,2,4,80,3,2,3,12,18,7,1,1,3,0,Y,No
+aditi,sales,36,Female,Single,4,17,2743,3,1,3,80,1,4,1,16,17,13,16,1,4,1,Y,No
+banita,sales,39,Female,Single,3,21,10880,3,1,4,80,1,2,2,13,21,6,22,1,3,1,Y,Yes
+deeksha,sales,33,Female,Single,1,2,2342,3,1,2,80,4,3,2,19,2,2,8,1,2,0,Y,No
+esha,sales,45,Female,Married,2,9,17650,3,2,4,80,4,3,4,13,9,3,11,1,3,3,Y,No
+fariha,sales,32,Female,Single,4,8,4025,3,2,4,80,3,3,2,12,8,7,29,1,3,9,Y,No
+dalip shah,sales,34,Male,Divorced,4,15,9725,3,1,2,80,4,4,2,11,15,1,1,1,4,0,Y,No
+mohd. jafruddin,sales,59,Male,Married,2,6,11904,3,1,2,80,4,2,1,14,6,4,1,1,3,3,Y,Yes
+satnosh,sales,45,Male,Single,4,6,2177,3,2,2,80,2,3,3,16,6,3,24,1,3,1,Y,No
+gargeet,sales,53,Female,Married,3,15,7525,3,1,3,80,2,2,2,12,15,7,2,1,2,2,Y,No
+vinod kumar,sales,36,Male,Divorced,3,1,4834,3,2,1,80,3,1,3,14,1,0,15,1,3,7,Y,No
+dinesh singh,sales,26,Male,Married,3,3,2042,3,2,1,80,1,4,2,14,3,2,2,1,3,6,Y,Yes
+hiral,sales,34,Female,Married,4,1,2220,3,1,3,80,3,4,2,19,1,1,10,1,3,1,Y,Yes
+pawan,sales,28,Male,Married,1,1,1052,4,2,4,80,2,1,5,22,1,0,10,1,3,1,Y,No
+aasish  kumar,sales,38,Male,Married,4,2,2821,3,2,3,80,3,3,2,16,2,2,3,1,3,3,Y,No
+tavinder kumar,sales,50,Male,Married,4,8,19237,3,1,2,80,3,1,2,11,8,1,2,1,3,2,Y,Yes
+lra,sales,37,Female,Single,3,4,4107,3,2,4,80,2,2,3,15,4,3,3,1,3,3,Y,No
+milan,sales,40,Male,Married,3,7,8396,3,1,3,80,1,1,3,14,7,7,26,1,3,1,Y,No
+kanchan,sales,26,Female,Divorced,1,5,2007,3,2,1,80,3,4,5,13,5,3,1,1,2,1,Y,No
+rahul,sales,46,Male,Divorced,4,2,19627,3,1,4,80,4,2,0,17,2,2,1,1,3,9,Y,No
+lata,sales,54,Female,Married,4,9,10686,3,2,3,80,3,2,4,11,9,4,2,1,2,6,Y,No
+mahima,sales,56,Female,Married,3,5,2942,3,1,1,80,3,3,4,19,5,4,9,1,3,2,Y,No
+nidhi,sales,36,Female,Single,5,14,8858,3,2,4,80,4,3,2,11,14,8,12,1,2,0,Y,No
+radheyshyam saini,sales,55,Male,Single,1,9,16756,3,2,3,80,1,4,3,15,9,7,2,1,2,7,Y,No
+mohit,sales,43,Male,Divorced,3,1,10798,3,1,3,80,4,4,5,13,1,0,25,1,2,5,Y,No
+parnika,sales,20,Female,Single,3,2,2323,3,2,4,80,4,2,3,14,2,2,9,1,3,1,Y,Yes
+raagini,sales,21,Female,Single,3,1,1416,3,1,3,80,1,4,6,13,1,0,10,1,2,1,Y,No
+shobha,sales,46,Female,Divorced,4,16,4615,4,1,4,80,1,3,2,23,16,13,8,1,2,8,Y,Yes
+ramesh kumar,sales,51,Male,Married,4,10,2461,3,1,1,80,3,1,2,12,10,0,4,1,3,9,Y,Yes
+samadh,sales,28,Male,Single,2,10,8722,3,2,2,80,1,4,2,12,10,7,24,1,2,1,Y,No
+malkeet singh,sales,26,Male,Married,2,5,3955,3,1,1,80,1,1,2,16,5,3,1,1,2,1,Y,No
+sachin,sales,30,Male,Married,3,6,9957,3,2,3,80,1,4,1,15,6,2,20,1,3,0,Y,No
+tanya,sales,41,Female,Married,2,10,3376,3,2,2,80,3,2,3,13,10,6,7,1,4,1,Y,No
+urvashi,sales,38,Female,Married,1,19,8823,3,2,3,80,3,4,4,18,19,9,17,1,2,0,Y,No
+mukesh,sales,40,Male,Married,4,11,10322,4,2,1,80,4,4,6,20,11,10,20,1,3,4,Y,No
+mohd. iqbal,sales,27,Male,Married,5,3,4621,3,1,1,80,3,2,4,19,3,2,8,1,1,1,Y,No
+sachin,sales,55,Male,Married,1,3,10976,3,2,4,80,2,1,4,18,3,2,2,1,3,3,Y,No
+vandita,sales,28,Female,Single,3,8,3660,3,1,3,80,3,2,4,13,8,7,10,1,3,3,Y,No
+deepak,sales,44,Male,Married,2,20,10482,3,1,2,80,1,1,1,14,20,6,1,1,2,9,Y,No
+vikash,sales,33,Male,Divorced,3,3,7119,3,1,4,80,4,3,2,15,3,2,5,1,2,4,Y,No
+janesh,legal,35,Male,Single,3,8,9582,4,2,4,80,1,1,2,22,8,7,4,1,3,0,Y,Yes
+aamna,legal,33,Female,Single,4,13,4508,4,2,1,80,3,3,4,22,13,7,29,1,2,1,Y,No
+lakshya chauhan @ lucky,legal,28,Male,Divorced,2,4,2207,3,1,1,80,3,4,5,16,4,2,15,1,3,1,Y,No
+anoop singh,legal,34,Male,Single,1,6,7756,3,1,1,80,4,3,1,17,6,2,3,1,3,0,Y,No
+bindi,legal,37,Female,Divorced,4,1,6694,3,1,4,80,4,3,5,14,1,0,10,1,2,2,Y,Yes
+pushpendra singh rathore,legal,25,Male,Married,1,7,3691,3,1,4,80,4,2,3,15,7,7,4,1,3,1,Y,Yes
+harpal singh,legal,26,Male,Divorced,3,1,2377,4,2,1,80,3,1,0,20,1,1,21,1,3,1,Y,No
+khimanand,legal,33,Male,Single,3,2,2313,4,1,1,80,2,1,0,20,2,2,25,1,2,4,Y,Yes
+manoj  kumar age-24 & satesh  kumar age 18,legal,42,Male,Married,2,22,17665,3,1,4,80,1,3,3,17,22,6,2,1,3,0,Y,No
+akshit,legal,28,Male,Divorced,3,1,2596,3,2,1,80,2,1,2,15,1,0,1,1,2,1,Y,No
+chandan kumar,legal,50,Male,Single,4,0,4728,3,2,4,80,3,2,4,14,0,0,1,1,3,3,Y,Yes
+chandrika,legal,33,Female,Married,3,3,4302,3,1,4,80,2,2,3,17,3,2,7,1,3,0,Y,No
+pancham,legal,34,Male,Married,4,0,2979,3,2,3,80,4,1,2,17,0,0,3,1,2,3,Y,No
+ritu raj,legal,48,Male,Single,4,5,16885,4,2,1,80,4,2,3,22,5,4,1,1,4,2,Y,No
+deesha,legal,45,Female,Married,4,15,5593,3,2,2,80,3,1,2,13,15,10,9,1,2,1,Y,No
+shekher,legal,52,Male,Single,4,8,10445,3,1,2,80,2,1,4,19,8,6,7,1,3,7,Y,No
+vinod,legal,38,Male,Divorced,4,8,8740,3,1,3,80,3,2,2,14,8,7,10,1,2,0,Y,Yes
+garima,legal,29,Female,Divorced,4,7,2514,4,2,3,80,4,4,1,22,7,5,28,1,3,4,Y,No
+himani,legal,28,Female,Divorced,3,9,7655,3,2,4,80,2,4,3,17,9,7,3,1,3,0,Y,No
+manish khandelwal,legal,46,Male,Married,1,12,17465,3,2,1,80,3,1,3,12,12,9,3,1,3,3,Y,No
+bir singh,legal,38,Male,Single,2,1,7351,3,1,4,80,2,1,2,16,1,0,2,1,3,7,Y,No
+ishaana,legal,43,Female,Married,3,8,10820,3,2,3,80,1,4,1,11,8,7,27,1,3,8,Y,No
+rajkumar saini s/o madan lal saini,legal,39,Male,Divorced,3,18,12169,3,2,1,80,4,4,4,11,18,7,2,1,3,7,Y,No
+rakesh,legal,40,Male,Single,3,20,19626,3,1,3,80,3,2,2,14,20,7,14,1,2,1,Y,No
+janki,legal,21,Female,Single,1,2,2070,3,1,4,80,2,3,6,11,2,2,1,1,2,1,Y,Yes
+shankarlal s/o sukharam,legal,39,Male,Single,3,5,6782,3,2,3,80,2,3,2,15,5,4,9,1,3,9,Y,No
+rahul sharma,legal,36,Male,Single,4,11,7779,4,2,1,80,4,4,0,20,11,9,18,1,3,2,Y,No
+neeraj kishore,legal,31,Male,Married,3,2,2791,3,1,3,80,4,1,4,12,2,2,20,1,4,0,Y,No
+ishwar,legal,28,Male,Married,1,5,3201,3,2,1,80,2,3,2,17,5,3,2,1,2,0,Y,No
+bilal,legal,35,Male,Divorced,2,5,4968,3,1,4,80,4,3,3,11,5,2,11,1,3,1,Y,No
+ravi parkash solanki,legal,49,Male,Married,4,9,13120,3,1,4,80,2,2,3,17,9,8,8,1,2,6,Y,No
+rohit kumar tiwari,legal,34,Male,Single,2,3,4033,3,2,4,80,3,1,3,11,3,2,2,1,3,2,Y,No
+kashvi,legal,29,Female,Divorced,3,7,3291,3,2,4,80,2,1,2,14,7,5,10,1,3,0,Y,No
+manjeet kumar,legal,42,Male,Single,3,1,4272,3,1,2,80,4,3,3,19,1,0,29,1,1,4,Y,No
+vimal kumar,legal,29,Male,Married,1,10,5056,3,1,2,80,4,2,2,15,10,7,8,1,2,1,Y,Yes
+vijay,legal,38,Male,Married,3,7,2844,3,1,3,80,3,4,2,13,7,6,1,1,4,1,Y,No
+abbas mehndi,legal,28,Male,Divorced,3,3,2703,3,2,3,80,3,1,2,14,3,1,6,1,2,1,Y,Yes
+omprkash,legal,18,Male,Single,1,0,1904,3,1,3,80,3,1,0,12,0,0,8,1,3,1,Y,No
+lavisha,legal,33,Female,Single,4,5,8224,3,2,1,80,1,3,3,17,5,2,9,1,3,0,Y,Yes
+masoom,legal,41,Male,Married,4,1,4766,3,1,2,80,4,1,4,11,1,0,12,1,3,3,Y,Yes
+deepak kamat,legal,31,Male,Married,3,2,2610,3,2,3,80,3,2,5,12,2,2,15,1,3,1,Y,No
+pavana,legal,37,Female,Divorced,2,6,5731,3,1,3,80,4,4,2,13,6,2,25,1,2,7,Y,No
+abhishek,legal,27,Male,Married,3,4,2539,3,2,4,80,3,1,0,13,4,2,6,1,2,1,Y,No
+rhea,legal,34,Female,Married,1,6,5714,4,2,2,80,3,4,3,20,6,5,9,1,3,1,Y,No
+shyam sundra,legal,35,Male,Single,4,5,4323,3,2,3,80,3,3,2,17,5,4,8,1,3,1,Y,No
+tanayaa,legal,29,Female,Married,1,11,7336,3,2,4,80,1,1,3,13,11,8,23,1,2,1,Y,No
+meenal,legal,40,Female,Single,4,18,13499,3,2,2,80,3,4,3,17,18,7,9,1,3,9,Y,No
+armaan @ suvalin,legal,42,Male,Single,3,21,13758,3,2,3,80,1,3,2,12,21,9,12,1,3,0,Y,Yes
+kunal kishore,legal,42,Male,Single,4,6,5155,3,2,2,80,1,4,3,13,6,4,4,1,3,7,Y,No
+nabav shekh,legal,35,Male,Married,4,8,2258,3,2,4,80,3,2,2,12,8,0,1,1,2,6,Y,No
+kasim ansari,legal,24,Male,Single,3,4,3597,4,2,4,80,2,4,2,22,4,3,24,1,3,8,Y,No
+utkarsha,legal,28,Female,Married,1,1,2515,3,1,3,80,4,4,4,11,1,1,12,1,3,1,Y,Yes
+deepak,legal,26,Male,Married,4,8,4420,4,1,1,80,4,1,2,22,8,7,3,1,4,1,Y,No
+subin sugathan,legal,30,Male,Married,3,10,6578,3,2,3,80,3,2,3,18,10,3,10,1,2,1,Y,No
+vanshika,legal,40,Female,Married,2,1,4422,3,1,3,80,4,2,3,13,1,1,26,1,2,3,Y,Yes
+madan lal,legal,35,Male,Divorced,3,7,10274,3,2,3,80,2,3,2,18,7,7,2,1,2,2,Y,No
+vinay kumar,legal,34,Male,Single,3,13,5343,4,2,4,80,1,1,3,20,13,9,1,1,2,0,Y,No
+ghansyam soni,legal,35,Male,Married,4,2,2376,3,2,4,80,4,2,2,13,2,2,4,1,2,1,Y,No
+aarna,legal,43,Female,Single,3,4,5346,3,2,1,80,3,1,2,13,4,3,9,1,1,8,Y,No
+dhriti,legal,32,Female,Divorced,1,1,2827,3,1,3,80,1,4,3,12,1,0,2,1,3,1,Y,No
+fariya,legal,56,Female,Divorced,4,5,19943,3,1,4,80,1,2,2,13,5,2,4,1,3,4,Y,No
+garvita,legal,29,Female,Married,1,10,3131,3,2,2,80,4,1,5,13,10,8,6,1,3,1,Y,No
+son pal@ sonu kumar,legal,19,Male,Single,2,1,2552,4,2,3,80,1,4,4,25,1,1,9,1,3,1,Y,No
+hiralal,legal,45,Female,Married,3,3,4477,3,1,1,80,3,2,2,19,3,2,7,1,3,4,Y,Yes
+jasmeet,legal,37,Female,Married,3,14,6474,3,1,4,80,4,2,2,13,14,8,1,1,2,1,Y,No
+jorj vargees,legal,20,Male,Single,3,2,3033,3,1,1,80,3,1,2,12,2,2,3,1,2,1,Y,No
+naresh adhikari,legal,44,Male,Single,4,6,2936,3,1,3,80,3,4,4,11,6,4,10,1,3,1,Y,Yes
+riddhi,legal,53,Female,Divorced,2,7,18606,3,2,4,80,3,1,6,18,7,7,7,1,3,3,Y,No
+shruti,legal,29,Female,Married,1,5,2168,3,1,2,80,4,3,2,18,5,4,15,1,1,0,Y,Yes
+aashik,legal,22,Male,Married,4,0,2853,3,1,3,80,4,3,5,11,0,0,3,1,2,0,Y,Yes
+tanmayi,legal,46,Female,Married,3,26,17048,4,2,3,80,1,2,2,23,26,15,2,1,3,8,Y,No
+subham @ vikash,legal,44,Male,Single,3,0,2290,3,2,4,80,3,4,3,13,0,0,17,1,1,2,Y,No
+sugodh kumar,legal,33,Male,Married,3,5,3600,3,1,2,80,3,1,2,13,5,4,2,1,3,1,Y,No
+ashok,legal,41,Male,Divorced,2,1,2107,3,2,1,80,1,1,2,17,1,0,5,1,2,6,Y,No
+satish,legal,30,Male,Divorced,4,4,4115,3,1,3,80,1,1,3,19,4,3,29,1,3,8,Y,No
+sanjeev,legal,40,Male,Married,4,0,4327,3,2,2,80,2,1,2,12,0,0,2,1,3,5,Y,No
+uzma,legal,50,Female,Married,3,2,17856,4,2,4,80,1,1,3,22,2,2,2,1,3,2,Y,No
+krishan kumar,legal,28,Male,Married,4,6,3196,3,1,4,80,1,4,2,12,6,5,19,1,2,1,Y,No
+suraj,legal,46,Male,Married,2,4,19081,3,2,4,80,2,4,2,11,4,2,15,1,3,5,Y,No
+ashutosh @ deepak,legal,35,Male,Married,4,7,8966,3,1,3,80,1,1,2,15,7,7,17,1,3,3,Y,Yes
+aashi,legal,24,Female,Married,2,1,2210,3,1,4,80,2,3,3,13,1,0,17,1,3,1,Y,No
+bhavini,legal,33,Female,Married,3,10,4539,3,1,2,80,3,2,3,12,10,7,25,1,3,1,Y,No
+harender,legal,36,Male,Divorced,4,7,2741,3,2,3,80,3,1,4,14,7,7,6,1,1,1,Y,No
+jay kumar,legal,30,Male,Divorced,4,10,3491,3,1,3,80,3,2,4,13,10,7,7,1,3,1,Y,No
+mohd imran @ munna,legal,44,Male,Single,4,20,4541,4,2,4,80,4,1,3,25,20,11,29,1,3,1,Y,No
+amit,legal,20,Male,Single,3,2,2678,3,1,3,80,4,3,2,17,2,1,21,1,4,1,Y,No
+shyam sunder,legal,46,Male,Divorced,4,6,7379,3,2,4,80,4,4,3,11,6,3,2,1,3,2,Y,No
+parmod,legal,42,Male,Married,5,4,6272,3,2,4,80,1,1,3,16,4,3,2,1,4,7,Y,No
+mangat singh,legal,60,Male,Divorced,4,11,5220,3,2,2,80,4,1,3,18,11,7,7,1,4,0,Y,Yes
+chitraleka,legal,32,Female,Married,3,2,2743,4,1,3,80,2,1,2,20,2,2,13,1,2,1,Y,No
+dhruvi,legal,32,Female,Single,2,8,4998,3,2,4,80,3,3,2,14,8,7,2,1,3,4,Y,Yes
+fathima,legal,36,Female,Divorced,3,7,10252,4,2,3,80,1,3,2,21,7,7,1,1,1,2,Y,Yes
+savan,legal,33,Male,Married,3,14,2781,3,2,1,80,4,2,5,13,14,10,9,1,3,0,Y,No
+gaurika,legal,40,Female,Divorced,3,5,6852,3,2,2,80,2,4,2,12,5,1,10,1,2,7,Y,No
+aarif,legal,25,Male,Single,4,4,4950,3,1,3,80,4,2,4,14,4,3,10,1,3,0,Y,No
+rajender kumar,legal,30,Male,Married,3,11,3579,4,1,4,80,2,2,2,21,11,9,1,1,3,0,Y,Yes
+ishwari,legal,42,Female,Married,5,1,13191,3,1,1,80,1,4,6,17,1,0,26,1,3,3,Y,Yes
+jhanika,legal,35,Female,Married,2,13,10377,3,1,3,80,4,2,6,11,13,2,8,1,2,4,Y,Yes
+ramesh singh negi,legal,27,Male,Married,3,9,2235,3,1,1,80,1,1,3,14,9,7,14,1,3,1,Y,Yes
+kavya,legal,54,Female,Divorced,4,5,10502,3,2,4,80,3,4,2,17,5,4,1,1,3,7,Y,No
+lekisha,legal,44,Female,Married,1,10,2011,3,2,1,80,4,4,5,13,10,5,2,1,4,1,Y,No
+misha,legal,19,Female,Single,3,1,1859,4,2,1,80,2,1,2,25,1,1,10,1,2,1,Y,Yes
+nila,legal,29,Female,Divorced,3,3,3760,3,1,1,80,4,2,5,15,3,2,1,1,3,1,Y,No
+ram prakash,legal,54,Male,Married,3,10,17779,3,2,4,80,4,4,2,14,10,9,3,1,3,3,Y,No
+sh pratap singh,legal,31,Male,Married,2,6,6833,3,1,3,80,1,2,2,12,6,5,11,1,3,1,Y,Yes
+pragati,legal,31,Female,Single,3,10,6812,3,1,3,80,1,4,2,19,10,9,24,1,2,1,Y,No
+tanvi,legal,59,Female,Single,3,6,5171,3,2,3,80,4,2,2,17,6,1,3,1,2,5,Y,No
+bodh raj @kala,legal,43,Male,Married,3,8,19740,3,2,3,80,4,1,2,14,8,7,3,1,1,3,Y,No
+pankaj ratori,legal,49,Male,Married,2,1,18711,3,1,1,80,3,4,2,13,1,0,4,1,2,2,Y,No
+leela dhar narang,legal,36,Male,Married,3,11,3692,3,1,3,80,2,2,2,12,11,10,3,1,3,1,Y,No
+devender,legal,48,Male,Single,2,1,2559,3,2,4,80,2,1,4,11,1,0,2,1,4,5,Y,No
+chanchal,legal,27,Male,Divorced,2,5,2517,3,2,1,80,3,3,2,11,5,3,4,1,3,1,Y,No
+abdul rehman,legal,29,Male,Divorced,3,6,6623,3,1,3,80,4,2,2,11,6,0,7,1,3,1,Y,Yes
+shamshad,legal,48,Male,Single,3,1,18265,3,1,4,80,4,3,3,12,1,0,1,1,2,6,Y,No
+vanshita,legal,29,Female,Divorced,3,7,16124,3,2,4,80,4,4,2,14,7,7,1,1,2,3,Y,No
+vrindha,legal,34,Female,Married,3,1,2585,3,2,3,80,3,3,5,17,1,0,20,1,4,0,Y,No
+hare chatiyan,legal,44,Male,Married,3,22,18213,3,2,2,80,2,4,5,11,22,9,5,1,3,7,Y,No
+deepak,legal,33,Male,Divorced,5,9,8380,3,1,4,80,3,4,3,14,9,8,10,1,4,0,Y,Yes
+aastha,legal,19,Female,Single,3,1,2994,3,2,2,80,4,1,2,12,1,0,25,1,4,1,Y,Yes
+yogesh,legal,23,Male,Married,2,1,1223,4,1,4,80,3,3,2,22,1,0,1,1,3,1,Y,No
+abdul rahman,legal,25,Male,Single,1,1,1118,3,2,3,80,4,2,4,14,1,0,24,1,1,1,Y,Yes
+raju,legal,26,Male,Single,2,8,2875,4,2,3,80,4,1,2,20,8,5,4,1,3,1,Y,Yes
+bhumi,legal,45,Female,Single,3,24,18824,3,1,1,80,2,1,2,16,24,10,2,1,1,2,Y,Yes
+naresh chand @ pappu,legal,55,Male,Divorced,1,33,13577,3,1,4,80,2,3,3,15,33,9,8,1,2,1,Y,Yes
+darshana,legal,21,Female,Single,2,2,2625,4,2,1,80,3,1,2,20,2,2,10,1,2,1,Y,No
+gehna,legal,46,Female,Married,2,11,18789,3,2,4,80,2,4,2,14,11,4,4,1,2,2,Y,No
+isra,legal,34,Female,Single,3,3,4538,3,2,3,80,1,2,3,12,3,2,2,1,3,0,Y,Yes
+deepak kumar mishra,legal,51,Male,Divorced,3,29,19847,4,1,4,80,2,3,5,24,29,10,9,1,3,4,Y,Yes
+piyush,legal,59,Male,Single,4,9,10512,3,1,4,80,4,3,6,12,9,7,18,1,3,6,Y,No
+kanishka,legal,34,Female,Divorced,3,11,4444,3,2,3,80,2,1,2,13,11,8,19,1,3,4,Y,No
+nadim,legal,28,Male,Single,4,4,2154,3,2,4,80,3,3,2,11,4,2,1,1,3,0,Y,Yes
+sahdab,legal,44,Male,Divorced,2,25,19190,3,2,3,80,1,3,4,14,25,9,4,1,4,1,Y,No
+deepak,legal,34,Male,Married,3,10,4490,3,1,3,80,2,3,5,11,10,9,11,1,2,4,Y,No
+tufel,legal,35,Male,Married,1,3,3506,3,2,3,80,3,3,3,14,3,2,6,1,3,0,Y,Yes
+lipika,legal,42,Female,Married,4,1,2372,3,1,2,80,2,1,2,16,1,0,7,1,4,6,Y,Yes
+mithila,legal,43,Female,Single,4,21,10231,3,1,4,80,4,2,3,14,21,7,4,1,2,3,Y,No
+nimi,legal,36,Female,Single,4,16,5410,3,2,3,80,2,2,2,11,16,14,2,1,3,9,Y,Yes
+pranjal,legal,44,Female,Married,3,10,7978,3,2,1,80,4,4,2,11,10,7,15,1,3,1,Y,No
+amit kumar,legal,28,Male,Married,3,2,3867,3,1,4,80,4,1,2,12,2,2,2,1,2,1,Y,Yes
+tiya,legal,51,Female,Single,2,7,2838,3,2,2,80,3,1,6,14,7,0,6,1,2,0,Y,No
+ritika,legal,30,Female,Single,2,8,4695,3,1,3,80,3,4,3,18,8,4,9,1,3,7,Y,Yes
+shubhra,legal,29,Female,Divorced,3,7,3339,3,2,2,80,3,2,2,13,7,7,7,1,3,3,Y,Yes
+ravi shankar,legal,28,Male,Single,3,3,2080,3,1,4,80,1,2,2,11,3,2,1,1,3,2,Y,No
+deepika,legal,25,Female,Single,3,2,2096,3,2,4,80,2,1,3,18,2,2,1,1,3,1,Y,No
+subodh,legal,32,Male,Married,3,10,6209,3,2,3,80,4,2,4,15,10,7,8,1,4,1,Y,No
+tanushka,legal,45,Female,Single,3,0,18061,4,2,2,80,2,4,4,22,0,0,25,1,3,3,Y,No
+vanya,legal,39,Female,Divorced,4,19,17123,3,1,3,80,2,3,4,13,19,9,13,1,2,6,Y,Yes
+devender,legal,58,Male,Divorced,4,2,2372,3,2,1,80,3,3,3,12,2,2,23,1,3,1,Y,No
+suresh@tinku,legal,32,Male,Married,2,10,4883,3,1,4,80,3,3,3,18,10,4,7,1,3,1,Y,No
+shri kant,legal,39,Male,Single,3,5,3904,3,1,3,80,1,3,2,13,5,2,23,1,3,0,Y,No
+vrund,legal,30,Female,Married,3,9,4627,3,2,1,80,4,2,6,12,9,2,6,1,2,0,Y,No
+aayushi,legal,36,Female,Married,4,7,7094,3,1,4,80,3,2,0,12,7,7,10,1,3,3,Y,No
+bhuvana,legal,46,Female,Single,2,7,3423,3,1,4,80,1,4,3,12,7,6,1,1,3,6,Y,No
+devanshi,legal,28,Female,Married,3,9,6674,3,1,3,80,4,2,6,11,9,8,1,1,1,0,Y,No
+gita,legal,50,Female,Married,3,3,16880,3,1,4,80,1,4,2,11,3,2,28,1,3,4,Y,Yes
+surjeet,legal,40,Male,Single,4,5,9094,3,2,4,80,2,4,2,12,5,4,25,1,2,2,Y,Yes
+dev,legal,52,Male,Single,3,8,8446,3,1,2,80,2,1,2,19,8,7,5,1,3,9,Y,Yes
+ikshita,legal,30,Female,Married,4,9,11916,4,1,2,80,1,1,2,23,9,1,17,1,3,1,Y,Yes
+sunder lal,legal,39,Male,Single,2,8,4534,3,2,1,80,3,1,6,11,8,7,18,1,3,0,Y,No
+kaavya,legal,31,Female,Divorced,4,10,9852,3,2,4,80,3,2,5,19,10,8,2,1,3,1,Y,Yes
+ratikant maghi,legal,41,Male,Single,2,19,6151,3,1,3,80,2,3,4,13,19,2,10,1,1,1,Y,No
+luvleen,legal,31,Female,Single,3,3,2302,3,2,4,80,2,4,2,11,3,2,1,1,3,1,Y,Yes
+deva,it,44,Male,Married,3,3,2362,3,1,1,80,1,3,4,12,3,2,3,1,3,4,Y,No
+firoz,it,42,Male,Married,1,20,17861,3,1,3,80,3,2,3,13,20,8,2,1,3,0,Y,Yes
+moksha,it,55,Female,Married,2,19,19187,3,2,4,80,3,4,5,14,19,9,2,1,1,4,Y,No
+dr. hema hari pago,it,56,Male,Single,4,7,19717,3,2,4,80,2,2,4,14,7,3,8,1,3,6,Y,No
+raghuveer,it,40,Male,Divorced,2,4,3544,3,1,3,80,3,3,0,16,4,2,16,1,3,9,Y,No
+dheeraj,it,34,Male,Divorced,3,9,8500,3,1,4,80,4,4,0,11,9,7,9,1,3,0,Y,No
+sardar sarbjeet singh,it,40,Male,Single,3,9,4661,3,1,3,80,4,3,4,13,9,8,2,1,3,1,Y,No
+nishita,it,41,Female,Divorced,3,9,4103,3,1,3,80,1,2,2,17,9,3,1,1,3,0,Y,No
+lalit rastogi,it,35,Male,Single,4,9,4249,3,1,3,80,3,1,3,11,9,6,4,1,3,1,Y,Yes
+sita ram,it,51,Male,Divorced,3,33,14026,3,1,3,80,2,2,2,11,33,9,5,1,3,1,Y,Yes
+preeti,it,38,Female,Divorced,2,7,6893,3,1,2,80,1,1,3,15,7,7,2,1,3,3,Y,No
+shyla,it,34,Female,Single,2,10,6125,3,2,3,80,1,3,6,12,10,8,15,1,3,1,Y,No
+ritik,it,25,Male,Married,1,3,3669,3,2,4,80,4,1,6,11,3,2,19,1,3,3,Y,No
+tithira,finance,58,Female,Married,4,10,10008,3,2,3,80,1,2,0,14,10,9,7,1,2,7,Y,Yes
+angreg singh,finance,40,Male,Married,4,4,2387,4,2,2,80,2,4,3,22,4,2,1,1,3,3,Y,No
+yashika,finance,36,Female,Married,3,15,4639,3,1,1,80,1,2,2,16,15,7,7,1,4,2,Y,No
+sitaram bairwa,finance,48,Male,Single,3,10,7898,3,2,4,80,4,1,2,11,10,9,4,1,3,1,Y,No
+aayat,finance,27,Female,Married,3,1,2534,3,2,3,80,4,1,4,14,1,0,11,1,4,8,Y,No
+bhuvika,finance,51,Female,Single,2,5,13142,3,1,4,80,2,2,1,16,5,2,11,1,2,3,Y,No
+inaaya,finance,18,Female,Single,3,0,1611,3,1,4,80,4,4,5,15,0,0,1,1,3,1,Y,No
+jheel,finance,35,Female,Married,3,9,5363,3,1,4,80,4,2,0,12,9,7,1,1,2,0,Y,No
+ramsurat,finance,27,Male,Single,1,6,5071,4,2,4,80,4,2,3,20,6,2,2,1,1,3,Y,No
+jitendra kumar,finance,55,Male,Single,4,19,13695,3,2,1,80,3,3,2,17,19,7,13,1,4,6,Y,Yes
+sanjeev,finance,56,Male,Married,3,19,13402,3,2,4,80,2,1,0,12,19,16,23,1,3,4,Y,Yes
+aaradhana,finance,34,Female,Divorced,1,5,2029,4,2,1,80,3,1,2,20,5,4,26,1,2,1,Y,No
+kaira,finance,40,Female,Divorced,1,12,6377,4,2,2,80,3,2,0,20,12,11,2,1,4,5,Y,No
+aslam ali,finance,34,Male,Married,3,8,5429,3,1,2,80,3,4,1,13,8,7,29,1,3,4,Y,No
+kiara,finance,31,Female,Single,3,1,2785,3,1,3,80,4,3,3,14,1,0,2,1,2,7,Y,No
+maahi,finance,35,Female,Married,4,4,4614,3,1,4,80,3,4,0,18,4,2,18,1,3,0,Y,Yes
+murli dhar,finance,38,Male,Divorced,3,4,2610,3,2,4,80,3,4,2,11,4,2,7,1,4,1,Y,No
+nitya,finance,34,Female,Single,4,14,6687,3,1,3,80,4,4,2,11,14,11,2,1,3,1,Y,No
+gurdarshan singh,finance,28,Male,Married,3,5,4724,3,2,3,80,1,3,0,11,5,3,26,1,2,1,Y,No
+ramsem,finance,31,Male,Married,4,10,6179,3,2,4,80,3,4,3,15,10,2,22,1,3,1,Y,Yes
+shahrukh,finance,39,Male,Married,4,5,6120,3,1,1,80,4,3,2,12,5,4,21,1,2,3,Y,Yes
+krishan gopal,finance,51,Male,Married,3,4,10596,3,1,2,80,2,3,5,11,4,2,2,1,3,2,Y,No
+priyanka,finance,41,Female,Divorced,3,6,5467,3,2,4,80,4,3,4,14,6,2,22,1,3,3,Y,Yes
+pardeep kumar,finance,37,Male,Married,1,6,2996,3,2,3,80,3,2,2,15,6,4,4,1,3,7,Y,Yes
+atul kumar,finance,33,Male,Married,1,5,9998,3,1,2,80,4,3,2,13,5,4,5,1,3,6,Y,No
+laxman,finance,32,Male,Married,1,3,4078,3,2,3,80,2,2,3,13,3,2,2,1,3,0,Y,Yes
+shanwaz anwar,finance,39,Male,Married,2,6,10920,4,1,3,80,3,2,2,21,6,4,25,1,3,3,Y,No
+samsuddin,finance,25,Male,Married,1,3,6232,3,1,1,80,3,1,3,11,3,2,18,1,4,2,Y,No
+roshika,finance,52,Female,Married,2,5,13247,3,1,4,80,3,3,3,11,5,3,28,1,4,2,Y,Yes
+sia,finance,43,Female,Single,3,20,4081,3,2,1,80,3,2,3,14,20,7,6,1,2,1,Y,Yes
+trisha,finance,27,Female,Married,3,6,5769,3,2,4,80,4,1,3,11,6,2,10,1,2,1,Y,Yes
+yuvika,marketing,27,Female,Single,4,8,2394,3,1,4,80,3,1,2,13,8,2,17,1,3,1,Y,Yes
+aayushi,marketing,26,Male,Single,1,4,3904,3,1,1,80,4,3,2,12,4,3,2,1,2,0,Y,No
+brinda,marketing,42,Female,Married,3,20,16799,3,2,3,80,1,3,5,14,20,7,10,1,3,0,Y,No
+dhvani,marketing,52,Female,Married,4,5,2950,3,1,3,80,1,3,2,13,5,4,8,1,3,9,Y,No
+grishma,marketing,37,Female,Single,3,3,3629,3,2,1,80,3,2,6,18,3,2,11,1,3,4,Y,No
+phirdos alam,marketing,35,Male,Single,2,2,9362,3,2,3,80,4,4,2,11,2,2,18,1,3,2,Y,No
+aabid,marketing,25,Male,Married,3,3,3229,3,2,1,80,4,4,2,11,3,2,1,1,3,4,Y,No
+rajneesh kumar,marketing,26,Male,Single,3,7,3578,3,1,3,80,1,1,2,12,7,7,7,1,4,0,Y,No
+sumit,marketing,29,Male,Single,3,10,7988,3,1,2,80,1,2,3,13,10,9,17,1,2,1,Y,No
+shakil,marketing,49,Male,Single,2,4,4284,4,2,1,80,1,4,2,20,4,3,28,1,2,3,Y,No
+inaya,marketing,29,Female,Single,1,8,7553,3,2,3,80,4,4,1,12,8,7,14,1,3,0,Y,Yes
+jia,marketing,54,Female,Single,3,20,17328,3,2,4,80,4,1,3,19,20,7,1,1,3,6,Y,No
+kajal,marketing,58,Female,Married,3,9,19701,4,2,4,80,1,1,3,21,9,8,1,1,3,3,Y,Yes
+monu,marketing,55,Male,Divorced,4,7,14732,3,1,2,80,4,4,4,13,7,7,1,1,4,2,Y,No
+maanya,marketing,36,Female,Single,4,5,9278,3,2,1,80,2,3,3,16,5,4,3,1,3,3,Y,Yes
+navya,marketing,31,Female,Single,4,1,1359,3,2,2,80,3,3,3,12,1,0,1,1,1,1,Y,No
+soumya,marketing,30,Female,Divorced,4,3,4779,3,2,4,80,1,4,3,14,3,2,7,1,3,7,Y,No
+sneha,marketing,31,Female,Single,5,3,16422,3,1,1,80,2,4,3,11,3,2,8,1,3,3,Y,No
+sidharath,marketing,34,Male,Divorced,4,4,2996,3,2,4,80,1,4,2,14,4,3,1,1,3,5,Y,No
+mitali,marketing,31,Female,Single,3,1,1261,3,1,1,80,2,4,3,12,1,0,8,1,2,1,Y,No
+ankit,marketing,27,Male,Married,1,5,2099,3,1,2,80,1,2,3,14,5,0,11,1,3,0,Y,No
+madan jain,marketing,36,Male,Single,4,10,5810,3,2,1,80,4,1,2,16,10,4,4,1,2,1,Y,No
+prachi,marketing,36,Female,Married,4,3,5647,3,2,3,80,1,4,3,13,3,2,16,1,2,4,Y,No
+atul,marketing,47,Male,Married,3,6,3420,3,2,1,80,4,4,2,12,6,5,1,1,3,7,Y,No
+mohit chauhan,marketing,25,Male,Married,2,3,4400,3,2,1,80,1,2,2,12,3,2,9,1,2,3,Y,No
+amar singh mahar,marketing,37,Male,Single,2,6,3500,3,1,3,80,3,2,2,14,6,5,5,1,4,0,Y,No
+ashrita,marketing,56,Female,Married,2,3,2066,4,1,1,80,1,3,3,22,3,2,1,1,3,2,Y,No
+sejal,marketing,47,Female,Married,4,20,17169,3,2,1,80,3,1,2,19,20,17,2,1,3,3,Y,No
+prisha,marketing,24,Female,Married,1,5,4162,3,2,4,80,3,2,3,12,5,4,4,1,3,1,Y,Yes
+santosh pandey,marketing,32,Male,Married,5,4,9204,3,2,4,80,4,1,3,12,4,3,7,1,3,4,Y,No
+pranali,marketing,34,Female,Married,3,5,3294,3,2,4,80,2,2,2,17,5,4,1,1,2,5,Y,No
+ravi,marketing,41,Male,Married,5,4,2127,3,2,2,80,3,4,5,12,4,2,5,1,4,2,Y,Yes
+sumit,marketing,40,Male,Divorced,4,8,3975,3,1,3,80,3,3,2,11,8,7,9,1,3,3,Y,No
+roshan,marketing,31,Male,Divorced,2,13,10793,3,1,1,80,4,3,5,18,13,7,8,1,3,1,Y,No
+rohit,marketing,46,Male,Divorced,3,7,10096,3,1,1,80,4,3,1,11,7,7,9,1,3,4,Y,No
+aarushi,marketing,39,Female,Single,3,1,3646,4,1,1,80,1,2,2,23,1,0,2,1,2,2,Y,Yes
+aarohi,marketing,31,Female,Single,5,10,7446,3,2,3,80,2,4,2,11,10,8,1,1,4,1,Y,No
+amit,marketing,45,Male,Divorced,3,7,10851,3,1,2,80,1,4,2,18,7,7,20,1,1,2,Y,Yes
+sonu,marketing,31,Female,Single,2,3,2109,3,1,4,80,2,3,3,18,3,2,8,1,4,9,Y,No
+amit,marketing,31,Male,Married,3,2,3722,3,2,2,80,4,1,2,13,2,2,2,1,3,6,Y,Yes
+jeeya lal,marketing,45,Male,Married,3,3,9380,3,2,2,80,4,3,4,18,3,1,29,1,3,4,Y,Yes
+sachin kumal taneja,marketing,48,Male,Divorced,3,2,5486,3,2,3,80,1,2,3,11,2,2,7,1,3,4,Y,No
+ruhi,marketing,34,Female,Married,4,2,2742,3,1,1,80,3,4,0,15,2,2,9,1,3,1,Y,No
+arjun yadav,marketing,40,Male,Divorced,1,9,13757,3,2,4,80,2,1,5,11,9,8,8,1,2,2,Y,No
+arjun yadav,marketing,28,Male,Single,3,5,8463,3,2,4,80,1,4,4,18,5,4,5,1,3,0,Y,No
+sandeep kumar,marketing,44,Male,Single,3,5,3162,3,2,3,80,3,1,5,14,5,2,5,1,2,3,Y,No
+ishant,marketing,53,Male,Single,3,9,16598,3,2,4,80,2,1,2,12,9,8,2,1,4,4,Y,No
+vijay kumar,marketing,49,Male,Married,4,3,6651,3,1,1,80,3,2,0,14,3,2,5,1,3,2,Y,No
+ramesh malik,marketing,40,Male,Divorced,3,3,2345,3,1,3,80,3,3,3,14,3,1,2,1,3,2,Y,No
+sagar @ takla,legal,44,Male,Single,3,5,3420,3,1,4,80,2,2,3,13,5,2,20,1,3,1,Y,No
+vishal,legal,33,Male,Married,3,4,4373,3,1,4,80,1,2,2,14,4,3,7,1,3,0,Y,No
+durganand,legal,34,Male,Single,3,13,4759,3,1,4,80,1,4,2,18,13,9,3,1,1,3,Y,No
+vishal,legal,30,Male,Married,1,2,5301,3,1,4,80,3,1,2,15,2,1,16,1,3,8,Y,No
+roohi,legal,42,Female,Single,2,12,3673,3,2,1,80,4,4,3,13,12,9,9,1,3,1,Y,No
+ruchika,legal,44,Female,Married,5,1,4768,3,1,1,80,3,4,4,12,1,0,1,1,3,7,Y,No
+mohd parvez,legal,30,Male,Divorced,3,1,1274,3,1,3,80,3,2,2,13,1,0,7,1,3,1,Y,No
+same singh,legal,57,Male,Married,2,12,4900,4,2,2,80,3,4,2,24,12,9,1,1,4,0,Y,No
+vijay pal singh,legal,49,Male,Divorced,4,8,10466,3,1,3,80,2,1,3,14,8,7,7,1,3,3,Y,No
+ramkishan gupta,legal,34,Male,Divorced,3,14,17007,3,1,2,80,1,4,3,14,14,8,15,1,3,7,Y,No
+tarun sharma,legal,28,Male,Married,3,3,2909,3,2,1,80,3,4,3,15,3,2,1,1,3,3,Y,No
+ruchita,finance,29,Female,Single,3,5,5765,3,1,1,80,2,3,4,11,5,3,13,1,3,5,Y,No
+shweta,finance,34,Female,Single,4,15,4599,4,1,1,80,2,1,2,23,15,9,24,1,2,0,Y,Yes
+nikhil,finance,35,Male,Married,1,1,2404,3,2,4,80,3,4,3,13,1,0,7,1,3,1,Y,No
+karan,finance,24,Male,Single,3,0,3172,3,2,2,80,1,3,2,11,0,0,9,1,3,2,Y,Yes
+kimaya,finance,24,Female,Married,2,1,2033,3,1,4,80,2,1,2,13,1,0,13,1,3,1,Y,No
+tajuddin,finance,44,Male,Single,1,2,10209,3,1,2,80,3,1,2,18,2,2,2,1,3,5,Y,Yes
+mannu yadav,finance,29,Male,Divorced,3,10,8620,3,2,3,80,3,3,3,14,10,7,19,1,2,1,Y,No
+dheeraj @ montu,finance,30,Male,Divorced,3,5,2064,4,1,3,80,3,1,3,21,5,3,1,1,3,0,Y,No
+suhail,finance,55,Male,Married,4,3,4035,3,2,4,80,3,4,2,16,3,2,4,1,3,0,Y,Yes
+sanskriti,finance,33,Female,Married,4,5,3838,3,1,1,80,2,1,5,11,5,4,4,1,2,8,Y,No
+sanskruti,finance,47,Female,Married,3,5,4591,3,2,3,80,3,1,4,17,5,4,14,1,3,3,Y,Yes
+haider ali,finance,28,Male,Single,2,0,2561,3,2,3,80,1,2,2,11,0,0,2,1,2,7,Y,No
+haider ali,finance,28,Male,Divorced,3,1,1563,3,1,1,80,3,4,2,14,1,0,1,1,2,1,Y,No
+sok. mohmad,finance,28,Male,Single,3,4,4898,3,1,3,80,1,2,5,14,4,2,7,1,3,0,Y,No
+tvisha,finance,49,Female,Married,2,3,4789,4,1,3,80,1,3,3,25,3,2,3,1,2,4,Y,No
+zaara,finance,29,Female,Married,1,3,3180,3,2,4,80,2,2,3,13,3,2,2,1,3,0,Y,No
+banwari lal bairwa,finance,28,Male,Married,1,8,6549,3,1,3,80,2,2,2,14,8,6,29,1,1,1,Y,No
+suresh paswan @ madari,finance,33,Male,Single,5,0,6388,3,2,4,80,3,2,6,17,0,0,8,1,3,2,Y,Yes
+krishan lal gulyani,finance,32,Male,Single,3,5,11244,4,1,3,80,4,1,5,25,5,2,10,1,3,2,Y,No
+sania,finance,54,Female,Divorced,4,14,16032,4,1,2,80,4,2,2,20,14,9,11,1,3,3,Y,No
+devraj,hr,29,Male,Single,4,9,2362,3,2,1,80,1,3,2,13,9,7,1,1,2,6,Y,No
+man singh,hr,44,Male,Married,3,20,16328,3,1,4,80,1,4,1,13,20,6,28,1,3,3,Y,No
+rutuja,hr,39,Female,Single,3,2,8376,3,1,2,80,2,1,3,18,2,0,6,1,3,4,Y,No
+pradnya,hr,46,Female,Married,3,13,16606,3,1,3,80,2,1,2,12,13,12,3,1,3,8,Y,No
+devyani,hr,35,Female,Single,3,11,8606,3,1,4,80,2,1,3,19,11,8,16,1,2,1,Y,No
+vijay,hr,23,Male,Single,1,4,2272,3,2,1,80,3,3,2,14,4,3,20,1,3,0,Y,No
+vijay,hr,40,Male,Single,4,5,2018,3,1,4,80,1,2,3,14,5,4,9,1,3,3,Y,No
+kanhaiya lal,hr,34,Male,Married,3,10,7083,3,1,4,80,3,3,3,14,10,9,1,1,2,1,Y,Yes
+mehek,hr,31,Female,Single,3,7,4084,3,1,4,80,3,3,2,12,7,2,3,1,3,1,Y,No
+ram naresh yadav,hr,50,Male,Single,5,32,14411,3,2,3,80,4,1,2,13,32,6,22,1,1,1,Y,Yes
+nand kishore,it,34,Male,Married,2,11,2308,4,1,2,80,3,3,4,25,11,10,7,1,3,0,Y,Yes
+anil kumar,it,42,Male,Married,3,1,4841,3,1,3,80,2,2,3,14,1,0,2,1,2,4,Y,No
+kishan,it,37,Male,Married,3,10,4285,3,1,1,80,4,4,2,17,10,8,13,1,3,1,Y,No
+lqra,it,29,Female,Married,1,7,9715,3,2,3,80,1,2,3,13,7,7,8,1,1,3,Y,No
+raju,it,33,Male,Single,3,5,4320,3,1,4,80,2,2,2,13,5,3,25,1,2,1,Y,No
+sandeep kumar,it,45,Male,Married,3,5,2132,4,2,4,80,4,3,3,20,5,4,28,1,3,4,Y,No
+shyam,it,42,Male,Married,3,20,10124,3,2,4,80,4,2,3,14,20,8,2,1,3,2,Y,Yes
+arsh,it,40,Male,Married,2,8,5473,3,2,1,80,1,3,5,12,8,4,9,1,3,0,Y,No
+satish,it,33,Male,Married,4,15,5207,3,2,2,80,3,1,3,12,15,14,28,1,3,1,Y,Yes
+deepak,it,40,Male,Single,2,21,16437,4,1,3,80,4,2,2,21,21,7,6,1,3,1,Y,Yes
+deepak,it,24,Male,Divorced,2,1,2296,3,2,3,80,1,3,3,14,1,1,21,1,2,0,Y,No
+chirag,it,40,Male,Divorced,2,2,4069,3,2,4,80,4,1,2,18,2,2,8,1,3,3,Y,Yes
+prince,it,45,Male,Divorced,4,10,7441,3,1,1,80,2,3,4,12,10,8,1,1,3,1,Y,No
+aakansha,it,35,Female,Married,4,5,2430,4,2,2,80,3,3,5,23,5,3,28,1,2,0,Y,No
+aakanksha,it,32,Female,Married,2,7,5878,3,2,4,80,2,4,2,12,7,1,5,1,2,3,Y,No
+ali sher,it,36,Male,Single,4,3,2644,4,1,3,80,4,2,3,21,3,2,2,1,3,3,Y,Yes
+sheru khan,it,48,Female,Divorced,4,8,6439,3,2,3,80,3,3,2,14,8,7,16,1,3,8,Y,No
+bhanu pratap singh,it,29,Male,Married,3,1,2451,3,2,3,80,3,2,2,18,1,0,9,1,4,6,Y,No
+sumit,it,33,Male,Married,4,2,6392,3,1,1,80,1,4,6,13,2,2,8,1,3,2,Y,No
+sanni,it,30,Male,Married,3,10,9714,3,1,2,80,1,4,4,11,10,8,1,1,2,1,Y,No
+vanish khan,it,38,Male,Married,4,6,6077,3,1,3,80,3,2,2,11,6,3,10,1,3,3,Y,No
+ali sher,it,35,Male,Single,3,3,2450,3,1,4,80,1,1,3,19,3,0,1,1,2,1,Y,No
+firoj,it,30,Male,Married,4,4,9250,3,2,3,80,2,3,3,12,4,2,29,1,3,3,Y,No
+mahek,marketing,35,Female,Divorced,3,1,2074,3,1,1,80,1,4,2,12,1,0,2,1,3,1,Y,Yes
+meher,marketing,53,Female,Married,5,33,10169,3,1,3,80,4,3,4,16,33,7,2,1,2,0,Y,No
+smt sunita,marketing,38,Male,Married,3,5,4855,3,1,3,80,2,3,2,11,5,2,2,1,3,4,Y,No
+ranjeet,marketing,32,Male,Married,4,6,4087,3,1,4,80,1,1,3,14,6,5,1,1,3,4,Y,No
+navyanka,marketing,48,Female,Married,4,8,2367,3,2,3,80,1,3,3,12,8,2,15,1,3,8,Y,No
+lokesh varma,marketing,34,Male,Single,4,1,2972,3,1,1,80,4,1,4,13,1,0,7,1,3,1,Y,No
+rupesh,marketing,55,Male,Married,5,36,19586,4,1,3,80,4,3,3,21,36,6,26,1,2,1,Y,No
+sushil kumar,marketing,34,Male,Married,4,2,5484,3,2,2,80,4,1,3,17,2,2,1,1,3,9,Y,No
+archana,marketing,26,Female,Married,3,1,2061,4,2,1,80,4,1,5,21,1,0,3,1,3,1,Y,No
+suresh kumar,marketing,38,Male,Married,3,9,9924,3,1,3,80,2,1,3,11,9,8,14,1,3,0,Y,No
+kuldeep,marketing,38,Female,Single,3,3,4198,3,1,2,80,2,2,5,12,3,2,16,1,3,2,Y,No
+prisha,marketing,36,Female,Single,4,1,6815,3,2,2,80,3,2,5,13,1,0,1,1,3,6,Y,No
+prem giri pradhan ji,marketing,29,Male,Single,1,10,4723,3,2,2,80,1,1,3,18,10,9,3,1,3,1,Y,Yes
+reeva,support,35,Female,Single,4,5,6142,3,2,1,80,3,3,4,16,5,2,10,1,3,3,Y,Yes
+surender,support,39,Male,Married,3,7,8237,3,1,4,80,3,3,3,11,7,6,6,1,4,2,Y,No
+praveen,support,29,Male,Divorced,1,6,8853,3,1,1,80,4,2,0,19,6,4,2,1,3,1,Y,No
+shabuddin shah,support,50,Male,Married,3,1,19331,3,2,3,80,3,1,2,16,1,0,9,1,3,4,Y,Yes
+surender singh,support,23,Male,Married,3,2,2073,3,2,4,80,3,1,2,16,2,2,10,1,4,2,Y,No
+dheeraj singh,support,36,Male,Married,4,3,5562,3,2,1,80,1,4,3,13,3,2,6,1,4,3,Y,Yes
+rakesh bhatia,support,42,Male,Single,2,1,19613,4,1,4,80,4,4,2,22,1,0,9,1,2,8,Y,No
+ram kishan,support,35,Male,Married,3,10,3407,3,1,2,80,3,3,3,17,10,9,28,1,4,1,Y,No
+sanni singh,support,34,Male,Married,4,8,5063,3,1,4,80,3,3,3,14,8,2,10,1,2,1,Y,No
+sugandha,support,40,Female,Married,2,5,4639,3,1,4,80,1,4,2,15,5,4,14,1,3,1,Y,No
+rinki,support,43,Male,Divorced,3,6,4876,3,1,4,80,2,4,0,12,6,4,27,1,4,5,Y,No
+akram,support,35,Male,Married,2,1,2690,3,1,3,80,4,2,5,18,1,0,7,1,2,1,Y,No
+khemraj,support,46,Male,Single,4,26,17567,3,1,4,80,1,2,5,15,26,0,1,1,4,1,Y,No
+suresh kumar,support,28,Male,Married,3,1,2408,3,2,3,80,2,4,3,17,1,1,24,1,3,1,Y,Yes
+sitara,support,22,Female,Married,2,4,2814,3,2,2,80,3,4,2,14,4,2,26,1,2,1,Y,Yes
+neeraj,support,50,Male,Married,5,30,11245,3,1,2,80,3,2,3,15,30,8,20,1,3,2,Y,Yes
+tara ,support,32,Female,Married,4,3,3312,3,1,2,80,4,3,3,17,3,2,5,1,4,3,Y,No
+urmika,support,44,Female,Divorced,3,22,19049,3,2,2,80,4,2,4,14,22,7,7,1,3,0,Y,Yes
+krishan kishore,support,30,Male,Married,3,6,2141,3,2,2,80,2,2,3,12,6,4,7,1,2,1,Y,No
+chandan,support,45,Female,Single,5,10,5769,3,2,3,80,1,2,3,14,10,7,5,1,1,1,Y,Yes
+harish chand,support,45,Male,Married,3,10,4385,3,2,1,80,1,2,2,15,10,7,26,1,2,1,Y,No
+jatin kumar @ jeetu,support,31,Male,Single,4,5,5332,3,2,4,80,1,1,3,13,5,2,2,1,3,7,Y,No
+chandni,support,36,Female,Married,4,3,4663,3,2,3,80,3,1,2,12,3,2,12,1,3,9,Y,Yes
+amit kumar,support,34,Male,Divorced,4,9,4724,3,1,3,80,4,1,3,13,9,7,10,1,4,1,Y,No
+snehal,support,49,Female,Married,4,9,3211,3,2,3,80,1,3,3,14,9,6,25,1,3,1,Y,No
+mukesh,support,39,Male,Married,5,7,5377,3,1,2,80,1,4,3,13,7,7,10,1,3,2,Y,No
+chaterpal @ banti,support,27,Male,Divorced,3,7,4066,3,1,4,80,1,1,3,11,7,7,19,1,2,1,Y,No
+sukhdev,support,35,Male,Married,5,16,5208,3,1,2,80,1,2,2,11,16,15,18,1,4,1,Y,No
+himanshi,support,28,Female,Divorced,3,5,4877,4,2,2,80,1,1,5,21,5,3,27,1,1,0,Y,No
+pankaj baisla,support,21,Male,Single,1,2,3117,3,2,3,80,4,4,2,18,2,2,5,1,3,1,Y,No
+zainab,support,18,Female,Single,2,0,1569,3,2,2,80,4,2,2,12,0,0,3,1,3,1,Y,Yes
+mridhul,support,47,Female,Married,4,5,19658,3,1,4,80,3,1,2,11,5,2,26,1,3,3,Y,No
+uma shankar,support,39,Male,Divorced,2,10,3069,3,2,3,80,3,1,3,15,10,8,3,1,2,0,Y,No
+aadhya,support,40,Female,Married,3,18,10435,3,1,1,80,3,3,2,13,18,15,15,1,2,1,Y,No
+anushka,support,35,Female,Married,4,14,4148,3,2,3,80,3,3,5,12,14,11,8,1,3,1,Y,No
+mohan,support,37,Male,Married,3,4,5768,3,1,3,80,3,2,2,17,4,3,19,1,3,3,Y,No
+afsana,support,39,Female,Single,3,9,5042,3,2,1,80,3,2,2,13,9,2,4,1,3,0,Y,No
+charulata,support,45,Female,Divorced,2,10,5770,3,1,4,80,4,1,3,19,10,7,2,1,2,1,Y,No
+eisha,support,38,Female,Married,2,5,7756,3,2,4,80,3,2,6,19,5,4,2,1,2,3,Y,Yes
+ajit,support,35,Male,Married,3,13,10306,3,1,4,80,1,1,3,17,13,12,10,1,2,9,Y,No
+ishaara,support,37,Female,Married,3,8,3936,3,2,2,80,2,2,2,11,8,4,10,1,3,1,Y,No
+jyostna,support,40,Female,Single,3,4,7945,3,1,3,80,4,3,2,15,4,2,16,1,3,6,Y,Yes
+madan lal,support,44,Male,Married,5,10,5743,3,1,1,80,4,2,3,11,10,7,1,1,3,4,Y,Yes
+lekhraj,support,48,Male,Married,5,2,15202,4,1,3,80,4,2,3,25,2,2,4,1,2,2,Y,No
+praveen,support,35,Male,Divorced,2,2,5440,3,1,1,80,4,1,2,14,2,2,15,1,1,6,Y,Yes
+gursimar,support,24,Female,Single,1,6,3760,3,1,1,80,4,1,2,13,6,3,2,1,3,1,Y,Yes
+kajri,support,27,Female,Married,3,3,3517,3,1,2,80,3,4,0,17,3,2,8,1,4,7,Y,No
+aayush,support,27,Male,Single,3,4,2580,3,2,4,80,4,3,0,13,4,2,2,1,3,2,Y,No
+"punit kumar @ ankur m.no.-7404660980, 9813186044.",support,40,Male,Single,3,4,2166,3,1,1,80,1,1,3,14,4,2,7,1,3,3,Y,Yes
+ajeet kumar,support,29,Male,Single,3,5,5869,3,2,3,80,3,1,2,11,5,2,10,1,2,9,Y,No
+navyanka,support,36,Female,Married,4,3,8008,3,2,2,80,1,2,6,12,3,2,5,1,3,4,Y,No
+rattan vail,support,25,Male,Divorced,1,7,5206,3,2,4,80,3,3,6,17,7,7,2,1,4,1,Y,No
+pradeep,support,39,Male,Married,3,5,5295,4,1,4,80,2,2,3,21,5,4,12,1,3,4,Y,No
+prishita,support,49,Female,Married,4,4,16413,3,1,1,80,2,3,2,16,4,2,22,1,3,3,Y,No
+reha,support,50,Female,Divorced,5,14,13269,3,2,4,80,1,2,3,15,14,11,17,1,2,5,Y,No
+smita,support,20,Female,Single,3,2,2783,3,2,3,80,3,1,3,19,2,2,2,1,3,1,Y,No
+vaani,support,34,Female,Divorced,3,11,5433,3,2,4,80,2,4,2,12,11,8,3,1,3,1,Y,No
+rahul,support,36,Male,Single,3,4,2013,3,1,1,80,2,2,4,11,4,3,7,1,3,2,Y,No
+zoya,support,49,Female,Married,1,15,13966,3,1,3,80,3,1,3,19,15,11,6,1,2,2,Y,Yes
+aisha,support,36,Female,Married,4,3,4374,3,2,4,80,3,3,6,15,3,2,1,1,2,0,Y,No
+dheeraj kumar,support,36,Male,Divorced,2,5,6842,4,2,4,80,1,4,3,20,5,4,3,1,4,6,Y,No
+charulaata,support,54,Female,Married,5,10,17426,4,2,2,80,3,2,6,25,10,8,22,1,3,3,Y,No
+shail,support,43,Male,Married,2,14,17603,4,2,3,80,3,4,3,24,14,10,15,1,2,1,Y,No
+naresh,support,35,Male,Single,4,11,4581,4,2,4,80,4,1,2,24,11,9,12,1,3,3,Y,Yes
+sandeep thakur,support,38,Male,Married,3,13,4735,3,1,4,80,4,1,4,15,13,11,1,1,3,7,Y,No
+sahrukh khan,support,29,Male,Divorced,3,10,4187,3,1,1,80,2,1,3,13,10,0,5,1,2,1,Y,Yes
+kalu luhar,support,33,Male,Divorced,4,6,5505,3,2,4,80,4,4,5,14,6,2,2,1,3,1,Y,No
+ishwar ram,support,32,Male,Divorced,3,9,5470,3,1,4,80,2,2,4,13,9,5,2,1,3,0,Y,No
+elina,support,31,Female,Married,4,10,5476,3,2,1,80,4,3,2,11,10,0,5,1,3,1,Y,No
+charusheela,support,49,Female,Divorced,3,2,2587,3,1,4,80,1,4,2,16,2,2,16,1,3,4,Y,Yes
+harini,support,38,Female,Single,3,4,2440,4,1,4,80,2,2,3,22,4,3,2,1,2,1,Y,No
+ishanvi,support,47,Female,Divorced,4,3,15972,3,1,2,80,2,4,2,14,3,2,2,1,4,6,Y,No
+gaurav raj,support,49,Male,Single,3,8,15379,3,2,3,80,3,2,2,14,8,7,1,1,3,4,Y,No
+gaurav sharam,support,41,Male,Single,2,2,7082,3,2,4,80,3,4,2,16,2,0,23,1,3,3,Y,Yes
+sanjeev,support,20,Male,Single,1,2,2728,3,1,4,80,1,3,3,11,2,2,9,1,3,1,Y,No
+kaira parekh,support,33,Female,Divorced,3,6,5368,4,1,3,80,4,4,2,25,6,5,16,1,3,1,Y,Yes
+raja,support,36,Male,Married,4,3,5347,3,2,1,80,3,2,2,14,3,2,26,1,3,6,Y,No
+mahima gupta,support,44,Female,Divorced,3,2,3195,3,2,3,80,4,1,2,18,2,2,1,1,3,4,Y,Yes
+rupender,support,23,Male,Single,1,5,3989,3,1,4,80,3,3,2,11,5,4,8,1,2,1,Y,Yes
+neeharika,support,38,Female,Married,2,0,3306,3,1,4,80,3,4,5,19,0,0,4,1,3,7,Y,No
+laxman,support,53,Male,Married,4,4,7005,3,1,2,80,4,1,2,15,4,3,24,1,4,3,Y,No
+neeharika shah,support,48,Female,Married,2,9,2655,3,1,4,80,3,2,3,11,9,7,7,1,3,2,Y,Yes
+manjiv singh,support,32,Male,Single,4,1,1393,3,2,4,80,2,4,2,12,1,0,2,1,3,1,Y,No
+sunil kumar,support,26,Male,Single,3,7,2570,4,1,4,80,4,2,5,20,7,7,7,1,3,1,Y,No
+saddam,support,55,Male,Divorced,3,4,3537,3,2,1,80,2,4,1,12,4,2,22,1,2,5,Y,No
+kamruddin,support,34,Male,Married,2,15,3986,3,1,2,80,4,3,3,14,15,10,5,1,2,1,Y,No
+jaiprakash,support,60,Male,Divorced,4,1,10883,4,2,3,80,4,1,2,20,1,0,1,1,1,3,Y,No
+arjun,support,33,Male,Married,3,14,2028,3,1,2,80,2,4,6,18,14,11,21,1,4,1,Y,No
+monu,support,37,Male,Divorced,4,6,9525,3,2,3,80,4,4,2,14,6,3,1,1,1,1,Y,No
+heli shah,support,34,Female,Married,3,10,2929,3,1,2,80,4,2,3,12,10,9,19,1,2,1,Y,No
+aditya kumar,support,23,Male,Divorced,3,3,2275,4,1,3,80,4,2,2,21,3,2,7,1,3,1,Y,Yes
+heli ,support,44,Female,Married,3,8,7879,3,1,3,80,4,4,2,19,8,7,2,1,4,1,Y,Yes
+raju,support,35,Male,Single,4,5,4930,3,1,1,80,4,1,2,14,5,4,2,1,2,0,Y,Yes
+vijay pal,support,43,Male,Married,3,10,7847,3,1,4,80,4,3,3,17,10,9,2,1,3,1,Y,Yes
+bal bahadur kayanchhaki,support,24,Male,Married,3,5,4401,3,1,3,80,3,2,1,16,5,3,9,1,4,1,Y,No
+raju rathor,support,41,Male,Single,3,10,9241,3,2,4,80,3,1,3,12,10,8,6,1,3,1,Y,No
+tejaswi,support,29,Female,Married,4,5,2974,3,1,4,80,3,2,2,17,5,3,9,1,3,9,Y,No
+tejaswini,support,36,Female,Single,4,13,4502,3,1,3,80,4,3,2,15,13,7,2,1,3,3,Y,No
+rahul,support,45,Male,Married,1,23,10748,4,2,3,80,3,2,3,23,23,15,1,1,2,3,Y,No
+jitendera singh,support,24,Male,Married,1,1,1555,3,2,4,80,3,4,2,11,1,0,22,1,1,1,Y,No
+jagmal,support,47,Male,Married,3,23,12936,3,1,3,80,3,2,3,11,23,5,9,1,1,7,Y,No
+pankaj tomar,support,26,Male,Married,4,3,2305,3,2,4,80,3,1,3,15,3,2,17,1,1,1,Y,No
+samrudhi,support,45,Female,Single,2,21,16704,3,1,4,80,2,3,2,11,21,6,28,1,2,1,Y,No
+chandra dhar pande,support,32,Male,Married,3,5,3433,3,1,1,80,3,3,3,13,5,2,10,1,3,6,Y,No
+ramesh,support,31,Male,Married,4,5,3477,3,1,2,80,3,4,2,14,5,2,2,1,3,1,Y,No
+mahender lal,support,41,Male,Married,3,3,6430,3,1,3,80,2,4,4,19,3,2,4,1,1,6,Y,No
+ishanvi,support,40,Female,Married,2,1,6516,3,2,2,80,1,3,3,16,1,0,8,1,3,2,Y,Yes
+abdul salam,support,24,Male,Divorced,1,6,3907,3,2,2,80,1,1,2,13,6,2,29,1,3,1,Y,No
+prem,support,46,Male,Single,4,10,5562,3,2,3,80,2,3,3,14,10,7,13,1,3,6,Y,No
+prasant,support,35,Male,Married,4,7,6883,3,1,4,80,3,3,3,16,7,7,27,1,3,2,Y,No
+vishal tiwari,support,30,Male,Married,1,10,2862,3,2,2,80,4,4,2,12,10,0,16,1,3,1,Y,No
+neeraj,support,47,Male,Married,4,1,4978,3,2,3,80,2,4,3,11,1,0,2,1,3,7,Y,No
+arun kumar,support,46,Male,Divorced,3,10,10368,3,2,3,80,4,1,5,12,10,6,2,1,3,4,Y,Yes
+balwant ray arora,support,36,Male,Divorced,5,2,6134,3,1,2,80,1,4,3,13,2,2,13,1,2,5,Y,Yes
+balwant ray arora,support,32,Male,Single,2,0,6735,3,1,1,80,2,1,2,15,0,0,1,1,1,6,Y,No
+prita,support,23,Female,Single,1,3,3295,3,1,3,80,2,3,3,13,3,2,4,1,3,1,Y,No
+preeta,support,31,Female,Single,1,5,5238,4,1,4,80,4,2,3,20,5,4,24,1,3,2,Y,No
+ankit,support,39,Male,Married,3,9,6472,3,1,4,80,4,4,2,15,9,8,1,1,3,1,Y,Yes
+vipendra singh s/o mahendra singh,support,32,Male,Married,3,4,9610,3,2,4,80,3,4,2,13,4,3,19,1,1,3,Y,No
+ajay,support,40,Male,Single,4,21,19833,3,1,2,80,2,4,3,14,21,8,7,1,3,1,Y,No
+rekha singh,support,45,Female,Married,3,5,9756,4,2,3,80,3,1,2,21,5,0,4,1,1,4,Y,No
+aishani,support,30,Female,Single,4,9,4968,3,2,4,80,1,1,2,16,9,7,2,1,2,0,Y,No
+mujaffar s/o musarraf,support,24,Male,Married,3,2,2145,3,2,1,80,4,3,2,14,2,2,10,1,3,0,Y,No
+chhavi,support,30,Female,Divorced,3,4,2180,3,2,3,80,4,1,0,11,4,2,8,1,2,6,Y,No
+mohit,support,31,Male,Married,3,5,8346,3,2,1,80,3,2,3,19,5,2,5,1,3,1,Y,No
+eliza,support,27,Female,Single,3,6,3445,3,1,3,80,4,2,5,11,6,2,8,1,3,1,Y,No
+harita,support,29,Female,Single,3,2,2760,3,2,2,80,2,3,3,13,2,2,9,1,1,1,Y,No
+danish,support,29,Male,Single,3,3,6294,3,2,4,80,3,1,5,12,3,2,1,1,4,8,Y,Yes
+gaurav malik,support,30,Male,Divorced,2,7,7140,3,1,3,80,1,4,2,11,7,7,15,1,2,2,Y,No
+inderjeet kumar,support,34,Male,Married,4,5,2932,3,1,4,80,4,2,3,14,5,0,2,1,4,0,Y,Yes
+ishika ,support,33,Female,Single,3,11,5147,3,2,4,80,2,1,2,15,11,7,2,1,3,8,Y,No
+mahira sharma,support,49,Female,Single,4,5,4507,3,2,4,80,4,3,1,12,5,1,11,1,3,3,Y,No
+mahira,support,33,Female,Single,3,0,8564,4,1,1,80,1,3,2,20,0,0,16,1,3,2,Y,Yes
+neha,support,38,Female,Married,2,6,2468,3,2,3,80,2,2,4,14,6,1,2,1,2,4,Y,No
+shiv kumar,support,31,Male,Married,4,1,8161,3,1,1,80,3,2,2,13,1,0,16,1,3,2,Y,No
+pritha,support,29,Female,Divorced,3,1,2109,3,1,4,80,1,4,2,13,1,0,4,1,2,1,Y,No
+saurabh @ monu,support,30,Male,Married,3,7,5294,3,2,3,80,3,2,3,16,7,0,16,1,4,3,Y,No
+aditya kasana,support,32,Male,Single,4,7,2718,3,1,2,80,2,1,3,14,7,7,5,1,3,2,Y,No
+rahul,support,38,Male,Married,3,1,5811,3,1,2,80,4,4,2,16,1,0,18,1,1,3,Y,Yes
+pawan,support,43,Male,Married,3,1,2437,3,1,3,80,3,3,4,16,1,0,17,1,2,9,Y,Yes
+adi,support,42,Male,Divorced,3,5,2766,4,2,2,80,2,3,6,22,5,3,12,1,3,8,Y,No
+sunil singh,support,55,Male,Married,3,1,19038,3,1,3,80,1,3,2,12,1,0,2,1,2,8,Y,No
+sachin chauhan,sales,33,Male,Divorced,3,9,3055,3,1,4,80,2,1,2,15,9,8,4,1,3,5,Y,No
+aakash@multan,sales,41,Male,Divorced,4,5,2289,4,1,3,80,1,4,2,20,5,3,9,1,3,1,Y,No
+riyaz,sales,34,Male,Divorced,3,15,4001,3,1,4,80,3,3,3,14,15,14,10,1,3,1,Y,Yes
+mau,sales,53,Female,Married,4,3,12965,4,1,1,80,3,1,2,20,3,2,1,1,2,4,Y,Yes
+sagar pahwa,sales,43,Male,Single,3,9,3539,3,1,2,80,4,4,5,13,9,7,2,1,3,0,Y,No
+richa,sales,34,Female,Single,2,2,6029,3,1,4,80,4,3,3,12,2,2,3,1,1,5,Y,No
+ram kumar,sales,21,Male,Single,1,1,2679,3,2,2,80,2,4,3,13,1,0,7,1,3,1,Y,No
+vara,sales,38,Female,Married,2,5,3702,3,2,4,80,3,3,3,11,5,4,6,1,2,1,Y,No
+darshita,sales,22,Female,Married,1,1,2398,3,1,3,80,1,2,6,17,1,0,8,1,3,1,Y,Yes
+darshana,sales,31,Female,Married,4,12,5468,3,1,1,80,4,1,3,14,12,7,29,1,2,1,Y,No
+eshita,sales,51,Female,Married,3,2,13116,3,1,1,80,3,1,2,11,2,2,3,1,3,2,Y,No
+mithlesh sharma,sales,37,Male,Married,2,5,4189,3,1,2,80,2,3,2,14,5,2,9,1,2,1,Y,No
+mohak kaul,sales,46,Male,Divorced,4,2,19328,3,2,3,80,4,4,3,17,2,1,2,1,3,7,Y,Yes
+rahul,sales,36,Male,Married,3,12,8321,3,2,4,80,1,2,1,13,12,8,10,1,3,7,Y,Yes
+divansh,sales,44,Male,Divorced,2,5,2342,3,1,3,80,2,3,2,12,5,3,1,1,3,1,Y,Yes
+muneer,sales,37,Male,Divorced,2,10,4071,3,1,3,80,2,3,4,13,10,0,8,1,3,2,Y,No
+yogesh kumar,sales,35,Male,Single,3,10,5813,3,1,3,80,4,3,2,18,10,7,27,1,3,1,Y,Yes
+gulfam,sales,33,Male,Married,4,10,3143,3,2,4,80,1,1,1,19,10,8,8,1,4,6,Y,No
+dhalchand,sales,28,Male,Married,3,5,2044,3,1,3,80,4,3,6,11,5,3,1,1,3,1,Y,No
+bishan ram,sales,39,Male,Single,1,4,13464,4,1,3,80,3,2,3,21,4,3,10,1,3,7,Y,No
+ramesh chander gupta,sales,46,Male,Single,2,2,7991,3,1,2,80,2,3,3,15,2,2,26,1,2,8,Y,No
+ishita,sales,40,Female,Married,2,4,3377,3,2,3,80,1,3,5,17,4,3,2,1,3,4,Y,No
+farmaan aamin,sales,42,Male,Married,3,0,5538,3,1,2,80,1,3,2,18,0,0,13,1,4,5,Y,No
+shiv kumar,sales,35,Male,Divorced,2,7,5762,3,2,2,80,4,3,6,14,7,7,2,1,3,2,Y,No
+roshan,sales,38,Male,Divorced,3,11,2592,3,1,1,80,2,2,3,13,11,10,2,1,3,5,Y,No
+ganesh singh,sales,34,Male,Married,4,7,5346,3,1,4,80,1,1,3,17,7,1,9,1,3,4,Y,No
+chanden,sales,37,Male,Single,4,10,4213,3,1,4,80,1,1,4,15,10,3,10,1,3,1,Y,No
+shiva kumar,sales,39,Male,Divorced,3,2,4127,3,1,3,80,4,2,6,18,2,1,20,1,3,2,Y,No
+sandeep kumar sharma,sales,43,Male,Single,3,3,2438,3,1,1,80,3,4,2,13,3,2,9,1,3,4,Y,No
+deepak kumar,sales,41,Male,Single,3,3,6870,3,2,2,80,2,4,3,12,3,2,5,1,4,3,Y,No
+harshita,sales,41,Female,Divorced,1,22,10447,3,1,3,80,3,4,3,13,22,14,4,1,3,0,Y,Yes
+harshali,sales,30,Female,Single,3,7,9667,3,2,1,80,3,4,3,14,7,7,10,1,3,9,Y,No
+chinmayee,sales,26,Female,Married,2,5,2148,3,1,4,80,2,3,3,11,5,1,20,1,3,0,Y,Yes
+mrunmayi,sales,46,Female,Married,2,9,8926,4,2,4,80,2,1,2,22,9,7,21,1,3,4,Y,No
+aarya,sales,40,Female,Divorced,3,5,6513,3,2,3,80,4,4,3,17,5,3,1,1,3,4,Y,No
+nirmal yadav,sales,34,Male,Married,2,10,6799,4,2,2,80,3,3,5,21,10,8,8,1,4,1,Y,No
+ram kishan,sales,58,Male,Divorced,3,16,16291,4,1,2,80,2,3,0,22,16,9,2,1,3,4,Y,No
+avinash,sales,35,Male,Married,4,5,2705,3,2,2,80,3,3,2,16,5,4,23,1,1,0,Y,No
+shriti,sales,47,Female,Divorced,3,22,10333,3,2,3,80,2,1,4,12,22,11,4,1,2,8,Y,Yes
+ishitaa sharma,sales,40,Female,Divorced,3,7,4448,3,2,2,80,1,3,3,12,7,4,12,1,3,2,Y,No
+kanika,sales,54,Female,Married,4,7,6854,3,1,4,80,4,1,2,15,7,1,7,1,3,4,Y,No
+ashnoor,sales,31,Female,Married,4,3,9637,3,1,1,80,1,3,3,14,3,2,7,1,3,2,Y,No
+maira,sales,28,Female,Married,3,3,3591,4,2,3,80,1,4,3,25,3,2,1,1,3,1,Y,No
+nisha,sales,38,Female,Married,4,4,5405,4,2,2,80,4,4,4,20,4,2,2,1,1,2,Y,Yes
+amit,sales,26,Male,Single,3,5,4684,3,1,3,80,4,3,4,13,5,3,10,1,3,1,Y,No
+ram subhak,sales,58,Male,Married,4,2,15787,3,2,1,80,3,1,3,14,2,2,15,1,3,2,Y,Yes
+prithika,sales,18,Female,Single,3,0,1514,3,2,2,80,3,1,4,16,0,0,14,1,3,1,Y,No
+islam,sales,31,Male,Married,5,1,2956,3,2,4,80,1,3,4,17,1,0,18,1,4,0,Y,No
+pankaj,sales,29,Male,Divorced,3,2,2335,3,1,1,80,1,1,3,15,2,2,13,1,2,4,Y,Yes
+prithvi,sales,45,Female,Married,4,8,5154,4,1,3,80,3,1,3,22,8,7,2,1,3,4,Y,No
+riya sharma,sales,36,Female,Married,4,1,6962,4,2,4,80,2,4,2,22,1,0,2,1,3,4,Y,Yes
+sohaib,sales,43,Male,Married,4,7,5675,4,1,1,80,4,4,5,20,7,7,2,1,3,1,Y,No
+tunisha,sales,27,Female,Single,2,5,2379,3,2,4,80,4,2,3,14,5,4,5,1,3,0,Y,Yes
+suraj kumar,sales,29,Male,Married,1,11,3812,3,2,4,80,4,4,3,13,11,8,20,1,3,1,Y,No
+deepak,sales,32,Male,Single,4,0,4648,3,1,4,80,4,4,2,13,0,0,10,1,3,8,Y,No
+ajay kumar s/o,sales,42,Male,Married,4,6,2936,4,2,3,80,3,1,1,22,6,3,10,1,3,3,Y,No
+aaishwarya,sales,47,Female,Single,4,2,2105,3,1,2,80,3,4,2,12,2,2,9,1,3,4,Y,No
+piyush,sales,46,Male,Divorced,2,9,8578,3,1,4,80,4,3,4,14,9,8,2,1,3,3,Y,No
+naresh,sales,28,Male,Divorced,2,3,2706,3,2,3,80,4,1,2,15,3,2,1,1,3,1,Y,No
+hemant,sales,29,Male,Divorced,1,7,6384,3,1,4,80,3,3,3,17,7,0,29,1,1,8,Y,No
+amit,sales,42,Male,Single,3,0,3968,3,1,4,80,3,2,3,13,0,0,8,1,3,4,Y,No
+sanjay,sales,32,Male,Single,4,2,9907,3,1,3,80,2,4,3,12,2,2,2,1,2,7,Y,Yes
+daisy,sales,46,Female,Divorced,3,19,13225,3,1,1,80,1,1,5,12,19,17,3,1,4,2,Y,No
+greysi,sales,27,Female,Married,1,9,3540,4,1,2,80,3,1,5,21,9,8,23,1,2,1,Y,No
+ravindra kumar,sales,29,Male,Married,1,1,2804,3,1,4,80,2,1,3,11,1,0,6,1,2,1,Y,No
+aaradhya varma,sales,43,Female,Married,3,16,19392,3,1,1,80,3,2,2,13,16,12,6,1,2,7,Y,No
+ram parkash teneja,sales,48,Male,Married,3,22,19665,3,2,4,80,2,1,3,12,22,10,10,1,2,4,Y,No
+prem pal,sales,29,Male,Single,2,1,2439,4,2,4,80,4,4,3,24,1,0,24,1,2,1,Y,Yes
+rupal,sales,46,Female,Married,3,8,7314,4,2,3,80,2,4,2,21,8,7,10,1,3,5,Y,No
+rupal yadav,sales,27,Female,Married,3,7,4774,3,2,4,80,1,1,2,19,7,6,15,1,2,0,Y,No
+swami nathan,sales,39,Male,Divorced,4,2,3902,3,2,4,80,4,1,2,14,2,2,19,1,3,8,Y,No
+rakesh panday,sales,55,Male,Married,4,5,2662,4,1,2,80,4,2,2,20,5,2,2,1,2,8,Y,No
+sonal,sales,28,Female,Married,3,1,2856,3,2,2,80,2,2,3,19,1,0,3,1,3,1,Y,No
+harsh,sales,30,Male,Single,3,1,1081,3,2,2,80,4,2,3,13,1,0,9,1,3,1,Y,No
+harsh,sales,22,Male,Single,1,1,2472,4,2,4,80,2,4,2,23,1,0,7,1,3,1,Y,Yes
+aakshra,sales,36,Female,Married,4,10,5673,3,1,2,80,3,3,4,13,10,9,10,1,2,1,Y,Yes
+murari lal maharaj,sales,31,Male,Divorced,3,10,4197,3,1,2,80,3,3,2,11,10,8,20,1,3,1,Y,No
+raja,sales,34,Male,Married,3,5,9713,3,1,3,80,4,3,3,13,5,3,4,1,3,2,Y,Yes
+narayan,sales,29,Male,Single,3,3,2062,3,2,4,80,1,3,2,14,3,2,7,1,3,3,Y,No
+sartaj ali,sales,37,Male,Married,4,5,4284,4,2,4,80,1,3,2,22,5,3,7,1,3,5,Y,Yes
+aaradhya singh,sales,35,Female,Married,2,3,4788,3,1,4,80,2,4,2,11,3,2,16,1,2,0,Y,Yes
+soumya singh,sales,45,Female,Married,2,9,5906,3,2,2,80,4,3,2,13,9,8,25,1,2,0,Y,No
+raja,sales,36,Male,Single,1,10,3886,4,1,2,80,4,4,2,21,10,1,2,1,2,1,Y,No
+jabir hussain,sales,40,Male,Divorced,4,19,16823,3,1,1,80,1,3,3,11,19,7,1,1,3,2,Y,No
+sakshi salve,sales,26,Female,Married,2,1,2933,3,2,2,80,3,4,3,13,1,0,1,1,2,1,Y,Yes
+barkha,sales,27,Female,Single,2,8,6500,3,1,1,80,3,4,5,14,8,7,2,1,4,0,Y,No
+devanshi,sales,48,Female,Divorced,3,22,17174,3,1,4,80,4,3,3,11,22,17,22,1,3,3,Y,No
+anandi lal,sales,44,Male,Married,4,2,5033,3,1,2,80,1,3,5,15,2,0,1,1,4,2,Y,No
+mh. yameen,sales,34,Male,Married,4,5,2307,4,1,4,80,1,3,2,23,5,2,16,1,1,1,Y,Yes
+sajjan,sales,56,Male,Single,2,4,2587,3,1,1,80,4,2,3,16,4,2,24,1,3,1,Y,No
+jatin,sales,36,Male,Married,2,4,5507,3,1,3,80,2,1,1,16,4,2,17,1,2,2,Y,No
+gargee,sales,41,Female,Married,3,5,4393,4,1,3,80,2,4,3,21,5,4,8,1,3,5,Y,No
+partik munchal,sales,42,Male,Married,3,13,13348,3,1,3,80,1,3,3,13,13,7,6,1,3,9,Y,No
+kalpana,sales,31,Female,Divorced,2,5,6583,3,2,3,80,4,2,2,11,5,2,10,1,3,2,Y,Yes
+eshwari,sales,34,Female,Married,1,4,8103,3,1,4,80,4,4,3,12,4,2,3,1,2,3,Y,Yes
+yashvi,sales,31,Female,Divorced,3,2,3978,3,2,1,80,3,3,0,12,2,2,4,1,4,8,Y,No
+manoj jain,sales,26,Male,Married,3,7,2544,3,2,3,80,4,3,3,18,7,7,6,1,4,0,Y,No
+deepak,sales,45,Male,Single,4,4,5399,3,2,2,80,3,3,3,12,4,2,1,1,3,4,Y,No
+salin malhotra,sales,33,Male,Single,4,10,5487,3,2,2,80,3,3,2,14,10,4,10,1,3,1,Y,No
+raj @golu,sales,28,Male,Married,2,7,6834,3,2,3,80,4,4,2,12,7,7,1,1,2,1,Y,Yes
+amit,sales,29,Male,Single,3,1,1091,3,1,3,80,1,2,3,17,1,0,24,1,4,1,Y,No
+shanti,sales,39,Female,Married,4,3,5736,3,2,1,80,3,3,1,19,3,2,21,1,1,6,Y,No
+vinod tiwari,sales,27,Male,Married,4,5,2226,3,1,2,80,2,2,3,11,5,3,2,1,3,1,Y,No
+imran,sales,34,Male,Married,4,15,5747,3,1,3,80,4,2,3,15,15,10,22,1,2,1,Y,Yes
+rita varma,sales,28,Female,Single,2,2,9854,3,2,4,80,3,3,0,11,2,0,13,1,3,3,Y,Yes
+daya ram,sales,47,Male,Married,4,8,5467,3,2,3,80,2,1,4,18,8,7,14,1,3,8,Y,No
+hansika,sales,56,Female,Married,5,0,5380,3,2,4,80,1,1,3,16,0,0,11,1,2,4,Y,No
+sameem,sales,39,Male,Married,2,10,5151,4,1,1,80,1,3,3,25,10,0,9,1,3,1,Y,No
+palak,sales,38,Female,Divorced,3,20,2133,3,2,4,80,2,4,3,16,20,11,8,1,2,1,Y,Yes
+reem,sales,58,Female,Married,3,1,17875,3,2,4,80,4,1,2,13,1,0,21,1,3,4,Y,Yes
+lesha,sales,32,Female,Single,2,4,2432,3,2,1,80,3,3,2,14,4,1,5,1,4,3,Y,Yes
+desh  deepak pandey,sales,38,Male,Divorced,2,5,4771,3,2,2,80,4,3,0,19,5,2,9,1,3,2,Y,No
+shisupal,sales,49,Male,Married,1,5,19161,3,1,2,80,4,1,3,15,5,4,2,1,3,3,Y,No
+vikarm,sales,42,Male,Divorced,4,0,5087,3,2,2,80,4,3,4,12,0,0,12,1,3,3,Y,Yes
+yamika,sales,27,Female,Married,3,1,2863,3,2,1,80,2,2,2,12,1,0,22,1,2,1,Y,No
+abdul salam,sales,35,Male,Married,4,5,5561,3,2,2,80,1,2,2,16,5,3,18,1,3,0,Y,No
+rohit,sales,28,Male,Single,3,5,2144,3,1,3,80,3,2,3,14,5,3,16,1,3,1,Y,No
+ashu,sales,31,Male,Divorced,2,4,3065,3,1,3,80,1,2,3,13,4,2,3,1,3,1,Y,Yes
+shyamveer,sales,36,Male,Married,4,5,2810,4,1,1,80,2,2,3,22,5,4,9,1,4,1,Y,No
+balwant singh,sales,34,Male,Single,3,14,9888,4,1,1,80,4,2,3,21,14,8,1,1,3,1,Y,No
+rajkumar,sales,34,Male,Divorced,4,8,8628,3,1,4,80,3,3,2,18,8,7,13,1,3,1,Y,No
+sahil,sales,26,Male,Single,3,7,2867,3,2,3,80,1,3,6,13,7,7,1,1,3,0,Y,No
+paul nepal,sales,29,Male,Married,3,5,5373,3,1,1,80,1,2,5,12,5,3,1,1,3,0,Y,No
+janya,sales,32,Female,Divorced,4,5,6667,3,1,3,80,4,3,6,18,5,1,15,1,3,5,Y,No
+anil kumar,sales,31,Male,Married,3,10,5003,4,1,4,80,1,1,6,21,10,8,1,1,1,1,Y,No
+harkesh,sales,28,Male,Divorced,3,4,2367,3,1,3,80,4,3,2,12,4,1,17,1,2,5,Y,No
+islam,sales,38,Male,Single,3,1,2858,3,1,1,80,1,2,3,14,1,0,1,1,2,4,Y,No
+kashika,sales,35,Female,Married,4,10,5204,3,2,3,80,4,3,2,11,10,8,7,1,3,1,Y,Yes
+ashu,sales,27,Male,Single,3,7,4105,3,2,4,80,4,4,5,14,7,7,9,1,3,1,Y,No
+anup kumar misgra,sales,32,Male,Single,4,1,9679,4,1,4,80,4,4,1,24,1,0,5,1,2,8,Y,No
+sonu mishra,sales,31,Male,Married,4,10,5617,3,2,1,80,4,3,4,11,10,7,26,1,3,1,Y,Yes
+randhir ram,sales,53,Male,Single,4,2,10448,3,2,1,80,1,3,2,13,2,2,24,1,3,6,Y,Yes
+lalita,sales,54,Female,Married,2,4,2897,3,2,1,80,3,3,6,11,4,3,9,1,3,3,Y,No
+shashikant,sales,33,Male,Divorced,2,9,5968,4,1,4,80,3,1,2,20,9,7,7,1,3,1,Y,No
+aadil sefi,sales,43,Male,Married,3,10,7510,3,1,1,80,3,3,1,17,10,9,11,1,3,1,Y,No
+arvind,sales,38,Male,Married,4,6,2991,3,2,4,80,2,1,2,11,6,2,1,1,3,0,Y,Yes
+jai bhagwan,sales,55,Male,Married,4,10,19636,3,2,3,80,2,3,0,18,10,9,26,1,4,4,Y,Yes
+nihar,sales,31,Female,Divorced,1,1,1129,3,2,4,80,4,1,4,11,1,0,2,1,1,1,Y,Yes
+shiv kumar,sales,39,Male,Single,4,20,13341,3,1,2,80,1,3,3,12,20,8,15,1,3,0,Y,No
+smt. pooja,sales,42,Male,Single,2,20,4332,3,1,4,80,3,3,2,12,20,9,23,1,2,1,Y,No
+pallavi,sales,31,Female,Married,3,11,11031,4,2,3,80,3,2,2,20,11,7,10,1,3,4,Y,No
+raahi,sales,54,Female,Single,3,5,4440,3,2,3,80,1,4,3,19,5,2,10,1,3,6,Y,Yes
+anuj kumar,sales,24,Male,Single,2,4,4617,3,2,2,80,3,2,2,12,4,3,1,1,2,1,Y,No
+mohhmad shahil ragraj,sales,23,Male,Single,2,5,2647,3,2,4,80,4,3,6,13,5,2,12,1,3,1,Y,No
+shalika,sales,40,Female,Married,3,10,6323,3,1,4,80,3,3,2,11,10,9,11,1,3,1,Y,No
+tanika,sales,40,Female,Married,2,11,5677,3,2,2,80,2,3,4,14,11,8,2,1,3,3,Y,No
+upama,sales,25,Female,Married,3,2,2187,3,2,3,80,2,3,3,14,2,0,2,1,3,4,Y,No
+monu@arun,sales,30,Male,Married,2,12,3748,3,2,4,80,2,1,6,13,12,8,1,1,3,1,Y,No
+manoj,sales,25,Male,Divorced,1,2,3977,3,1,4,80,3,4,2,19,2,2,2,1,3,6,Y,Yes
+gauri visht,sales,47,Male,Single,3,17,8633,4,1,1,80,3,1,3,23,17,14,25,1,3,2,Y,No
+punarjyoti lahiri,sales,33,Male,Divorced,2,1,2008,3,2,2,80,3,1,2,12,1,1,1,1,2,1,Y,No
+parteek,sales,38,Male,Married,4,15,4440,3,2,4,80,2,2,3,15,15,13,1,1,3,0,Y,No
+hansraj,sales,31,Male,Married,2,2,3067,3,1,1,80,3,3,1,19,2,2,2,1,3,0,Y,No
+deepak @ deepu,sales,38,Male,Married,4,8,5321,3,2,1,80,3,1,1,11,8,3,6,1,2,2,Y,No
+radha raman,sales,42,Male,Divorced,4,4,5410,3,1,4,80,1,3,3,17,4,3,18,1,3,6,Y,Yes
+mukesh,sales,41,Male,Married,3,5,2782,4,1,4,80,4,4,3,22,5,3,1,1,3,3,Y,No
+devika,sales,47,Female,Married,1,13,11957,3,1,3,80,2,2,3,18,13,8,1,1,3,0,Y,No
+nitin,sales,35,Male,Married,4,2,2660,3,2,4,80,3,4,3,11,2,2,11,1,3,7,Y,Yes
+nadeem,sales,22,Male,Single,2,3,3375,3,1,4,80,3,1,2,12,3,2,1,1,3,0,Y,No
+babu,sales,35,Male,Single,4,10,5098,3,2,2,80,3,1,5,19,10,7,9,1,3,1,Y,No
+eswari,sales,33,Female,Married,2,9,4878,3,2,2,80,4,3,6,13,9,7,15,1,3,0,Y,Yes
+sushila,sales,32,Female,Single,4,6,2837,3,2,3,80,2,3,3,13,6,2,29,1,2,1,Y,No
+sanjiv pathak,sales,40,Male,Married,4,1,2406,3,1,1,80,4,2,3,19,1,0,1,1,3,8,Y,No
+suresh,sales,32,Male,Married,4,2,2269,3,1,2,80,2,1,2,14,2,2,1,1,2,0,Y,No
+deepak,sales,39,Male,Single,1,7,4108,3,2,1,80,4,1,2,13,7,7,24,1,3,7,Y,No
+nidhi,sales,38,Female,Married,3,18,13206,3,1,2,80,3,3,3,12,18,16,10,1,1,3,Y,No
+nidhika,sales,32,Female,Married,4,14,10422,3,1,3,80,4,3,3,19,14,10,1,1,3,1,Y,No
+palomi,sales,37,Female,Married,3,16,13744,4,1,3,80,4,2,2,25,16,11,10,1,4,1,Y,Yes
+raashi,it,25,Female,Divorced,2,5,4907,4,2,1,80,3,4,3,22,5,3,8,1,3,0,Y,Yes
+pardeep,it,52,Male,Divorced,4,9,3482,3,1,1,80,4,2,3,15,9,8,29,1,3,2,Y,No
+nizamuddin @ monu,it,44,Male,Single,3,4,2436,3,2,2,80,4,3,2,12,4,3,1,1,3,6,Y,Yes
+vipin,it,21,Male,Single,1,2,2380,3,1,3,80,1,2,6,11,2,2,5,1,3,1,Y,Yes
+vijay ghimre,it,39,Male,Single,3,6,19431,3,1,4,80,4,2,3,13,6,0,9,1,3,2,Y,No
+rahul paswan,it,23,Male,Married,3,1,1790,3,2,4,80,1,1,3,19,1,0,9,1,3,1,Y,No
+gopi,it,36,Female,Married,3,9,7644,3,1,1,80,4,1,2,19,9,7,3,1,2,0,Y,No
+shalu,it,36,Female,Divorced,2,4,5131,3,2,4,80,2,4,3,13,4,2,4,1,3,7,Y,No
+vishal,it,56,Male,Divorced,4,13,6306,4,2,3,80,3,4,2,21,13,12,1,1,3,1,Y,No
+suman,it,29,Male,Married,4,2,4787,3,1,1,80,4,2,3,14,2,2,1,1,3,9,Y,Yes
+dinesh garg,it,42,Male,Married,3,22,18880,3,1,1,80,3,3,2,11,22,6,2,1,3,5,Y,No
+manish maheshwari,it,56,Male,Married,2,10,2339,3,2,4,80,3,3,4,11,10,9,7,1,3,8,Y,No
+tannu,it,41,Female,Married,4,20,13570,4,1,1,80,2,2,3,23,20,7,28,1,2,0,Y,No
+upasana,it,34,Female,Married,3,8,6712,4,1,4,80,3,3,2,21,8,7,28,1,2,1,Y,No
+yash,it,36,Male,Divorced,4,15,5406,4,2,4,80,4,4,4,24,15,12,15,1,1,1,Y,No
+nand lal meena,it,41,Male,Divorced,3,5,8938,3,1,3,80,2,2,5,11,5,4,3,1,2,2,Y,No
+rani ranjan @ golu,it,32,Male,Single,3,4,2439,3,2,4,80,1,4,4,14,4,2,2,1,3,1,Y,No
+sana,it,35,Female,Single,4,9,8837,3,1,3,80,4,4,2,16,9,0,26,1,3,1,Y,Yes
+veenita,it,38,Female,Married,2,10,5343,3,1,1,80,4,4,1,11,10,7,10,1,3,1,Y,No
+satish kumar,it,50,Male,Divorced,4,6,6728,3,2,2,80,3,3,3,12,6,3,1,1,3,7,Y,No
+upasika,it,36,Female,Married,4,6,6652,3,1,2,80,4,4,2,13,6,3,11,1,2,4,Y,No
+akshita,it,45,Female,Single,3,5,4850,3,1,4,80,3,1,3,15,5,3,20,1,3,8,Y,No
+gautam,it,40,Male,Single,4,2,2809,3,2,3,80,3,4,2,14,2,2,2,1,2,2,Y,No
+asif,it,35,Male,Married,4,10,5689,3,2,3,80,3,2,2,14,10,2,18,1,3,1,Y,Yes
+bhuvana,it,40,Female,Married,4,5,2001,3,1,3,80,3,1,2,14,5,3,2,1,3,2,Y,No
+dharani,it,35,Female,Married,4,4,2977,3,1,3,80,4,2,5,12,4,3,1,1,1,1,Y,No
+raju,it,29,Male,Married,2,4,4025,3,2,4,80,2,3,2,13,4,3,13,1,2,4,Y,Yes
+harsita,it,29,Female,Single,4,5,3785,3,2,4,80,1,3,3,14,5,4,28,1,2,1,Y,No
+sachin verma,it,50,Male,Divorced,3,3,10854,3,2,4,80,1,1,3,13,3,2,28,1,2,4,Y,Yes
+jaspreet,it,39,Female,Married,1,20,12031,3,1,2,80,4,4,2,11,20,9,24,1,2,0,Y,No
+daniel gomes,it,31,Male,Single,3,9,9936,3,1,2,80,1,4,2,19,9,4,5,1,3,0,Y,No
+kavyanshi,it,26,Female,Single,3,4,2966,3,2,4,80,3,2,2,18,4,2,5,1,2,0,Y,No
+ravi kumar,it,36,Male,Married,2,5,2571,3,1,3,80,4,1,3,17,5,2,23,1,4,4,Y,No
+zakir hussain,it,39,Male,Married,1,7,9991,3,2,4,80,1,3,5,15,7,7,6,1,2,4,Y,No
+vikas,it,27,Male,Married,3,6,6142,4,1,2,80,2,4,0,20,6,2,4,1,4,1,Y,Yes
+agyapad bhatya,it,49,Male,Married,3,9,5390,3,1,4,80,2,4,3,14,9,6,2,1,2,2,Y,No
+deepak maan,it,34,Male,Married,3,4,4404,3,1,2,80,3,3,3,12,4,3,8,1,4,2,Y,No
