@@ -13,18 +13,39 @@
         android:orientation="vertical">
 
 
-        <SearchView
-            android:id="@+id/searchView"
-            android:layout_width="360dp"
-            android:layout_height="55dp"
-            android:layout_marginTop="40dp"
-            android:background="@drawable/search_view_border"
-            android:iconifiedByDefault="false"
-            android:paddingEnd="8dp"
-            android:queryHint="Search"
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/materialCardView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="12dp"
+            app:cardUseCompatPadding="true"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.SearchView
+                android:id="@+id/searchView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:iconifiedByDefault="false"
+                app:queryBackground="@android:color/transparent"
+                app:queryHint="Search here ..." />
+
+        </com.google.android.material.card.MaterialCardView>
+<!--        <androidx.appcompat.widget.SearchView-->
+<!--            android:id="@+id/searchView"-->
+<!--            android:layout_width="360dp"-->
+<!--            android:layout_height="55dp"-->
+<!--            android:layout_marginTop="40dp"-->
+<!--            android:background="@drawable/search_view_border"-->
+<!--            android:iconifiedByDefault="false"-->
+<!--            android:paddingEnd="8dp"-->
+<!--            android:queryHint="Search"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintStart_toStartOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/listofData"
@@ -32,7 +53,7 @@
             android:layout_height="0dp"
             android:layout_marginTop="20dp"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/searchView"
+            app:layout_constraintTop_toBottomOf="@id/materialCardView"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
 

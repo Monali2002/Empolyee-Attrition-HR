@@ -40,11 +40,6 @@
         <activity
             android:name=".activity.NavBar"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".activity.LoginPage"
@@ -59,7 +54,13 @@
             android:exported="false" />
         <activity
             android:name=".activity.SplashScreen"
-            android:exported="false" />
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            </activity>
         <activity
             android:name=".activity.MainActivity"
             android:exported="true" />

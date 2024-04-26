@@ -40,7 +40,7 @@
         <EditText
             android:id="@+id/etSinInEmail"
             android:layout_width="match_parent"
-            android:layout_height="48dp"
+            android:layout_height="50dp"
             android:background="@drawable/button_border"
             android:hint="Email ID"
             android:inputType="textEmailAddress"
@@ -69,7 +69,7 @@
         <EditText
             android:id="@+id/etSinInPassword"
             android:layout_width="match_parent"
-            android:layout_height="48dp"
+            android:layout_height="50dp"
             android:background="@drawable/button_border"
             android:hint="Password"
             android:inputType="textPassword"
@@ -230,8 +230,8 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="208dp"
-        android:layout_height="0dp"
+        android:layout_width="207dp"
+        android:layout_height="45dp"
         android:layout_marginBottom="491dp"
         android:fontFamily="@font/crimson_text_semibold"
         android:text="to Insight Check"

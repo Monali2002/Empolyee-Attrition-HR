@@ -9,7 +9,7 @@ import com.example.insightcheck_hr.R
 import com.example.insightcheck_hr.dataClass.Empolyee_data
 import com.example.insightcheck_hr.fragments.Search
 
-class DataAdapter (private val empolyeeList : ArrayList<Empolyee_data>) :RecyclerView.Adapter<DataAdapter.ViewHolder>() {
+class DataAdapter (private var empolyeeList : ArrayList<Empolyee_data>) :RecyclerView.Adapter<DataAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val itemView = LayoutInflater.from(parent.context).inflate(R.layout.custom_layout, parent, false)
@@ -33,5 +33,10 @@ class DataAdapter (private val empolyeeList : ArrayList<Empolyee_data>) :Recycle
 
         val empName :TextView = itemView.findViewById(R.id.tvName)
         val empDept :TextView = itemView.findViewById(R.id.tvDept)
+    }
+
+    fun setFilteredList(empolyeeList : ArrayList<Empolyee_data>){
+        this.empolyeeList = empolyeeList
+        notifyDataSetChanged()
     }
 }
