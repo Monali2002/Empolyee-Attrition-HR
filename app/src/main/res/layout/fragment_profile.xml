@@ -154,11 +154,11 @@
                     android:src="@drawable/btn_3" />
 
                 <TextView
-                    android:id="@+id/legal_tv"
+                    android:id="@+id/suggestion_tv"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
-                    android:text="Legal Policies"
+                    android:text="Suggestion"
                     android:textColor="@color/Purple40"
                     android:textSize="20sp"
                     android:textStyle="bold"
